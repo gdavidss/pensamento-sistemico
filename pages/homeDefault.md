@@ -1,4 +1,5 @@
 id:: home
+title:: homeDefault
 ---
 layout: page
 title: homeDefault
