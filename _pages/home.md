@@ -8,4 +8,6 @@ permalink: /
 - [[cibernética]]
 - [[complexidade]]
 - [[metacognição]]
--
+- [[sistemas]]
+- [[estrutura]]
+- [[realidade]]
