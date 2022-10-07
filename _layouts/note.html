@@ -3,21 +3,20 @@ layout: default
 ---
 
 <article>
+  {% if page.title != "home" %}
   <div>
     <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      última atualização em {% include locale-date.html %} 
-      {% endif %}
-    </time>
   </div>
+  {% endif %}
 
   <div id="notes-entry-container">
     <content>
       {{ content }}
     </content>
 
+    {% if page.title != "home" %}
     <side style="font-size: 0.9em">
-      <h3 style="margin-bottom: 1em">notas mencionando esta nota</h3>
+      <h3 style="margin-bottom: 1em">notas conectadas</h3>
       {% if page.backlinks.size > 0 %}
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
       {% for backlink in page.backlinks %}
@@ -31,16 +30,16 @@ layout: default
 
       <div style="font-size: 0.9em">
         <p>
-          não há nenhuma nota linkando esta nota.
+          nenhuma
         </p>
       </div>
       {% endif %}
     </side>
   </div>
+  {% endif %}
+
 </article>
 
 <hr>
-
-<p>Todas as notas deste grafo:</p>
 
 {% include notes_graph.html %}
