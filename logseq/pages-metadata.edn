@@ -35,7 +35,7 @@
   :block/updated-at 1665104345056}
  {:block/name "cibernética",
   :block/created-at 1665149545440,
-  :block/updated-at 1665149545440}
+  :block/updated-at 1665150026542}
  {:block/name "consistency",
   :block/created-at 1665104345023,
   :block/updated-at 1665104345023}
@@ -54,6 +54,9 @@
  {:block/name "favorites",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
+ {:block/name "fazer",
+  :block/created-at 1665150026542,
+  :block/updated-at 1665150048859}
  {:block/name "home",
   :block/created-at 1665106210906,
   :block/updated-at 1665106826711}
