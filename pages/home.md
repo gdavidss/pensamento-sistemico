@@ -1,7 +1,7 @@
-- ---
-- layout: page
-- title: home
-- id: home
-- permalink: /
-- **---**
--
+---
+layout: page
+title: home
+id: home
+permalink: /
+---
+- teste
