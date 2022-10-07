@@ -1,3 +1,4 @@
+-
 - A cibernética é difícil de definir.
 - e isso é uma merda.
 - nós precisamos de uma definição não-ambígua para sermos entendidos
