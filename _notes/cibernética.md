@@ -1,10 +1,6 @@
 ---
+title: cibernética
 ---
 
-- ---
-- layout: page
-- title: cibernética
-- id: cibernética
-- permalink: /cibernetica
-- ---
--
+- teste 
+- dessa porra
