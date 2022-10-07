@@ -36,6 +36,9 @@
  {:block/name "cibernética",
   :block/created-at 1665149545440,
   :block/updated-at 1665150026542}
+ {:block/name "complexidade",
+  :block/created-at 1665170524991,
+  :block/updated-at 1665170592762}
  {:block/name "consistency",
   :block/created-at 1665104345023,
   :block/updated-at 1665104345023}
@@ -51,6 +54,9 @@
  {:block/name "done",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
+ {:block/name "estrutura",
+  :block/created-at 1665170573871,
+  :block/updated-at 1665170614902}
  {:block/name "favorites",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
@@ -59,7 +65,7 @@
   :block/updated-at 1665150048859}
  {:block/name "home",
   :block/created-at 1665106210906,
-  :block/updated-at 1665106826711}
+  :block/updated-at 1665170576309}
  {:block/name "homedefault",
   :block/created-at 1665104345197,
   :block/updated-at 1665106293555}
@@ -75,6 +81,12 @@
  {:block/name "layout",
   :block/created-at 1665104345196,
   :block/updated-at 1665104345196}
+ {:block/name "meta",
+  :block/created-at 1665170278561,
+  :block/updated-at 1665170278561}
+ {:block/name "metacognição",
+  :block/created-at 1665170531965,
+  :block/updated-at 1665170598967}
  {:block/name "mit license",
   :block/created-at 1665104345124,
   :block/updated-at 1665104345124}
@@ -89,16 +101,22 @@
   :block/updated-at 1665104786577}
  {:block/name "oct 6th, 2022",
   :block/created-at 1665104458787,
-  :block/updated-at 1665106693369}
+  :block/updated-at 1665170296888}
  {:block/name "oct 7th, 2022",
   :block/created-at 1665111603249,
-  :block/updated-at 1665111603249}
+  :block/updated-at 1665170446293}
  {:block/name "permalink",
   :block/created-at 1665104345196,
   :block/updated-at 1665104345196}
  {:block/name "readme",
   :block/created-at 1665104345124,
   :block/updated-at 1665104345124}
+ {:block/name "realidade",
+  :block/created-at 1665170576309,
+  :block/updated-at 1665170620201}
+ {:block/name "sistemas",
+  :block/created-at 1665170560420,
+  :block/updated-at 1665170605475}
  {:block/name "there is no note that matches this link",
   :block/created-at 1665104345054,
   :block/updated-at 1665104345054}
