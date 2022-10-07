@@ -34,8 +34,8 @@
   :block/created-at 1665104345056,
   :block/updated-at 1665104345056}
  {:block/name "cibernética",
-  :block/created-at 1665104345188,
-  :block/updated-at 1665104345188}
+  :block/created-at 1665106932200,
+  :block/updated-at 1665107037151}
  {:block/name "consistency",
   :block/created-at 1665104345023,
   :block/updated-at 1665104345023}
@@ -56,7 +56,7 @@
   :block/updated-at 1665104786577}
  {:block/name "home",
   :block/created-at 1665106210906,
-  :block/updated-at 1665106268122}
+  :block/updated-at 1665106826711}
  {:block/name "homedefault",
   :block/created-at 1665104345197,
   :block/updated-at 1665106293555}
@@ -86,7 +86,7 @@
   :block/updated-at 1665104786577}
  {:block/name "oct 6th, 2022",
   :block/created-at 1665104458787,
-  :block/updated-at 1665106194016}
+  :block/updated-at 1665106693369}
  {:block/name "permalink",
   :block/created-at 1665104345196,
   :block/updated-at 1665104345196}
