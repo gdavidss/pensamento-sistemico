@@ -1,3 +1,0 @@
-- bem-vindo ao [[jardim digital]] do sinal algedônico
-- o objetivo desse espaço é falar sobre [[cibernética]]
--
