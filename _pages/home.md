@@ -5,5 +5,7 @@ id: home
 permalink: /
 ---
 
-- seja-bem vindo ao jardim digital do sinal algedônico.
-- acesse [[cibernética]]
+- [[cibernética]]
+- [[complexidade]]
+- [[metacognição]]
+-
