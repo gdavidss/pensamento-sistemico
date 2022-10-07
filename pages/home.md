@@ -1,0 +1,7 @@
+- ---
+- layout: page
+- title: home
+- id: home
+- permalink: /
+- **---**
+-
