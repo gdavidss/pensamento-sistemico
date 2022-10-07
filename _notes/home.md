@@ -7,6 +7,7 @@ permalink: /
 
 - [[cibernética]]
 - [[complexidade]]
+- [[informação]]
 - [[metacognição]]
 - [[sistemas]]
 - [[estrutura]]

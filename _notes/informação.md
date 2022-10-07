@@ -1,0 +1,3 @@
+- informação não é dado.
+- dado não é informação.
+- informação foi descrita matematicamente primeiro por [https://en.wikipedia.org/wiki/Claude_Shannon](Claude shannon)
