@@ -9,7 +9,7 @@ end
 Jekyll::Hooks.register [:pages], :post_convert do |doc|
   # jekyll considers anything at the root as a page,
   # we only want to consider actual pages
-  next unless doc.path.start_with?('pages/')
+  next unless doc.path.start_with?('_pages/')
   replace(doc)
 end
 
