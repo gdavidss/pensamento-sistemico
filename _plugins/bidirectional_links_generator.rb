@@ -16,7 +16,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     all_docs.each do |current_note|
       all_docs.each do |note_potentially_linked_to|
         note_title_regexp_pattern = Regexp.escape(
-          File.basename (
+          File.basename(
             note_potentially_linked_to.basename,
             File.extname(note_potentially_linked_to.basename)
           )
