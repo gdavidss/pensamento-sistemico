@@ -1,0 +1,1 @@
+- TODO Identify and fix bug of home markdown file pointing to infomr
