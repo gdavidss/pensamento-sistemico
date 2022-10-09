@@ -42,6 +42,9 @@
  {:block/name "cibernética",
   :block/created-at 1665149545440,
   :block/updated-at 1665150026542}
+ {:block/name "comece com um brinquedo",
+  :block/created-at 1665319750686,
+  :block/updated-at 1665320069111}
  {:block/name "complexidade",
   :block/created-at 1665170524991,
   :block/updated-at 1665170592762}
@@ -122,7 +125,7 @@
   :block/updated-at 1665278639449}
  {:block/name "oct 9th, 2022",
   :block/created-at 1665284848911,
-  :block/updated-at 1665284848911}
+  :block/updated-at 1665319750687}
  {:block/name "permalink",
   :block/created-at 1665104345196,
   :block/updated-at 1665104345196}
