@@ -1,7 +1,6 @@
----
----
-
-- *Sintetizado de [Gordon Brander - Start with a toy](https://gordonbrander.com/pattern/start-with-a-toy/)*
+- ---
+  ---*
+- Sintetizado de [Gordon Brander - Start with a toy](https://gordonbrander.com/pattern/start-with-a-toy/)*
 - Comece com um brinquedo.
 - https://twitter.com/jack/status/20
 - Ao criar o design de algo novo, comece com um brinquedo.
