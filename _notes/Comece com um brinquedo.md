@@ -1,5 +1,5 @@
 - Comece com um brinquedo
-- Ao projetar algo novo, comece com um brinquedo
+- Ao design algo novo, comece com um brinquedo
 - Brinquedos são divertidos. Começar com um força você a criar algo desejável desde o início.
 - Brinquedos convidam as pessoas a brincar. Brincar é como nós aprendemos coisas novas.
   Brinquedos não têm objetivos dirigidos. Quando algo é realmente novo, você não sabe para o que é bom. Casos de uso - ainda não existem. Um brinquedo permite que você encontre seu caso de uso através da exploração.
@@ -9,9 +9,7 @@
 - #+BEGIN_QUOTE
   Se funcionar, ele é obsoleto.
   #+END_QUOTE
-  -- Marshall Mcluhan
+- -- Marshall Mcluhan
 - "Mensurável" significa que outra pessoa chegou lá primeiro e o mediu. "Segmento do usuário" significa que outra pessoa chegou lá primeiro e o segmentou.
-  
-  Se algo é novo, ele ainda tem que ser medido. Ele não tem usuários. Ele também não tem concorrência.
-  
-  Comece com um brinquedo.
+- Se algo é novo, ele ainda tem que ser medido. Ele não tem usuários. Ele também não tem concorrência.
+- Comece com um brinquedo.
