@@ -1,1 +1,3 @@
-- TODO Identify and fix bug of home markdown file pointing to infomr
+- TODO Identify and fix bug of home markdown file pointing to informação
+- TODO **Font**
+	- TODO Font research
