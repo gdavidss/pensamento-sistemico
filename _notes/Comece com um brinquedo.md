@@ -1,8 +1,7 @@
 ---
 ---
 
-- *Sintetizado de:*
-	- [Gordon Brander - Start with a toy](https://gordonbrander.com/pattern/start-with-a-toy/)
+- *Sintetizado de [Gordon Brander - Start with a toy](https://gordonbrander.com/pattern/start-with-a-toy/)*
 - Comece com um brinquedo.
 - Ao criar o design de algo novo, comece com um brinquedo.
 	- Brinquedos são divertidos. Começar com um deles força você a criar algo desejável desde o início.
