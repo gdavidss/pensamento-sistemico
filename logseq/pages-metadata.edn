@@ -36,6 +36,9 @@
   "cats|link to the note about cats using the note's filename",
   :block/created-at 1665104345056,
   :block/updated-at 1665104345056}
+ {:block/name "chaos",
+  :block/created-at 1665276994183,
+  :block/updated-at 1665276994183}
  {:block/name "cibernética",
   :block/created-at 1665149545440,
   :block/updated-at 1665150026542}
@@ -90,6 +93,9 @@
  {:block/name "meta",
   :block/created-at 1665170278561,
   :block/updated-at 1665170278561}
+ {:block/name "metacognition",
+  :block/created-at 1665276993283,
+  :block/updated-at 1665276993283}
  {:block/name "metacognição",
   :block/created-at 1665170531965,
   :block/updated-at 1665170598967}
