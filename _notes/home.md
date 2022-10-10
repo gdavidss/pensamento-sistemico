@@ -13,3 +13,5 @@ permalink: /
 - [[cibernética]]
 - [[dinâmica não-linear]]
 - [[teoria dos jogos]]
+- [[metacognição]]
+- [[complexidade]]
