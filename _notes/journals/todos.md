@@ -6,5 +6,7 @@
 - TODO Graph
 	- TODO Identify and fix bug of home markdown file pointing to informação
 	- TODO Adjust graph width
+	- TODO Get selected node
+	- TODO Center graph around selected node
 	- TODO Change color of selected node
-	- TODO Prune node
+	- TODO Prune node after 2 edges based on selected node
