@@ -8,3 +8,4 @@ title: cibernética
 - [[feedback]]
 - [[autoreferência]]
 - [[pensamento sistêmico]]
+- [[sistemas]]
