@@ -1,0 +1,1 @@
+- [[limitação da racionalidade]]
