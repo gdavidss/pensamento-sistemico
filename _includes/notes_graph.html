@@ -18,7 +18,7 @@
   .nodes [active],
   .text [active] {
     cursor: pointer;
-    fill: rgb(255, 255, 255);
+    fill: rgb(246, 225, 0);
   }
 
   .inactive {
@@ -182,12 +182,14 @@
 
         const reportWindowSize = () => {
           console.log("windows was resized");
-          const graphWrapper = document.getElementById('graph-wrapper')
+          const graphWrapper = document.getElementById('graph-wrapper');
+          
+          // GD 
+          // console.log(element);
+          // console.log(`height of graph: ${graphWrapper.getBoundingClientRect().height}`)
+          // console.log(`width of graph: ${graphWrapper.getBoundingClientRect().width}`)
 
-          console.log(`height of graph: ${graphWrapper.getBoundingClientRect().height}`)
-          console.log(`width of graph: ${graphWrapper.getBoundingClientRect().width}`)
-
-          element.setAttribute("width", window.innerWidth);
+          element.setAttribute("width", window.innerWidth / 2);
           element.setAttribute("height", window.innerHeight);
         };
 
@@ -311,10 +313,12 @@
         zoomHandler(svg);
         restart();
 
+
         function isCurrentPath(notePath) {
           return window.location.pathname.includes(notePath)
         }
 
+        // Shorten a string if it exceeds a max length
         function shorten(str, maxLen, separator = ' ') {
           if (str.length <= maxLen) return str;
           return str.substr(0, str.lastIndexOf(separator, maxLen)) + '...';
