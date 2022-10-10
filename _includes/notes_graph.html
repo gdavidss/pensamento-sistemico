@@ -180,12 +180,12 @@
         graphWrapper.appendChild(element);
 
         const reportWindowSize = () => {
+          console.log(/)
           element.setAttribute("width", window.innerWidth);
           element.setAttribute("height", window.innerHeight);
         };
 
         window.onresize = reportWindowSize;
-        console.log(wi)
 
         const svg = d3.select("svg");
         const width = Number(svg.attr("width"));
