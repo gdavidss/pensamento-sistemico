@@ -1,3 +1,6 @@
+---
+---
+
 - [[escala]]
 - [[rede sem escala]]
 - [[redes dinâmicas]]
