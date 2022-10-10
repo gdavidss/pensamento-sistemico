@@ -35,7 +35,6 @@
 
 <div id="graph-wrapper">
   <script>
-    a = null;
     var commentFlag = true;
     
     window.addEventListener("load", loadGraph);
@@ -90,6 +89,7 @@
           console.log("printing d")
           a = d;
           window.location = d.path
+          
         };
 
         const onMouseover = function (d) {
