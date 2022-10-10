@@ -4,10 +4,10 @@
 - TODO **Font**
 	- TODO Font research
 - TODO Graph
-	- TODO Identify and fix bug of home markdown file pointing to informação
+	- TODO Identify and fix bug of home markdown file pointing to unconnected nodes
 	- TODO Adjust graph width
-	- TODO Get selected node
+	- DONE Get selected node
 	- TODO Center graph around selected node
-	- TODO Fix bug of home showing up as selected
+	- TODO Fix bug of home always showing up as selected
 	- DONE Change color of selected node
 	- TODO Prune node after 2 edges based on selected node
