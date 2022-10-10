@@ -179,7 +179,7 @@
         element.setAttribute("height", window.innerHeight * 0.8);
         graphWrapper.appendChild(element);
 
-        
+
         const reportWindowSize = () => {
           console.log("windows was resized");
           const graphWrapper = document.getElementById('graph-wrapper')
@@ -191,6 +191,8 @@
           element.setAttribute("height", window.innerHeight);
         };
 
+        // GD eu preciso de duas coisas na função de window.onresize
+        // 1) ajustar o width para se manter consistente com um padding de 4vh[]
         window.onresize = reportWindowSize;
 
         const svg = d3.select("svg");
