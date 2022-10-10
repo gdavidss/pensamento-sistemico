@@ -7,4 +7,4 @@ title: cibernética
 - [[entropia]]
 - [[feedback]]
 - [[autoreferência]]
--
+- [[pensamento sistêmico]]
