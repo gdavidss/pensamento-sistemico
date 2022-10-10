@@ -199,6 +199,8 @@
         // 3) usar o resize function acima para zoom out o graph apropriadamente
         window.onresize = reportWindowSize;
 
+        console.log(d3) 
+
         const svg = d3.select("svg");
         const width = Number(svg.attr("width"));
         const height = Number(svg.attr("height"));
