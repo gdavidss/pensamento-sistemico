@@ -192,7 +192,9 @@
         };
 
         // GD eu preciso de duas coisas na função de window.onresize
-        // 1) ajustar o width para se manter consistente com um padding de 4vh[]
+        // 1) ajustar o width para se manter consistente com um padding de 4vh
+        // 2) ajustar o height para se manter consistente com alguma métrica ainda a definir
+        // 3) usar o resize function acima para zoom out o graph apropriadamente
         window.onresize = reportWindowSize;
 
         const svg = d3.select("svg");
