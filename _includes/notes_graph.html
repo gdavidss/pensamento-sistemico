@@ -86,6 +86,7 @@
         };
 
         const onClick = (d) => {
+          console.log("printing d")
           console.log(d)
           window.location = d.path
         };
@@ -182,7 +183,6 @@
 
 
         const reportWindowSize = () => {
-          console.log("windows was resized");
           const graphWrapper = document.getElementById('graph-wrapper');
           
           // GD 
@@ -199,8 +199,6 @@
         // 2) ajustar o height para se manter consistente com alguma métrica ainda a definir
         // 3) usar o resize function acima para zoom out o graph apropriadamente
         window.onresize = reportWindowSize;
-
-        console.log(d3) 
 
         const svg = d3.select("svg");
         const width = Number(svg.attr("width"));
