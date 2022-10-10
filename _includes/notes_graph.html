@@ -35,6 +35,7 @@
 
 <div id="graph-wrapper">
   <script>
+    a = null;
     var commentFlag = true;
     
     window.addEventListener("load", loadGraph);
@@ -87,7 +88,7 @@
 
         const onClick = (d) => {
           console.log("printing d")
-          console.log(d)
+          a = d;
           window.location = d.path
         };
 
