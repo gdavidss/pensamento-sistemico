@@ -180,8 +180,10 @@
         graphWrapper.appendChild(element);
 
         const reportWindowSize = () => {
-          console.log("windows was resized´);
-          console.log("window: ${}")
+          console.log("windows was resized");
+          const graphWrapper = document.getElementById('graph-wrapper')
+
+          console.log(`height of graph: ${}`)
           element.setAttribute("width", window.innerWidth);
           element.setAttribute("height", window.innerHeight);
         };
