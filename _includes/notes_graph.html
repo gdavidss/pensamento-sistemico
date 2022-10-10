@@ -98,6 +98,8 @@
               relatedNodesSet.add(n.target.id);
               relatedNodesSet.add(n.source.id);
             });
+            
+            console.log(relatedNodesSet);
 
           node.attr("class", (node_d) => {
             if (node_d.id !== d.id && !relatedNodesSet.has(node_d.id)) {
