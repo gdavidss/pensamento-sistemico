@@ -183,7 +183,9 @@
           console.log("windows was resized");
           const graphWrapper = document.getElementById('graph-wrapper')
 
-          console.log(`height of graph: ${}`)
+          console.log(`height of graph: ${graphWrapper.getBoundingClientRect().height}`)
+          console.log(`width of graph: ${graphWrapper.getBoundingClientRect().width}`)
+          
           element.setAttribute("width", window.innerWidth);
           element.setAttribute("height", window.innerHeight);
         };
