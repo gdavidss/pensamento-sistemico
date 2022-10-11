@@ -1,3 +1,6 @@
+---
+---
+
 - TODO **Graph**
 	- TODO Identify and fix bug of home markdown file pointing to unconnected nodes
 	- TODO Adjust graph width
