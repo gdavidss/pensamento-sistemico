@@ -299,7 +299,8 @@
             .on("mouseover", onMouseover)
             .on("mouseout", onMouseout)
             .merge(text);
-
+          
+            
           node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
           text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
 
