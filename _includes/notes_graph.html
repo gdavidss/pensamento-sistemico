@@ -304,9 +304,8 @@
           // Ideia: tentar os dois jeitos e ver o que é melhor
           node.each(function(d) {
            if (isCurrentPath(d.path)) {
-                console.log(element)
-                d.fy = window.innerWidth / 2;
-                d.fx = window.innerWidth / 2;
+                d.fy = element.width.animVal.value / 2;
+                d.fx = element.width.animVal.value / 2;
             }
           })
          
