@@ -65,7 +65,6 @@
         const graphData = {% include notes_graph.json %}
         let nodesData = graphData.nodes;
         let linksData = graphData.edges;
-        console.log(nodesData);
 
         const nodeSize = {};
 
@@ -100,8 +99,6 @@
               relatedNodesSet.add(n.source.id);
             });
             
-            console.log(relatedNodesSet);
-
           node.attr("class", (node_d) => {
             if (node_d.id !== d.id && !relatedNodesSet.has(node_d.id)) {
               return "inactive";
@@ -270,7 +267,7 @@
         const restart = () => {
           updateNodeSize();
           node = node.data(nodesData, (d) => d.id);
-          console.log(node)
+          console.log(node);
           node.exit().remove();
           node = node
             .enter()
@@ -303,10 +300,6 @@
           
           node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
           text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
-          
-          if (isCurrentPath(d.path)) {
-            console.log()
-          }
 
           simulation.nodes(nodesData);
           simulation.force("link").links(linksData);
