@@ -270,6 +270,7 @@
         const restart = () => {
           updateNodeSize();
           node = node.data(nodesData, (d) => d.id);
+          console.log(node)
           node.exit().remove();
           node = node
             .enter()
@@ -302,6 +303,10 @@
           
           node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
           text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+          
+          if (isCurrentPath(d.path)) {
+            console.log()
+          }
 
           simulation.nodes(nodesData);
           simulation.force("link").links(linksData);
