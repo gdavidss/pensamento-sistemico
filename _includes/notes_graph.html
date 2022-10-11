@@ -189,7 +189,7 @@
           const graphWrapper = document.getElementById('graph-wrapper');
           
           // GD checar se a window está sendo resizing apropriadamente ou deveria ser que nem acima
-          //console.log(`height of element BEFORE: ${element.innerHeight}`);
+          // console.log(`height of element BEFORE: ${element.innerHeight}`);
           // console.log(`width of element BEFORE: ${element.innerWidth}`);
           
           // element is equal to svg here
@@ -302,11 +302,10 @@
           // GD isso não funcionou, mas o que a gente quer não é necessariamente 
           // rearranjar o centro da simulação e sim simplesmente arrastar todo o grafo para o centro 
           // Ideia: tentar os dois jeitos e ver o que é melhor 
-          console.log();
+          console.log(element);
           node.each(function(d) {
             console.log(d)
            if (isCurrentPath(d.path)) {
-                console.log("found current node");
                 d.fy = 180;
                 d.fx = 180;
             }
@@ -314,7 +313,6 @@
          
           //node.attr(d.fx, (d) => isCurrentPath(d.path) ? window.innerWidth / 2: null);
           //node.attr(d.fy, (d) => isCurrentPath(d.path) ? window.innerHeight / 2: null);
-          console.log(nodesData);
           simulation.nodes(nodesData);
           simulation.force("link").links(linksData);
           simulation.alpha(1).restart();
