@@ -300,9 +300,10 @@
           text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
 
           // GD isso não funcionou, mas o que a gente quer não é necessariamente 
-          // rearranjar o centro da simulação e sim simplesmente  
-          // node.attr("fx", (d) => isCurrentPath(d.path) ? window.innerWidth / 2: null);
-          // node.attr("fy", (d) => isCurrentPath(d.path) ? window.innerHeight / 2: null);
+          // rearranjar o centro da simulação e sim simplesmente arrastar todo o grafo para o centro 
+          // Ideia: tentar os dois jeitos e ver o que é melhor 
+          node.attr("fx", (d) => isCurrentPath(d.path) ? window.innerWidth / 2: null);
+          node.attr("fy", (d) => isCurrentPath(d.path) ? window.innerHeight / 2: null);
 
           simulation.nodes(nodesData);
           simulation.force("link").links(linksData);
