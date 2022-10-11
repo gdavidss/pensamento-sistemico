@@ -181,10 +181,9 @@
         element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
         element.setAttribute("height", window.innerHeight * 0.8);
         
-        console.log(`width of element BEFORE: {}`);
-        console.log(``);
+        console.log(`height of element BEFORE: ${element.innerHeight}`);
+        console.log(`width of element AFTER: ${element.innerWidth}`);
         graphWrapper.appendChild(element);
-
 
         const reportWindowSize = () => {
           const graphWrapper = document.getElementById('graph-wrapper');
@@ -194,8 +193,10 @@
           // console.log(`height of graph: ${graphWrapper.getBoundingClientRect().height}`)
           // console.log(`width of graph: ${graphWrapper.getBoundingClientRect().width}`)
           // element is equal to svg here
+          console.log(`height of element BEFORE: ${element.innerHeight}`);
+        console.log(`width of element AFTER: ${element.innerWidth}`);
           element.setAttribute("width", window.innerWidth);
-          element.setAttribute("height", window.innerHeight * 0.8);
+          element.setAttribute("height", window.innerHeight);
         };
 
         // GD eu preciso de duas coisas na função de window.onresize
