@@ -303,10 +303,13 @@
           // rearranjar o centro da simulação e sim simplesmente arrastar todo o grafo para o centro 
           // Ideia: tentar os dois jeitos e ver o que é melhor
           console.log(element.height)
+          console.log(element.innerHeight)
+          console.log(element.inner)
+          
           node.each(function(d) {
            if (isCurrentPath(d.path)) {
-                d.fy = element.height;
-                d.fx = element.width;
+                d.fy = 180;
+                d.fx = 180;
             }
           })
          
