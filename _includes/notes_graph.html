@@ -302,12 +302,14 @@
           // GD isso não funcionou, mas o que a gente quer não é necessariamente 
           // rearranjar o centro da simulação e sim simplesmente arrastar todo o grafo para o centro 
           // Ideia: tentar os dois jeitos e ver o que é melhor 
-          node.forEach((d) => if (isCurrentPath(node.path)) {
-            console.log("found current node")
-            console.log(node)
-            node.y = element.innerHeight / 2;
-            node.x = element.innerWidth / 2 ;
-          )
+          node.forEach(function(d) {
+             if (isCurrentPath(node.path)) {
+                console.log("found current node");
+                console.log(node);
+                node.y = element.innerHeight / 2;
+                node.x = element.innerWidth / 2 ;
+          }
+        })
          
           //node.attr(d.fx, (d) => isCurrentPath(d.path) ? window.innerWidth / 2: null);
           //node.attr(d.fy, (d) => isCurrentPath(d.path) ? window.innerHeight / 2: null);
