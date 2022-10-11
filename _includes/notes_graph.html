@@ -191,10 +191,11 @@
           // GD checar se a window está sendo resizing apropriadamente ou deveria ser que nem acima
           // console.log(`height of element BEFORE: ${element.innerHeight}`);
           // console.log(`width of element BEFORE: ${element.innerWidth}`);
-          
+
           // element is equal to svg here
           element.setAttribute("width", window.innerWidth);
           element.setAttribute("height", window.innerHeight);
+          restart();
         };
 
         // GD eu preciso de duas coisas na função de window.onresize
