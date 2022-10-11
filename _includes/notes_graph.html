@@ -298,6 +298,8 @@
           
           node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
           text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+          node.attr("fx", (d) => window.innerHeight / 2).attr("fy", (d) => d.y);
+
 
           simulation.nodes(nodesData);
           simulation.force("link").links(linksData);
