@@ -180,6 +180,9 @@
         const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
         element.setAttribute("height", window.innerHeight * 0.8);
+        
+        console.log(`width of element BEFORE: {}`);
+        console.log(``);
         graphWrapper.appendChild(element);
 
 
@@ -192,7 +195,7 @@
           // console.log(`width of graph: ${graphWrapper.getBoundingClientRect().width}`)
           // element is equal to svg here
           element.setAttribute("width", window.innerWidth);
-          element.setAttribute("height", window.innerHeight);
+          element.setAttribute("height", window.innerHeight * 0.8);
         };
 
         // GD eu preciso de duas coisas na função de window.onresize
