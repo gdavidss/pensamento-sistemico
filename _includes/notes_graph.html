@@ -303,7 +303,8 @@
           // rearranjar o centro da simulação e sim simplesmente arrastar todo o grafo para o centro 
           // Ideia: tentar os dois jeitos e ver o que é melhor 
           if (isCurrentPath(node.path)) {
-
+            node.fy = element.innerHeight / 2;
+            node.fx = element.innerWidth / 2 ;
           } 
           //node.attr(d.fx, (d) => isCurrentPath(d.path) ? window.innerWidth / 2: null);
           //node.attr(d.fy, (d) => isCurrentPath(d.path) ? window.innerHeight / 2: null);
