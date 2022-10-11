@@ -304,9 +304,8 @@
           // Ideia: tentar os dois jeitos e ver o que é melhor 
           console.log(element);
           node.each(function(d) {
-            console.log(d)
            if (isCurrentPath(d.path)) {
-                d.fy = 180;
+                d.fy = element.height / 2;
                 d.fx = 180;
             }
           })
