@@ -309,8 +309,6 @@
             }
           })
          
-          //node.attr(d.fx, (d) => isCurrentPath(d.path) ? window.innerWidth / 2: null);
-          //node.attr(d.fy, (d) => isCurrentPath(d.path) ? window.innerHeight / 2: null);
           simulation.nodes(nodesData);
           simulation.force("link").links(linksData);
           simulation.alpha(1).restart();
