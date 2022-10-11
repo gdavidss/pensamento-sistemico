@@ -267,7 +267,6 @@
         const restart = () => {
           updateNodeSize();
           node = node.data(nodesData, (d) => d.id);
-          console.log(node);
           node.exit().remove();
           node = node
             .enter()
@@ -279,7 +278,6 @@
             .on("mouseover", onMouseover)
             .on("mouseout", onMouseout)
             .merge(node);
-
           link = link.data(linksData, (d) => `${d.source.id}-${d.target.id}`);
           link.exit().remove();
           link = link.enter().append("line").attr("stroke-width", STROKE).merge(link);
