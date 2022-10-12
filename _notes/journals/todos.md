@@ -3,6 +3,7 @@
 
 - TODO **Graph**
 	- TODO Identify and fix bug of home markdown file pointing to unconnected nodes
+		- bug description: the regex is marking as active any string that c
 	- TODO Adjust graph width
 	- TODO Fix bug of home always showing up as selected
 	- TODO Prune node after 2 edges based on selected node
