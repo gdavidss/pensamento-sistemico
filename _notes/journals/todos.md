@@ -3,7 +3,7 @@
 
 - TODO **Graph**
 	- TODO Identify and fix bug of home markdown file pointing to unconnected nodes
-		- bug description: the regex is marking as active any string that c
+		- bug description: the algorithm is marking as an active node any string that simply matches, from left to right, the permalink of the selected node. Solution involves creating a better regex specification (if it's really a regex problem)
 	- TODO Adjust graph width
 	- TODO Fix bug of home always showing up as selected
 	- TODO Prune node after 2 edges based on selected node
