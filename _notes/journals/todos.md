@@ -16,5 +16,5 @@
 		- bug description: the algorithm is marking as an active node any string that simply matches, from left to right, the permalink of the selected node. Solution involves getting rid of the includes() method in isCurrentPath
 	- DONE Fix bug of home always showing up as selected
 	- DONE Center graph around selected node
-	- DONE Change color of selected node gita
+	- DONE Change color of selected node
 	- DONE Get selected node
