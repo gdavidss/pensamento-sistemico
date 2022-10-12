@@ -1,4 +1,8 @@
 ---
+layout: note
+title: a
+id: a
+permalink: /inf
 ---
 
 - testando
