@@ -1,6 +1,9 @@
 ---
 ---
 
+- **Content**
+	- TODO Create page here that contain links for aesthetic resources
+		- TODO and include [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
 - TODO **Graph**
 	- TODO Adjust graph width
 	- TODO Prune node after 2 edges based on selected node
