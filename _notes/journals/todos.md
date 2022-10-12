@@ -4,7 +4,6 @@
 - TODO **Graph**
 	- TODO Identify and fix bug of home markdown file pointing to unconnected nodes
 	- TODO Adjust graph width
-	- TODO Center graph around selected node
 	- TODO Fix bug of home always showing up as selected
 	- TODO Prune node after 2 edges based on selected node
 	  collapsed:: true
@@ -16,5 +15,6 @@
 		- TODO Font research
 - **Done**
   collapsed:: true
+	- DONE Center graph around selected node
 	- DONE Change color of selected node
 	- DONE Get selected node
