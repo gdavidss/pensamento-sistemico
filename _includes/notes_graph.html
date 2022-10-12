@@ -323,7 +323,7 @@
           ticked();
         };
 
-        const zoomHandler = d3.zoom().scaleExtent([0.2, 0.6]).on("zoom", resize);
+        const zoomHandler = d3.zoom().scaleExtent([0.2, 3]).on("zoom", resize);
 
         zoomHandler(svg);
         restart();
