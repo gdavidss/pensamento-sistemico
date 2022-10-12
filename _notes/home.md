@@ -5,6 +5,7 @@ id: home
 permalink: /
 ---
 
+- [[a]]
 - [[auto-organização]]
 - [[comportamento coletivo]]
 - [[redes]]
