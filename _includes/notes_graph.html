@@ -178,20 +178,33 @@
         const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
         element.setAttribute("height", window.innerHeight * 0.8);
-      
+        
+        // GD Testar isso depois, vide descrição abaixo em reportWindowSize
+
+        // console.log(`height of element BEFORE: ${element.innerHeight}`);
+        // console.log(`width of element BEFORE: ${element.innerWidth}`);
         graphWrapper.appendChild(element);
 
         const reportWindowSize = () => {
           const graphWrapper = document.getElementById('graph-wrapper');
           
+          // GD checar se a window está sendo resizing apropriadamente ou deveria ser que nem acima
+          // console.log(`height of element BEFORE: ${element.innerHeight}`);
+          // console.log(`width of element BEFORE: ${element.innerWidth}`);
 
           // element is equal to svg here
           element.setAttribute("width", window.innerWidth);
           element.setAttribute("height", window.innerHeight);
 
+          // GD será que eu consigo só chamar isso aqui quando ele para de drag
+          // o window?
           restart();
         };
 
+        // GD eu preciso de duas coisas na função de window.onresize
+        // 1) ajustar o width para se manter consistente com um padding de 4vh
+        // 2) ajustar o height para se manter consistente com alguma métrica ainda a definir
+        // 3) usar o resize function acima para zoom out o graph apropriadamente
         window.onresize = reportWindowSize;
 
         const svg = d3.select("svg");
@@ -289,6 +302,9 @@
           
           node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
           text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+
+          // GD rearranjar o centro da simulação e sim simplesmente arrastar todo o grafo para o centro 
+          // Ideia: tentar os dois jeitos e ver o que é melhor
           
           // Center active node
           node.each(function(d) {
@@ -314,6 +330,7 @@
 
         zoomHandler(svg);
         restart();
+
 
         function isCurrentPath(notePath) {
           return window.location.pathname == notePath;
