@@ -177,7 +177,7 @@
         const graphWrapper = document.getElementById('graph-wrapper')
         const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
-        element.setAttribute("height", window.innerHeight * 0.5);
+        element.setAttribute("height", window.innerHeight * 0.8);
         
         graphWrapper.appendChild(element);
 
@@ -323,7 +323,7 @@
           ticked();
         };
 
-        const zoomHandler = d3.zoom().scaleExtent([0.2, 3]).on("zoom", resize);
+        const zoomHandler = d3.zoom().scaleExtent([0.2, 0.6]).on("zoom", resize);
 
         zoomHandler(svg);
         restart();
