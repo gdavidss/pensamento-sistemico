@@ -302,9 +302,6 @@
           
           node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
           text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
-
-          // GD rearranjar o centro da simulação e sim simplesmente arrastar todo o grafo para o centro 
-          // Ideia: tentar os dois jeitos e ver o que é melhor
           
           // Center active node
           node.each(function(d) {
@@ -331,9 +328,8 @@
         zoomHandler(svg);
         restart();
 
-
         function isCurrentPath(notePath) {
-          return window.location.pathname == notePath
+          return window.location.pathname == notePath;
         }
 
         // Shorten a string if it exceeds a max length
