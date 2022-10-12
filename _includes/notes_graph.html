@@ -187,9 +187,10 @@
           // GD checar se a window está sendo resizing apropriadamente ou deveria ser que nem acima
           // console.log(`height of element BEFORE: ${element.innerHeight}`);
           // console.log(`width of element BEFORE: ${element.innerWidth}`);
-
+          element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
+          element.setAttribute("height", window.innerHeight * 0.8);
           // element is equal to svg here
-          element.setAttribute("width", window.innerWidth);
+          //element.setAttribute("width", window.innerWidth);
           element.setAttribute("height", window.innerHeight);
 
           // GD será que eu consigo só chamar isso aqui quando ele para de drag
