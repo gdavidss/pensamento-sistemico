@@ -80,6 +80,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         e.content.include?(current_note.url)
       end
 
+      puts notes_linking_to_current_note
       # Nodes: Graph
       graph_nodes << {
         id: note_id_from_note(current_note),
