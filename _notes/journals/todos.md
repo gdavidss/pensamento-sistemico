@@ -15,7 +15,7 @@
 	  collapsed:: true
 		- Na linha 92 em notes_graph.html, existe uma função que pega todos os nodes imediatos. É diferente de prune though pq só pega nodes imediatamente conectados, mas uma solução trivial é repetir o algoritmo recursivamente pra cada um dos nodes
 - **Backlinks**
-	- Fix bug
+	- Fix bug backlinks doing simple string matching with permalink or note name
 - **Done**
   collapsed:: true
 	- CANCELLED Change z-index of name of a certain node so that it's in front of the edges
