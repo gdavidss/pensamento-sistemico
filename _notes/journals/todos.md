@@ -9,7 +9,7 @@
 	- TODO **Font**
 	  collapsed:: true
 		- TODO Font research
-	- TODO Prune node after 2 edges based on selected node
+	- Prune node after 2 edges based on selected node
 	  collapsed:: true
 		- Na linha 92 em notes_graph.html, existe uma função que pega todos os nodes imediatos. É diferente de prune though pq só pega nodes imediatamente conectados, mas uma solução trivial é repetir o algoritmo recursivamente pra cada um dos nodes
 - **Done**
