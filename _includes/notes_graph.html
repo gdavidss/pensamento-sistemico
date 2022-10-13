@@ -177,7 +177,7 @@
         const graphWrapper = document.getElementById('graph-wrapper')
         const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
-        element.setAttribute("height", window.innerHeight * 0.6);
+        element.setAttribute("height", window.innerHeight * .6);
         
         graphWrapper.appendChild(element);
 
@@ -189,7 +189,7 @@
           // console.log(`width of element BEFORE: ${element.innerWidth}`);
           
           element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
-          element.setAttribute("height", window.innerHeight - 211.08);
+          element.setAttribute("height", window.innerHeight * .6);
           // window.innerHeight * 0.8
           // element is equal to svg here
           //element.setAttribute("width", window.innerWidth);
