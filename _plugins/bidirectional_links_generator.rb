@@ -77,8 +77,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     all_notes.each do |current_note|
       # Nodes: Jekyll
       notes_linking_to_current_note = all_notes.filter do |e|
-        puts "e.content: " + e.content
-        puts "current_note.url:" + current_note.url
+        puts "e.content: " + e.content.include(current_note.url)
         e.content.include?(current_note.url)
       end
 
