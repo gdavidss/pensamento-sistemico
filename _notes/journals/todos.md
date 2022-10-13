@@ -5,9 +5,11 @@
 	- TODO Create page here that contain links for aesthetic resources
 		- TODO and include [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
 - TODO **Graph**
-	- TODO Center selected node
+	- TODO Change z-index of name of a certain node so that it's in front of the edges
+	-
 - **Polishing**
   collapsed:: true
+	- DONE Center selected node
 	- TODO **Font**
 	  collapsed:: true
 		- TODO Font research
