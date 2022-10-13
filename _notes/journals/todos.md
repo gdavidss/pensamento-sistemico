@@ -6,10 +6,8 @@
 		- TODO and include [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
 - TODO **Graph**
 	- TODO Change z-index of name of a certain node so that it's in front of the edges
-	-
 - **Polishing**
-  collapsed:: true
-	- DONE Center selected node
+	- TODO Adjust zoom based on number of adjacent nodes and other criteria for better visibility
 	- TODO **Font**
 	  collapsed:: true
 		- TODO Font research
@@ -17,6 +15,7 @@
 	  collapsed:: true
 		- Na linha 92 em notes_graph.html, existe uma função que pega todos os nodes imediatos. É diferente de prune though pq só pega nodes imediatamente conectados, mas uma solução trivial é repetir o algoritmo recursivamente pra cada um dos nodes
 - **Done**
+	- DONE Center selected node
 	- DONE Adjust graph height so it never needs to scroll on home page
 	  collapsed:: true
 		- I deleted this piece of code `<footer>{% include footer.html %}</footer>` in `default.html`. I might need to readd it if I decide to put the backlinks tab on the footer
