@@ -1,3 +1,5 @@
+require 'pry'
+
 # frozen_string_literal: true
 class BidirectionalLinksGenerator < Jekyll::Generator
   def generate(site)
@@ -78,6 +80,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       # Nodes: Jekyll
       all.notes.each do |e|
       begin notes_linking_to_current_note = all_notes.filter do |e|
+        binding.pry
         e.content.include?(current_note.url)
       end
 
