@@ -2,11 +2,11 @@
 ---
 
 - **Content**
+  collapsed:: true
 	- TODO Create page here that contain links for aesthetic resources
 		- TODO and include [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
-- TODO **Graph**
-	- TODO Change z-index of name of a certain node so that it's in front of the edges
 - **Polishing**
+  collapsed:: true
 	- TODO Adjust zoom based on number of adjacent nodes and other criteria for better visibility
 	- TODO **Font**
 	  collapsed:: true
@@ -14,8 +14,11 @@
 	- WAITING node after 2 edges based on selected node
 	  collapsed:: true
 		- Na linha 92 em notes_graph.html, existe uma função que pega todos os nodes imediatos. É diferente de prune though pq só pega nodes imediatamente conectados, mas uma solução trivial é repetir o algoritmo recursivamente pra cada um dos nodes
+- **Backlinks**
+	- Fix bug
 - **Done**
   collapsed:: true
+	- CANCELLED Change z-index of name of a certain node so that it's in front of the edges
 	- DONE Center selected node
 	- DONE Adjust graph height so it never needs to scroll on home page
 	  collapsed:: true
@@ -27,3 +30,4 @@
 	- DONE Center graph around selected node
 	- DONE Change color of selected node
 	- DONE Get selected node
+	- DONE **Graph**
