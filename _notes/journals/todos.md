@@ -15,6 +15,7 @@
 	  collapsed:: true
 		- Na linha 92 em notes_graph.html, existe uma função que pega todos os nodes imediatos. É diferente de prune though pq só pega nodes imediatamente conectados, mas uma solução trivial é repetir o algoritmo recursivamente pra cada um dos nodes
 - **Done**
+  collapsed:: true
 	- DONE Center selected node
 	- DONE Adjust graph height so it never needs to scroll on home page
 	  collapsed:: true
