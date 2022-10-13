@@ -5,7 +5,7 @@
 	- TODO Create page here that contain links for aesthetic resources
 		- TODO and include [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
 - TODO **Graph**
-	- TODO Recenter selected ndoe
+	- TODO Center selected node
 - **Polishing**
   collapsed:: true
 	- TODO **Font**
