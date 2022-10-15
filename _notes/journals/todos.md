@@ -14,10 +14,10 @@
 	- WAITING node after 2 edges based on selected node
 	  collapsed:: true
 		- Na linha 92 em notes_graph.html, existe uma função que pega todos os nodes imediatos. É diferente de prune though pq só pega nodes imediatamente conectados, mas uma solução trivial é repetir o algoritmo recursivamente pra cada um dos nodes
-- **Backlinks**
-	- Fix bug backlinks doing simple string matching with permalink or note name
 - **Done**
-  collapsed:: true
+	- DONE **Backlinks**
+	- DONE Fix bug backlinks doing simple string matching with permalink or note name
+	- DONE **Graph**
 	- CANCELLED Change z-index of name of a certain node so that it's in front of the edges
 	- DONE Center selected node
 	- DONE Adjust graph height so it never needs to scroll on home page
@@ -30,4 +30,3 @@
 	- DONE Center graph around selected node
 	- DONE Change color of selected node
 	- DONE Get selected node
-	- DONE **Graph**
