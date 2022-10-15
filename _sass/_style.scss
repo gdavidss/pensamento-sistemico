@@ -134,15 +134,11 @@ nav {
 }
 
 .backlink-box {
+  color:#545454;
   background: $color-box-background;
   padding: 1em;
   border-radius: $border-radius;
 }
-
-#notes-entry-container .backlink-box div{
-  color:#545454;
-  font-weight:300;
- }
 
 code {
   background: #f5f5f5;
