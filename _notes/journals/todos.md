@@ -6,12 +6,12 @@
 	- TODO Create page here that contain links for aesthetic resources
 		- TODO and include [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
 - **Polishing**
-	- TODO Adjust zoom based on number of adjacent nodes and other criteria for better visibility
 	- WAITING **Font**
 	  collapsed:: true
 		- TODO Font research
 - **Done**
   collapsed:: true
+	- CANCELLED Adjust zoom based on number of adjacent nodes and other criteria for better visibility
 	- CANCELLED prune node after 2 edges based on selected node
 	  collapsed:: true
 		- Na linha 92 em notes_graph.html, existe uma função que pega todos os nodes imediatos. É diferente de prune though pq só pega nodes imediatamente conectados, mas uma solução trivial é repetir o algoritmo recursivamente pra cada um dos nodes
