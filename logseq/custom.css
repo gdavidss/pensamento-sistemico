@@ -1,4 +1,7 @@
 :root {
-  --atlas-font-family: "FONT_NAME";
-  --atlas-title-font-family: "FONT_NAME";
+  --ct-text-size: 18px;
+  --ct-line-height: 1.6;
+  --ls-font-family: "My First Font";
+  --ct-page-title-font-family: var(--ls-font-family);
+  --ct-code-font-family: "My First Font";
 }
