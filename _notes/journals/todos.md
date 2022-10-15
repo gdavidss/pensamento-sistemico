@@ -1,6 +1,8 @@
 ---
 ---
 
+- **Meta**
+	- TODO
 - **Content**
 	- TODO Create page here that contain links for aesthetic resources
 		- TODO and include [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
