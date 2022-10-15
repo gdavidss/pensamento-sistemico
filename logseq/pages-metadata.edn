@@ -1,6 +1,6 @@
 [{:block/name "a",
-  :block/created-at 1665856836453,
-  :block/updated-at 1665856836453}
+  :block/created-at 1665857415914,
+  :block/updated-at 1665857415914}
  {:block/name "a note about cats",
   :block/created-at 1665104345057,
   :block/updated-at 1665104345057}
@@ -12,32 +12,29 @@
   :block/created-at 1665181436596,
   :block/updated-at 1665181436596}
  {:block/name "about",
-  :block/created-at 1665856836578,
-  :block/updated-at 1665856836578}
+  :block/created-at 1665857415902,
+  :block/updated-at 1665857415902}
  {:block/name "algoritmos genéticos",
-  :block/created-at 1665856547046,
-  :block/updated-at 1665856547046}
+  :block/created-at 1665857426525,
+  :block/updated-at 1665857426525}
  {:block/name "aprendizado de máquina",
-  :block/created-at 1665856547045,
-  :block/updated-at 1665856547045}
+  :block/created-at 1665857426529,
+  :block/updated-at 1665857426529}
  {:block/name "atratores",
-  :block/created-at 1665856547183,
-  :block/updated-at 1665856547183}
+  :block/created-at 1665857426513,
+  :block/updated-at 1665857426513}
  {:block/name "auto-organização",
-  :block/created-at 1665856547062,
-  :block/updated-at 1665856547062}
+  :block/created-at 1665857426534,
+  :block/updated-at 1665857426534}
  {:block/name "autopoiese",
-  :block/created-at 1665856547011,
-  :block/updated-at 1665856547011}
+  :block/created-at 1665857426602,
+  :block/updated-at 1665857426602}
  {:block/name "autoreferência",
-  :block/created-at 1665856547040,
-  :block/updated-at 1665856547040}
+  :block/created-at 1665857426633,
+  :block/updated-at 1665857426633}
  {:block/name "b",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
- {:block/name "backlink1",
-  :block/created-at 1665856747104,
-  :block/updated-at 1665856747104}
  {:block/name "c",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
@@ -48,8 +45,8 @@
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
  {:block/name "caos",
-  :block/created-at 1665856547214,
-  :block/updated-at 1665856547214}
+  :block/created-at 1665857426627,
+  :block/updated-at 1665857426627}
  {:block/name "card",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
@@ -64,23 +61,23 @@
   :block/created-at 1665276994183,
   :block/updated-at 1665276994183}
  {:block/name "cibernética",
-  :block/created-at 1665856547072,
-  :block/updated-at 1665856547072}
+  :block/created-at 1665857426644,
+  :block/updated-at 1665857426644}
  {:block/name "comece com um brinquedo",
   :block/created-at 1665361563862,
   :block/updated-at 1665361563862}
  {:block/name "complexidade",
-  :block/created-at 1665856547080,
-  :block/updated-at 1665856547080}
+  :block/created-at 1665857426606,
+  :block/updated-at 1665857426606}
  {:block/name "comportamento coletivo",
-  :block/created-at 1665856547034,
-  :block/updated-at 1665856547034}
+  :block/created-at 1665857426612,
+  :block/updated-at 1665857426612}
  {:block/name "consciência",
-  :block/created-at 1665856547108,
-  :block/updated-at 1665856547108}
+  :block/created-at 1665857426630,
+  :block/updated-at 1665857426630}
  {:block/name "consciência coletiva",
-  :block/created-at 1665856547033,
-  :block/updated-at 1665856547033}
+  :block/created-at 1665857426611,
+  :block/updated-at 1665857426611}
  {:block/name "consistency",
   :block/created-at 1665104345023,
   :block/updated-at 1665104345023}
@@ -91,8 +88,8 @@
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
  {:block/name "dinâmica não-linear",
-  :block/created-at 1665856547122,
-  :block/updated-at 1665856547122}
+  :block/created-at 1665857426658,
+  :block/updated-at 1665857426658}
  {:block/name "documentos pessoais",
   :block/created-at 1665856335945,
   :block/updated-at 1665856335945}
@@ -103,26 +100,26 @@
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
  {:block/name "emergência",
-  :block/created-at 1665856547062,
-  :block/updated-at 1665856547062}
+  :block/created-at 1665857426533,
+  :block/updated-at 1665857426533}
  {:block/name "entropia",
-  :block/created-at 1665856547070,
-  :block/updated-at 1665856547070}
+  :block/created-at 1665857426624,
+  :block/updated-at 1665857426624}
  {:block/name "escala",
-  :block/created-at 1665856547104,
-  :block/updated-at 1665856547104}
+  :block/created-at 1665857426616,
+  :block/updated-at 1665857426616}
  {:block/name "estrutura",
-  :block/created-at 1665856547053,
-  :block/updated-at 1665856547053}
+  :block/created-at 1665857426620,
+  :block/updated-at 1665857426620}
  {:block/name "evolução e adaptação",
-  :block/created-at 1665856547046,
-  :block/updated-at 1665856547046}
+  :block/created-at 1665857426755,
+  :block/updated-at 1665857426755}
  {:block/name "favorites",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
  {:block/name "feedback",
-  :block/created-at 1665856547071,
-  :block/updated-at 1665856547071}
+  :block/created-at 1665857426643,
+  :block/updated-at 1665857426643}
  {:block/name "formação de padrão",
   :block/created-at 1665361035021,
   :block/updated-at 1665361035021}
@@ -133,11 +130,11 @@
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
  {:block/name "informação",
-  :block/created-at 1665856547092,
-  :block/updated-at 1665856547092}
+  :block/created-at 1665857426742,
+  :block/updated-at 1665857426742}
  {:block/name "inteligência artificial",
-  :block/created-at 1665856547045,
-  :block/updated-at 1665856547045}
+  :block/created-at 1665857426734,
+  :block/updated-at 1665857426734}
  {:block/name "jardim digital",
   :block/created-at 1665104345187,
   :block/updated-at 1665104345187}
@@ -148,8 +145,8 @@
   :block/created-at 1665104345196,
   :block/updated-at 1665104345196}
  {:block/name "limitação da racionalidade",
-  :block/created-at 1665856547199,
-  :block/updated-at 1665856547199}
+  :block/created-at 1665857426747,
+  :block/updated-at 1665857426747}
  {:block/name "meta",
   :block/created-at 1665170278561,
   :block/updated-at 1665170278561}
@@ -157,8 +154,8 @@
   :block/created-at 1665276993283,
   :block/updated-at 1665276993283}
  {:block/name "metacognição",
-  :block/created-at 1665856547123,
-  :block/updated-at 1665856547123}
+  :block/created-at 1665857426728,
+  :block/updated-at 1665857426728}
  {:block/name "mit license",
   :block/created-at 1665104345124,
   :block/updated-at 1665104345124}
@@ -196,8 +193,8 @@
   :block/created-at 1665284848911,
   :block/updated-at 1665319750687}
  {:block/name "pensamento sistêmico",
-  :block/created-at 1665856547071,
-  :block/updated-at 1665856547071}
+  :block/created-at 1665857426643,
+  :block/updated-at 1665857426643}
  {:block/name "permalink",
   :block/created-at 1665104345196,
   :block/updated-at 1665104345196}
@@ -205,35 +202,29 @@
   :block/created-at 1665104345124,
   :block/updated-at 1665104345124}
  {:block/name "rede neural artificial",
-  :block/created-at 1665856547044,
-  :block/updated-at 1665856547044}
+  :block/created-at 1665857426721,
+  :block/updated-at 1665857426721}
  {:block/name "rede sem escala",
-  :block/created-at 1665856547233,
-  :block/updated-at 1665856547233}
+  :block/created-at 1665857426702,
+  :block/updated-at 1665857426702}
  {:block/name "redes",
-  :block/created-at 1665856547121,
-  :block/updated-at 1665856547121}
+  :block/created-at 1665857426714,
+  :block/updated-at 1665857426714}
  {:block/name "redes adaptivas",
-  :block/created-at 1665856547205,
-  :block/updated-at 1665856547205}
+  :block/created-at 1665857426706,
+  :block/updated-at 1665857426706}
  {:block/name "redes dinâmicas",
-  :block/created-at 1665856547210,
-  :block/updated-at 1665856547210}
- {:block/name "rola",
-  :block/created-at 1665856736354,
-  :block/updated-at 1665856736354}
- {:block/name "rola grande",
-  :block/created-at 1665856736321,
-  :block/updated-at 1665856736321}
+  :block/created-at 1665857426714,
+  :block/updated-at 1665857426714}
  {:block/name "sincronia",
-  :block/created-at 1665856547033,
-  :block/updated-at 1665856547033}
+  :block/created-at 1665857426611,
+  :block/updated-at 1665857426611}
  {:block/name "sistemas",
-  :block/created-at 1665856547072,
-  :block/updated-at 1665856547072}
+  :block/created-at 1665857426644,
+  :block/updated-at 1665857426644}
  {:block/name "teoria dos jogos",
-  :block/created-at 1665856547123,
-  :block/updated-at 1665856547123}
+  :block/created-at 1665857426804,
+  :block/updated-at 1665857426804}
  {:block/name "there is no note that matches this link",
   :block/created-at 1665104345054,
   :block/updated-at 1665104345054}
