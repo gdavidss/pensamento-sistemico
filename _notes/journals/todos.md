@@ -2,14 +2,14 @@
   collapsed:: true
 	- TODO Define new name for the project
 - **Content**
-  collapsed:: true
 	- TODO Create page here that contain links for aesthetic resources
 		- TODO and include [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
 - **Polishing**
+  collapsed:: true
 	- WAITING **Font**
 	  collapsed:: true
 		- TODO Font research
-- **Done**
+- **Archive**
   collapsed:: true
 	- CANCELLED Adjust zoom based on number of adjacent nodes and other criteria for better visibility
 	- CANCELLED prune node after 2 edges based on selected node
