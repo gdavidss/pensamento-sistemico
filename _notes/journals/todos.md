@@ -7,13 +7,14 @@
 		- TODO and include [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
 - **Polishing**
 	- TODO Adjust zoom based on number of adjacent nodes and other criteria for better visibility
-	- TODO **Font**
-		- TODO Font research
-	- WAITING prune node after 2 edges based on selected node
+	- WAITING **Font**
 	  collapsed:: true
-		- Na linha 92 em notes_graph.html, existe uma função que pega todos os nodes imediatos. É diferente de prune though pq só pega nodes imediatamente conectados, mas uma solução trivial é repetir o algoritmo recursivamente pra cada um dos nodes
+		- TODO Font research
 - **Done**
   collapsed:: true
+	- CANCELLED prune node after 2 edges based on selected node
+	  collapsed:: true
+		- Na linha 92 em notes_graph.html, existe uma função que pega todos os nodes imediatos. É diferente de prune though pq só pega nodes imediatamente conectados, mas uma solução trivial é repetir o algoritmo recursivamente pra cada um dos nodes
 	- DONE Improve color backlink
 	- DONE **Backlinks**
 	  collapsed:: true
