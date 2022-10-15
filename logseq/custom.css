@@ -1,6 +1,6 @@
 :root {
-  --ct-text-size: 25px;
-  --ct-line-height: 1.6;
+  --ct-text-size: 40px;
+  --ct-line-height: 3.2;
   --ls-font-family: "My First Font";
   --ct-page-title-font-family: var(--ls-font-family);
   --ct-code-font-family: "My First Font";
