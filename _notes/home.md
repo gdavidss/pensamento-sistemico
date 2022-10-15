@@ -5,6 +5,7 @@ id: home
 permalink: /
 ---
 
+testando!
 - [[a]]
 - [[auto-organização]]
 - [[comportamento coletivo]]
