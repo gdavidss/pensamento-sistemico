@@ -209,7 +209,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["todos" "home" "cibernética" "Cybernetics" "Protein intake" "Planejamento LOA fall" "633711dc-c3ea-4616-8dfa-735a766042f2" "632f13bc-49aa-49ce-b396-6ad2b030e61d" "632efcbc-19de-4b9e-9e69-7594ab9de831" "weight tracking" "acidez noturna e sono" "técnicas e tipos de meditação" "psylocibin level trips" "conversa lia - 18 sep 2022" "sep 15th, 2022" "c8b7fcba-0af4-4357-b7ac-2a910cb89bf4" "nadine" "sep 12th, 2022" "jul 31st, 2022" "guide to compassion-focused therapy" "Redos" "Documentos pessoais" "To-dos" "flashcards" "How to take dummy notes?"]
+ :favorites ["cibernética" "Cybernetics" "Protein intake" "Planejamento LOA fall" "633711dc-c3ea-4616-8dfa-735a766042f2" "632f13bc-49aa-49ce-b396-6ad2b030e61d" "632efcbc-19de-4b9e-9e69-7594ab9de831" "weight tracking" "acidez noturna e sono" "técnicas e tipos de meditação" "psylocibin level trips" "conversa lia - 18 sep 2022" "sep 15th, 2022" "c8b7fcba-0af4-4357-b7ac-2a910cb89bf4" "nadine" "sep 12th, 2022" "jul 31st, 2022" "guide to compassion-focused therapy" "Redos" "Documentos pessoais" "To-dos" "flashcards" "How to take dummy notes?"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
