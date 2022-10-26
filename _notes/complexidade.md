@@ -6,13 +6,13 @@
 - **Que porra é complexidade?**
 	- Complexidade existe em absolutamente em todo lugar do nosso universo. É uma daquelas coisas que apare mas que só aparecem a gente quando nós decidimos enxergar.
 	- complexidade é uma daquelas palavras simples e que muitas pessoas entendem, mas que ninguém consegue concordar numa definição única.
-	- Na linguagem popular, dizer que algo é complexo é dizer que algo
+	- Na linguagem popular, dizer que algo é complexo é dizer que algo:
 		- é complicado
 		- é difícil de ser entendido
 		- é díficil de ser recriado
 		- tem muitas partes
 	- as definições acima, ainda que não sejam
 	- Ainda que existam muitas definições do que é complexidade, eis aqui duas delas que julgo ser pertinente.
-		- a definição cibernética de complexidade
-		- a definição matemática de complexidade
-		- a definição
+- **a definição cibernética de complexidade**
+-
+- **a definição matemática de complexidade**
