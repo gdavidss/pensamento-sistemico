@@ -39,7 +39,9 @@
 		- Resposta correta.
 		- Então, o seu primo decide aumentar um pouco a dificuldade do problema, e te dá uma sequência um pouco mais completa.
 			- 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181
-		-
+		- Novamente, ele te pergunta: "Me fala aí como você recriaria esses números"?
+		- Você então pensa um pouco. Dessa vez a resposta não vem imediatamente. Passado um tempinho, você se lembra da sequência de fibonacci e responde:
+			-
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
