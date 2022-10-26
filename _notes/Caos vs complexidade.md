@@ -1,0 +1,2 @@
+- Complexidade possui uma estrutura definida, sendo geralmente o resultado de sistemas bem mais simples e menos complexos
+- Caos é associado a desordem, com uma estrutura inexistente e um maior estado de entropia
