@@ -26,7 +26,7 @@
 		- Qual é a variedade do seu computador?
 		- Qual é a variedade da nação brasileira?
 - **A definição Matemática de complexidade**
-	- Uma das primeiras definições
+	- Uma das primeiras definições formais de complexidade, que possuem
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
