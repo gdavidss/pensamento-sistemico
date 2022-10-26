@@ -74,7 +74,7 @@
   :block/updated-at 1665361563862}
  {:block/name "complexidade",
   :block/created-at 1665857426606,
-  :block/updated-at 1666806743438}
+  :block/updated-at 1666807289440}
  {:block/name "comportamento coletivo",
   :block/created-at 1665857426612,
   :block/updated-at 1665857426612}
@@ -246,6 +246,9 @@
  {:block/name "sincronia",
   :block/created-at 1665857426611,
   :block/updated-at 1665857426611}
+ {:block/name "sistema",
+  :block/created-at 1666807145618,
+  :block/updated-at 1666807145618}
  {:block/name "sistemas",
   :block/created-at 1665857426644,
   :block/updated-at 1665857426644}
@@ -258,15 +261,12 @@
  {:block/name "tigers",
   :block/created-at 1665104345055,
   :block/updated-at 1665104345055}
- {:block/name "to-dos",
-  :block/created-at 1666804931346,
-  :block/updated-at 1666804931346}
  {:block/name "todo",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
  {:block/name "todos",
   :block/created-at 1665361553519,
-  :block/updated-at 1665864754989}
+  :block/updated-at 1666807046986}
  {:block/name "variedade",
   :block/created-at 1666806737854,
   :block/updated-at 1666806737854}
