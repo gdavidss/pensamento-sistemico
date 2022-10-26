@@ -35,16 +35,17 @@
 			- 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 		- Então, ele te pergunta: "Me fala aí como você recriaria esses números"?
 		- Você, então, não demora a trabalhar numa resposta. Passa a contar todos os zeros e então responde:
-			- "Eu escreveria 26 zeros seguidos!"
+			- *"Eu escreveria 26 zeros seguidos!"*
 		- Resposta correta.
 		- Então, o seu primo decide aumentar um pouco a dificuldade do problema, e te dá uma sequência um pouco mais completa
 			- [12, 12, 3, 32, 52, 9, 132, 212, 35, 552, 892, 145, 2332]
 		- Novamente, ele te pergunta: "Me fala aí como você recriaria esses números"?
 		- Você então pensa um pouco. Dessa vez a resposta não vem imediatamente. Passado um tempinho, você se lembra da sequência de fibonacci e responde:
-			- Eu iniciaria uma sequência com dois números uns.
+			- "Eu iniciaria uma sequência com dois números uns.
 			- Depois, eu somaria os dois últimos números para formar os números restantes.
 			- Eu pararia minha sequência arbitrariamente no 13º elemento.
-			- Com a sequência pronta, eu modificaria
+			- Com a sequência pronta, eu modificaria meus números da seguinte forma: se o número é impar, eu multiplico ele por 10 e adiciono 2. Se ele é par, eu adiciono 1.
+		-
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
