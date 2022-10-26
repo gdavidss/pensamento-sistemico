@@ -22,13 +22,12 @@
 	- Logo, se você tem só duas camisas, dois shorts e um chinelo, o seu sistema é relativamente simples. Porém, se você tiver tanta roupa ao ponto de conseguir encher uma loja inteira da da Renner, seu sistema passa a ser muito mais complexo.
 	- Pense agora em exemplos de sistemas que possuem diferentes níveis de complexidade.
 		- Qual é a variedade de seu próprio corpo?
-			- Quantos pensamentos você pode ter?
-			- Quantas pessoas
+			- Quantos pensamentos você pode produzir?
 			- Quantos movimentos pode fazer?
 			- Quantas grandes histórias de amor você viver ainda?
 		- Qual é a variedade de um peixe?
 			- Quantos pensamentos um peixe pode produzir?
-			- Quantos movimentos um peixe pode fazer?
+			- Quantos movimentos um peixe fazer?
 			- Quantas grandes um peixe pode ter em sua cabeça?
 - **A definição Matemática de complexidade**
 	-
