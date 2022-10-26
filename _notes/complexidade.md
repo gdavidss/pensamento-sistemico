@@ -1,1 +1,1 @@
-- complexidade é um conceito que parece familiar para a gente.
+- complexidade é um conceito que surpreendemente não tem uma definição . na linguagem popular, dizer que algo é complexo é dizer que algo é complicado, tem muitas partes ou difícil de ser entendido ou recriado. Todas
