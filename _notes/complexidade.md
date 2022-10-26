@@ -37,8 +37,8 @@
 		- Você, então, não demora a trabalhar numa resposta. Passa a contar todos os zeros e então responde:
 			- "Eu escreveria 26 zeros seguidos!"
 		- Resposta correta.
-		- Então, o seu primo decide aumentar um pouco a dificuldade do problema, e te dá uma sequência um pouco mais completa.
-			- 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181
+		- Então, o seu primo decide aumentar um pouco a dificuldade do problema, e te dá uma sequência um pouco mais completa
+			- [12, 12, 3, 32, 52, 9, 132, 212, 35, 552, 892, 145, 2332]
 		- Novamente, ele te pergunta: "Me fala aí como você recriaria esses números"?
 		- Você então pensa um pouco. Dessa vez a resposta não vem imediatamente. Passado um tempinho, você se lembra da sequência de fibonacci e responde:
 			- Eu somaria o número
