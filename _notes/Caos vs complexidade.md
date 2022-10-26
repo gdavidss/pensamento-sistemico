@@ -1,4 +1,4 @@
-- ==REFINE== Eu preciso definir isso aqui de maneira melhor, caos é possivel de ser descrito bem, soh que a
+- ==REFINE== Eu preciso definir isso aqui de maneira melhor, caos é possivel de ser descrito bem, só que a diferença é em termos de sensibilidade
 - Complexidade possui uma estrutura definida, sendo geralmente o resultado de sistemas bem mais simples e menos complexos
 - Caos possuem estruturas indefinidas, sendo geralmente o resultado de pequenas partes que interagem que parecem ser aleatórias.
 - **Exemplos:**
