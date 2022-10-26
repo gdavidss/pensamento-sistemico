@@ -1,6 +1,7 @@
 - Complexidade possui uma estrutura definida, sendo geralmente o resultado de sistemas bem mais simples e menos complexos
-- Caos possuem estruturas indefinidas, sendo o resultado de pequenas partes que interagem na maioria das vezes de maneira aleatória.
+- Caos possuem estruturas indefinidas, sendo geralmente o resultado de pequenas partes que interagem de maneira aleatória.
 - **Exemplos:**
 	- Computadores são sistemas complexos porque são constituídos de pequenas partes de menor complexidade, mas com estruturas bem definidas
 	- Moléculas no ar são geralmente caóticas porque são o conjunto de pequenas partes que se chocam em direções "aleatórias".
-- Muitos sistemas complexos ao morrer tornam-se caóticos pois os seus componentes perdem a estrutura que lhe seguram.
+- **Constatações**
+	- **Quanto maior complexidade maior o potencial para o caos:** Muitos sistemas complexos, ao morrer tornam-se caóticos pois os seus componentes perdem a estrutura que lhe seguram.
