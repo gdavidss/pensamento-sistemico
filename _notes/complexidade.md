@@ -18,8 +18,7 @@
 		- Complexidade é o grau de [[variedade]] de um [[sistema]].
 	- ==REFINE== adicionar exemplo variedade
 	- Variedade é o número total de possíveis estados de um [[sistema]]. Quanto mais estados um sistema é capaz de assumir, mais complexo o sistema é.
-	- Por exemplo, pense que você e suas roupas são um sistema. Qual é a variedade do sistema?
-	- A variedade do sistema é o número de combinações de todas as roupas que você tem
+	- Por exemplo, pense que você e suas roupas são um sistema. Qual é a variedade do sistema? A variedade do sistema aqui é o número total de todas as combinações de todas as roupas que você tem. Se você já estudou combinatória no ensino médio, você deve ter percebido que variedade é um conceito bem parecido com o de combinação.
 - **A definição Matemática de complexidade**
 	-
 - **Questões interessantes**
