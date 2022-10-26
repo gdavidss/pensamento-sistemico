@@ -3,5 +3,6 @@
 - **Exemplos:**
 	- Computadores são sistemas complexos porque são constituídos de pequenas partes de menor complexidade, mas com estruturas bem definidas
 	- Moléculas no ar são geralmente caóticas porque são o conjunto de pequenas partes que se chocam em direções "aleatórias".
-- **Constatações**
-	- **Quanto maior complexidade maior o potencial para o caos:** Muitos sistemas complexos, ao morrer tornam-se caóticos pois os seus componentes perdem a estrutura que lhe seguram.
+- **Observações**
+	- **Maior complexidade leva a um maior caos:** Muitos sistemas complexos, ao morrer, tornam-se altamente caóticos pois os seus componentes perdem a estrutura que lhe seguram.
+	- **Caos se torna complexidade com a diminu:**
