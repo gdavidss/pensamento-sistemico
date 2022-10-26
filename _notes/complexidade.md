@@ -13,11 +13,11 @@
 		- tem muitas partes
 	- as definições acima, ainda que não sejam
 	- Ainda que existam muitas definições do que é complexidade, eis aqui duas delas que julgo ser pertinente.
-- **a definição cibernética de complexidade**
+- **A definição Cibernética de complexidade**
 	- Para o maravilhoso e esquecido campo da [[cibernética]], a definição é:
 		- Complexidade é o número de variedade de um sistema.
-- **A definição matemática de complexidade**
+- **A definição Matemática de complexidade**
 	-
-- **Ler**
+- **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
