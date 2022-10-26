@@ -1,1 +1,1 @@
-- complexidade é uma palavra
+- complexidade é um conceito que parece familiar para a gente.
