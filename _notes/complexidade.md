@@ -19,7 +19,8 @@
 	- Variedade é definida como o número total de possíveis estados de um [[sistema]]. Quanto mais estados um sistema é capaz de assumir, mais complexo o sistema é.
 	- Por exemplo, pense que você e suas roupas são um sistema. Qual é a variedade do sistema?
 	- A variedade do sistema aqui é o número total de todas as combinações de todas as roupas que você tem. Se você já estudou combinatória no ensino médio, você deve ter percebido que variedade é um conceito se parece bastante com o de combinação nesse caso.
-	- Logo, se você tem só duas camisas, dois shorts e um chinelo, o seu sistema é relativamente simples. Porém, se você tiver tanta roupa para caber na quantidade da Renner, seu sistema é muito mais complexo.
+	- Logo, se você tem só duas camisas, dois shorts e um chinelo, o seu sistema é relativamente simples. Porém, se você tiver tanta roupa ao ponto de conseguir encher uma loja inteira da da Renner, seu sistema passa a ser muito mais complexo.
+	- Pense agora em outros exemplos de sistemas complexos. Qual é a variedade do seu corpo? Certamente o possível
 - **A definição Matemática de complexidade**
 	-
 - **Questões interessantes**
