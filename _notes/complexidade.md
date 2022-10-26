@@ -1,10 +1,10 @@
 - **Vendo complexidade**
 	- Vamos começar com um exercício mental: Pare um minuto para observar as coisas à sua volta. O que existe de "complexo" ao seu redor?
 	- Se você está dentro de um edifício fechado, talvez a complexidade apareça na arquitetura do edifício, ou nas disposições de todos os blocos de tijolo que dão uma forma a esse lugar.
-	- Ou talvez a complexidade vem de
+	- Ou talvez a complexidade vem de simplesmente imaginar as móleculas que estão no seu corpo agora, fazendo c
 	- ou todas as moléculas que compõe o seu corpo e fazem você respirar
 - **Que porra é complexidade?**
-	- Complexidade existe em absolutamente em todo lugar do nosso universo. É uma daquelas coisas que aparecem em todo lugar mas que só aparecem a gente quando nós decidimos enxergar.
+	- Complexidade existe em absolutamente em todo lugar do nosso universo. É uma daquelas coisas que apare mas que só aparecem a gente quando nós decidimos enxergar.
 	- complexidade é uma daquelas palavras simples e que muitas pessoas entendem, mas que ninguém consegue concordar numa definição única.
 	- Na linguagem popular, dizer que algo é complexo é dizer que algo
 		- é complicado
