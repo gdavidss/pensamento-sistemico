@@ -41,7 +41,9 @@
 			- [12, 12, 3, 32, 52, 9, 132, 212, 35, 552, 892, 145, 2332]
 		- Novamente, ele te pergunta: "Me fala aí como você recriaria esses números"?
 		- Você então pensa um pouco. Dessa vez a resposta não vem imediatamente. Passado um tempinho, você se lembra da sequência de fibonacci e responde:
-			- Eu somaria o número
+			- Eu iniciaria uma sequência com dois números uns.
+			- Depois, eu somaria os dois últimos números para formar os números restantes.
+			- Com a sequência pronta, eu
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
