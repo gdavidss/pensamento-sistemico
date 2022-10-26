@@ -52,7 +52,7 @@
   :block/updated-at 1665857426627}
  {:block/name "caos vs complexidade",
   :block/created-at 1666806382114,
-  :block/updated-at 1666806382114}
+  :block/updated-at 1666812098260}
  {:block/name "card",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
@@ -74,7 +74,7 @@
   :block/updated-at 1665361563862}
  {:block/name "complexidade",
   :block/created-at 1665857426606,
-  :block/updated-at 1666811553292}
+  :block/updated-at 1666811598706}
  {:block/name "complexidade de kolmogorov",
   :block/created-at 1666808938902,
   :block/updated-at 1666808938902}
