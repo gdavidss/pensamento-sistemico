@@ -1,12 +1,16 @@
-- Vamos começar com um exercício: Pare um minuto para observar as coisas à sua volta. Identifique o que há de complexo ao seu redor.
-- Complexidade existe em absolutamente em todo lugar do nosso universo. É uma daquelas coisas que aparecem em todo lugar mas que só aparecem a gente quando nós decidimos enxergar.
-- complexidade é uma daquelas palavras simples e que muitas pessoas entendem, mas que ninguém consegue concordar numa definição única.
-- Na linguagem popular, dizer que algo é complexo é dizer que algo
-	- é complicado
-	- é difícil de ser entendido
-	- é díficil de ser recriado
-	- tem muitas partes
-- as definições acima, ainda que não sejam
+- Vamos começar com um exercício: Pare um minuto para observar as coisas à sua volta. O que existe de "complexo" ao seu redor?
+- Talvez os tijolos d
+- ou todas as moléculas que compõe o seu corpo e fazem você respirar
+-
+- **Definição**
+	- Complexidade existe em absolutamente em todo lugar do nosso universo. É uma daquelas coisas que aparecem em todo lugar mas que só aparecem a gente quando nós decidimos enxergar.
+	- complexidade é uma daquelas palavras simples e que muitas pessoas entendem, mas que ninguém consegue concordar numa definição única.
+	- Na linguagem popular, dizer que algo é complexo é dizer que algo
+		- é complicado
+		- é difícil de ser entendido
+		- é díficil de ser recriado
+		- tem muitas partes
+	- as definições acima, ainda que não sejam
 - Ainda que existam muitas definições do que é complexidade, eis aqui duas delas que julgo ser pertinente.
 	- a definição cibernética de complexidade
 	- a definição matemática de complexidade
