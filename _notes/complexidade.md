@@ -24,11 +24,11 @@
 		- Qual é a variedade de seu próprio corpo?
 			- Quantos pensamentos você pode ter?
 			- Quantos movimentos pode fazer?
-			- Quantas grandes histórias de amor você viver pode ter em sua cabeça?
+			- Quantas grandes histórias de amor você viver ainda?
 		- Qual é a variedade de um peixe?
 			- Quantos pensamentos um peixe pode produzir?
 			- Quantos movimentos um peixe pode fazer?
-			- Quantas narrativas um peixe pode ter em sua cabeça?
+			- Quantas grandes um peixe pode ter em sua cabeça?
 - **A definição Matemática de complexidade**
 	-
 - **Questões interessantes**
