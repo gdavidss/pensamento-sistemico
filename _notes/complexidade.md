@@ -35,7 +35,7 @@
 			- *"Eu escreveria 13 zeros seguidos!"*
 		- Resposta correta.
 		- Então, o seu primo decide aumentar um pouco a dificuldade do problema, e te dá uma sequência um pouco mais completa
-			- *[12, 12, 3, 32, 52, 9, 132, 212, 35, 552, 892, 145, 2332]*
+			- *12, 12, 3, 32, 52, 9, 132, 212, 35, 552, 892, 145, 2332*
 		- Novamente, ele te pergunta: "Me fala aí como você recriaria esses números"?
 		- Você então pensa um pouco. Dessa vez a resposta não vem imediatamente. Você então pega um papel de rascunho e começa a tentar encontrar um padrão. Passado um certo tempo, você responde:
 			- *"Eu iniciaria uma sequência com dois números uns. Depois, eu somaria os dois últimos números para formar o número seguinte. Eu pararia de escrever números quando escrevesse o 13º elemento. Assim, eu modificaria os números da sequência da seguinte forma: se o número é impar, eu multiplico ele por 10 e adiciono 2. Se ele é par, eu adiciono 1."*
