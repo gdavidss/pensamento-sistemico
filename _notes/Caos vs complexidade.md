@@ -1,8 +1,9 @@
+- ==REFINE== Eu preciso definir isso aqui de maneira melhor, caos é possivel de ser descrito bem, soh que a
 - Complexidade possui uma estrutura definida, sendo geralmente o resultado de sistemas bem mais simples e menos complexos
 - Caos possuem estruturas indefinidas, sendo geralmente o resultado de pequenas partes que interagem que parecem ser aleatórias.
 - **Exemplos:**
 	- Computadores são sistemas complexos porque são constituídos de pequenas partes de menor complexidade, mas com estruturas bem definidas
-	- Moléculas no ar são geralmente caóticas porque são o conju
+	- Moléculas no ar são geralmente caóticas porque são o conjunto de suas partículas se chocam de maneira "aleatórias"
 - **Observações**
 	- Muitos sistemas complexos, ao morrer, tornam-se altamente caóticos.
 	- Caos é um estado de muita [[entropia]], complexidade tem baixa [[entropia]].
