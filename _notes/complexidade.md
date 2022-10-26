@@ -1,6 +1,7 @@
 - **Vendo complexidade**
 	- Vamos começar com um exercício mental: Pare um minuto para observar as coisas à sua volta. O que existe de "complexo" ao seu redor?
-	- Se você está em um
+	- Se você está dentro de um edifício fechado, talvez a complexidade apareça na arquitetura do edifício, ou nas disposições de todos os blocos de tijolo que dão uma forma a esse lugar.
+	- Ou talvez a complexidade vem de
 	- ou todas as moléculas que compõe o seu corpo e fazem você respirar
 - **Que porra é complexidade?**
 	- Complexidade existe em absolutamente em todo lugar do nosso universo. É uma daquelas coisas que aparecem em todo lugar mas que só aparecem a gente quando nós decidimos enxergar.
