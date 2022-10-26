@@ -1,4 +1,4 @@
-- a complexidade está em absolutamente em todo lugar. É uma das características onipresentes do nosso universo.
+- Complexidade existe em absolutamente em todo lugar do nosso universo. É uma daquelas coisas que aparecem em todo lugar mas que só aparecem a gente quando nós decidimos enxergar.
 -
 - complexidade é uma daquelas palavras simples e que muitas pessoas entendem, mas que ninguém consegue concordar numa definição única.
 - Na linguagem popular, dizer que algo é complexo é dizer que algo
