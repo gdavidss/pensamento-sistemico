@@ -34,7 +34,9 @@
 		- Imagine que você e seu primo estão fazendo uma brincadeira de adivinhar como o outro criou uma sequência de números. Na primeira rodada, seu primo te dá um papel contendo os seguintes números:
 			- 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 		- Então, ele te pergunta: "Me fala aí como você recriaria esses números"?
-		- Você então
+		- Você, então, não demora a trabalhar numa resposta. Passa a contar todos os zeros e então responde:
+			- "Eu escreveria 26 zeros seguidos!"
+		- Resposta correta.
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
