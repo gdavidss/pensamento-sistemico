@@ -21,8 +21,14 @@
 	- A variedade do sistema aqui é o número total de todas as combinações de todas as roupas que você tem. Se você já estudou combinatória no ensino médio, você deve ter percebido que variedade é um conceito se parece bastante com o de combinação nesse caso.
 	- Logo, se você tem só duas camisas, dois shorts e um chinelo, o seu sistema é relativamente simples. Porém, se você tiver tanta roupa ao ponto de conseguir encher uma loja inteira da da Renner, seu sistema passa a ser muito mais complexo.
 	- Pense agora em exemplos de sistemas que possuem diferentes níveis de complexidade.
+		- Qual é a variedade de seu próprio corpo?
+			- Quantos pensamentos você pode ter?
+			- Quantos movimentos pode fazer?
+			- Quantas grandes histórias de amor você viver pode ter em sua cabeça?
 		- Qual é a variedade de um peixe?
-			- Quantos pensamentos um peixe pode produzir? Quantos movimentos um peixe pode fazer?
+			- Quantos pensamentos um peixe pode produzir?
+			- Quantos movimentos um peixe pode fazer?
+			- Quantas narrativas um peixe pode ter em sua cabeça?
 - **A definição Matemática de complexidade**
 	-
 - **Questões interessantes**
