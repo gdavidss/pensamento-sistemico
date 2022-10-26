@@ -29,8 +29,10 @@
 	- Uma das primeiras definições formais e mais influentes do que é complexidade foi proposta há 60 anos atrás (ISSO FAZ MUITO POUCO TEMPO, BICHO). Essa definição foi dada por um matemático soviético, chamado [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) e por isso tem o nome especial de [[Complexidade de kolmogorov]]. Essa definição é a seguinte:
 		- ![image.png](../assets/image_1666809124848_0.png){:height 66, :width 334}
 	- O que esse troço assustador significa? Significa que:
-		- A complexidade de alguma coisa é o processo mais curto capaz de recriar essa coisa
-	-
+		- A complexidade de alguma coisa é tamanho do processo mais curto que reconstrói essa coisa
+	- Vamos imaginar dois exemplos.
+		- **Exemplo 1 — menos complexo**
+			-
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
