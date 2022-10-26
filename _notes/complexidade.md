@@ -1,8 +1,7 @@
-- **Vendo complexidade**
-	- Vamos começar com um exercício mental: Pare um minuto para observar as coisas à sua volta. O que existe de "complexo" ao seu redor?
-	- Se você está dentro de um edifício fechado, talvez a complexidade apareça na arquitetura do edifício, ou nas disposições de todos os blocos de tijolo que dão uma forma a esse lugar.
-	- Ou talvez a complexidade vem de simplesmente imaginar as móleculas que estão no seu corpo agora, fazendo c
-	- ou todas as moléculas que compõe o seu corpo e fazem você respirar
+- Vamos começar com um exercício mental: Pare um minuto para observar as coisas à sua volta. O que existe de "complexo" ao seu redor?
+- Se você está dentro de um edifício fechado, talvez a complexidade apareça na arquitetura do edifício, ou nas disposições de todos os blocos de tijolo que dão uma forma a esse lugar.
+- Ou talvez a complexidade vem de simplesmente imaginar as móleculas que estão no seu corpo agora, fazendo c
+- ou todas as moléculas que compõe o seu corpo e fazem você respirar
 - **Que porra é complexidade?**
 	- Complexidade existe em absolutamente em todo lugar do nosso universo. É uma daquelas coisas que apare mas que só aparecem a gente quando nós decidimos enxergar.
 	- complexidade é uma daquelas palavras simples e que muitas pessoas entendem, mas que ninguém consegue concordar numa definição única.
@@ -44,12 +43,11 @@
 			- *"Eu iniciaria uma sequência com dois números uns. Depois, eu somaria os dois últimos números para formar o número seguinte. Eu pararia de escrever números quando escrevesse o 13º elemento. Assim, eu modificaria os números da sequência da seguinte forma: se o número é impar, eu multiplico ele por 10 e adiciono 2. Se ele é par, eu adiciono 1."*
 		- Resposta correta.
 	- Nesse pequeno exercício mental, o seu primo te ofereceu duas sequências de diferentes complexidades. A "prova" de que uma sequência é menos complexa que a outra está no tamanho da sua descrição de como recriar a sequência de maneira exata.
-	-
-	- Como esse insight é generalizado para outras coisas
-		- Que passos você precisaria dar para recriar um peixe?
+	- Agora, pense como essa definição de complexidade é generalizada para outras coisas:
 		- Que passos você precisaria dar para recriar seu corpo?
-		- Que passos você precisaria dar para recriar a nação brasileira?
+		- Que passos você precisaria dar para recriar um peixe?
 		- Que passos você precisaria dar para recriar o seu computador?
+		- Que passos você precisaria dar para recriar a nação brasileira?
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
