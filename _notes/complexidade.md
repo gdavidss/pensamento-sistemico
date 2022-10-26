@@ -24,11 +24,12 @@
 		- Qual é a variedade de seu próprio corpo?
 			- Quantos pensamentos você pode produzir?
 			- Quantos movimentos pode fazer?
-			- Quantas reações moleculares são possíveis d
+			- Quantas reações químicas acontecem dento do seu corpo?
 		- Qual é a variedade de um peixe?
 			- Quantos pensamentos um peixe pode produzir?
 			- Quantos movimentos um peixe fazer?
-			- Quantas grandes um peixe pode ter em sua cabeça?
+			- Quantas reações químicas acontecem dentro do corpo de um peixe?
+	-
 - **A definição Matemática de complexidade**
 	-
 - **Questões interessantes**
