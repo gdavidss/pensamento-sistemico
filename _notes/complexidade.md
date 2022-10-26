@@ -15,5 +15,5 @@
 	- Ainda que existam muitas definições do que é complexidade, eis aqui duas delas que julgo ser pertinente.
 - **a definição cibernética de complexidade**
 	- Para o maravilhoso e esquecido campo da [[cibernética]], a definição é:
-		- Complexidade é o grau de
+		- Complexidade é o número de variedade de um sistema.
 - **a definição matemática de complexidade**
