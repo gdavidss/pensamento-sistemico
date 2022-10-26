@@ -24,7 +24,7 @@
 		- Qual é a variedade de seu próprio corpo?
 			- Quantos pensamentos você pode produzir?
 			- Quantos movimentos pode fazer?
-			- Quantas grandes histórias de amor você viver ainda?
+			- Quantas reações moleculares são possíveis d
 		- Qual é a variedade de um peixe?
 			- Quantos pensamentos um peixe pode produzir?
 			- Quantos movimentos um peixe fazer?
