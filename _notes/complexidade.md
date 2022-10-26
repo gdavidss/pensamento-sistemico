@@ -4,4 +4,5 @@
 	- é difícil de ser entendido
 	- é díficil de ser recriado
 	- tem muitas partes
-- Os entendimentos acima
+- as definições acima, ainda que não sejam
+-
