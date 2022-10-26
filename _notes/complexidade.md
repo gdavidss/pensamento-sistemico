@@ -21,3 +21,4 @@
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
+	- Como lidar com complexidade?
