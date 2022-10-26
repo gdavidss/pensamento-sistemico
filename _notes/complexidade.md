@@ -32,10 +32,10 @@
 		- A complexidade de alguma coisa é tamanho do processo mais curto que reconstrói essa coisa.
 	- Vamos imaginar dois exemplos.
 		- Imagine que você e seu primo estão fazendo uma brincadeira de adivinhar como o outro criou uma sequência de números. Na primeira rodada, seu primo te dá um papel contendo os seguintes números:
-			- *0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0*
+			- **
 		- Então, ele te pergunta: "Me fala aí como você recriaria esses números"?
 		- Você, então, não demora a trabalhar numa resposta. Passa a contar todos os zeros e então responde:
-			- *"Eu escreveria 26 zeros seguidos!"*
+			- *"Eu escreveria 13 zeros seguidos!"*
 		- Resposta correta.
 		- Então, o seu primo decide aumentar um pouco a dificuldade do problema, e te dá uma sequência um pouco mais completa
 			- *[12, 12, 3, 32, 52, 9, 132, 212, 35, 552, 892, 145, 2332]*
@@ -43,7 +43,7 @@
 		- Você então pensa um pouco. Dessa vez a resposta não vem imediatamente. Você então pega um papel de rascunho e começa a tentar encontrar um padrão. Passado um certo tempo, você responde:
 			- *"Eu iniciaria uma sequência com dois números uns. Depois, eu somaria os dois últimos números para formar o próximo número da sequência. Eu pararia de escrever números quando escrevesse o 13º elemento. Com a sequência pronta, eu modificaria meus números da seguinte forma: se o número é impar, eu multiplico ele por 10 e adiciono 2. Se ele é par, eu adiciono 1."*
 		- Resposta correta.
-	- Nesse pequeno exercício mental, você observou
+	- Nesse pequeno exercício mental, o seu primo te ofereceu
 		-
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
