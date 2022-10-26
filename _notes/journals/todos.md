@@ -1,3 +1,6 @@
+---
+---
+
 - **Meta**
   collapsed:: true
 	- TODO Define new name for the project
