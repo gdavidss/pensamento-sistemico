@@ -1,6 +1,6 @@
 - Complexidade possui uma estrutura definida, sendo geralmente o resultado de sistemas bem mais simples e menos complexos
-- Caos é associado a desordem, com uma estrutura inexistente e um maior estado de [[entropia]].
+- Caos tem estrutura inexistente e um maior estado de [[entropia]].
 - **Exemplos:**
 	- Computadores são sistemas complexos porque são constituídos de pequenas partes de menor complexidade, mas com estruturas bem definidas
 	- Moléculas no ar são geralmente caóticas porque são o conjunto de pequenas partes que se chocam em direções "aleatórias".
-- Quando um sistema morre, ele tende
+- Muitos sistemas complexos ao morrer tornam-se caóticos pois os seus componentes perdem a estrutura que lhe seguram.
