@@ -2,9 +2,9 @@
 - Caos possuem estruturas indefinidas, sendo geralmente o resultado de pequenas partes que interagem que parecem ser aleatórias.
 - **Exemplos:**
 	- Computadores são sistemas complexos porque são constituídos de pequenas partes de menor complexidade, mas com estruturas bem definidas
-	- Moléculas no ar são geralmente caóticas porque são o conjunto de pequenas partes que se chocam em direções "aleatórias".
+	- Moléculas no ar são geralmente caóticas porque são o conju
 - **Observações**
 	- Muitos sistemas complexos, ao morrer, tornam-se altamente caóticos.
 	- Caos é um estado de muita [[entropia]], complexidade tem baixa [[entropia]].
-	-
+	- É possível definir caos como uma instância de alta complexidade
 	-
