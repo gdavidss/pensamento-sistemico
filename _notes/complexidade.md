@@ -26,7 +26,7 @@
 		- Qual é a variedade do seu computador?
 		- Qual é a variedade da nação brasileira?
 - **A definição Matemática de complexidade**
-	- Uma das primeiras definições formais de complexidade, que possuem
+	- Uma das primeiras definições formais de complexidade, foi dada há 60 anos atrás (ISSO FAZ MUITO POUCO TEMPO, BICHO). Essa definição foi dada por um matemático soviético, chamado [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov)
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
