@@ -5,4 +5,7 @@
 	- é díficil de ser recriado
 	- tem muitas partes
 - as definições acima, ainda que não sejam
--
+- eis aqui outras definições de complexidade:
+	- a definição cibernética de complexidade
+	- a definição matemática de complexidade
+	- a definição
