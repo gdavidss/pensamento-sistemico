@@ -1,5 +1,5 @@
+- Vamos começar com um exercício: Pare um minuto para observar as coisas à sua volta. Identifique o que há de complexo ao seu redor.
 - Complexidade existe em absolutamente em todo lugar do nosso universo. É uma daquelas coisas que aparecem em todo lugar mas que só aparecem a gente quando nós decidimos enxergar.
--
 - complexidade é uma daquelas palavras simples e que muitas pessoas entendem, mas que ninguém consegue concordar numa definição única.
 - Na linguagem popular, dizer que algo é complexo é dizer que algo
 	- é complicado
