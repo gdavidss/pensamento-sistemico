@@ -1,3 +1,5 @@
+- a complexidade está em absolutamente em todo lugar. É uma das
+-
 - complexidade é uma daquelas palavras simples e que muitas pessoas entendem, mas que ninguém consegue concordar numa definição única.
 - Na linguagem popular, dizer que algo é complexo é dizer que algo
 	- é complicado
@@ -5,7 +7,7 @@
 	- é díficil de ser recriado
 	- tem muitas partes
 - as definições acima, ainda que não sejam
-- eis aqui outras definições de complexidade:
+- Ainda que existam muitas definições do que é complexidade, eis aqui duas delas que julgo ser pertinente.
 	- a definição cibernética de complexidade
 	- a definição matemática de complexidade
 	- a definição
