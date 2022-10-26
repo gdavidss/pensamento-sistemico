@@ -21,10 +21,11 @@
 	- A variedade do sistema aqui é o número total de todas as combinações de todas as roupas que você tem. Se você já estudou combinatória no ensino médio, você deve ter percebido que variedade é um conceito se parece bastante com o de [combinação](https://pt.wikipedia.org/wiki/Combina%C3%A7%C3%A3o).
 	- Logo, se você tem só duas camisas, dois shorts e um chinelo, o seu sistema é relativamente simples. Porém, se você tiver tanta roupa ao ponto de conseguir encher uma loja inteira da da Renner, seu sistema passa a ser muito mais complexo.
 	- Pense agora em exemplos de sistemas que possuem diferentes níveis de complexidade.
-		- Qual é a variedade de um peixe?
 		- Qual é a variedade de seu próprio corpo?
+		- Qual é a variedade de um peixe?
+		- Qual é a variedade do seu computador?
 		- Qual é a variedade da nação brasileira?
-		- Qual é a variedade da internet?
+		- Qual é a variedade da
 - **A definição Matemática de complexidade**
 	-
 - **Questões interessantes**
