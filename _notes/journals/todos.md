@@ -1,17 +1,17 @@
 ---
 ---
 
+- TODO Codar block reference
+- TODO
 - **Meta**
-  collapsed:: true
-	- TODO Define new name for the project
 - **Content**
 	- TODO Create page here that contain links for aesthetic resources
 		- TODO and include [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
 - **Polishing**
-  collapsed:: true
 	- WAITING **Font**
 	  collapsed:: true
 		- TODO Font research
+	- DONE Define new name for the project
 - **Archive**
   collapsed:: true
 	- CANCELLED Adjust zoom based on number of adjacent nodes and other criteria for better visibility
