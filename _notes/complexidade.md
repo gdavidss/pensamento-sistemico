@@ -41,9 +41,10 @@
 			- *[12, 12, 3, 32, 52, 9, 132, 212, 35, 552, 892, 145, 2332]*
 		- Novamente, ele te pergunta: "Me fala aí como você recriaria esses números"?
 		- Você então pensa um pouco. Dessa vez a resposta não vem imediatamente. Você então pega um papel de rascunho e começa a tentar encontrar um padrão. Passado um certo tempo, você responde:
-			- *"Eu iniciaria uma sequência com dois números uns. Depois, eu somaria os dois últimos números para formar o próximo número. Eu pararia de escrever números quando escrevesse o 13º elemento. Com a sequência pronta, eu modificaria meus números da seguinte forma: se o número é impar, eu multiplico ele por 10 e adiciono 2. Se ele é par, eu adiciono 1."*
+			- *"Eu iniciaria uma sequência com dois números uns. Depois, eu somaria os dois últimos números para formar o número seguinte. Eu pararia de escrever números quando escrevesse o 13º elemento. Assim, eu modificaria os números da sequência da seguinte forma: se o número é impar, eu multiplico ele por 10 e adiciono 2. Se ele é par, eu adiciono 1."*
 		- Resposta correta.
-	- Nesse pequeno exercício mental, o seu primo te ofereceu duas sequências de número com diferentes complexidades. Você deu descrições concisas de como recriar essas duas sequências usando o menor número de palavras.
+	- Nesse pequeno exercício mental, o seu primo te ofereceu duas sequências de número com diferentes complexidades. Você deu descrições mais resumidas possíveis de como recriar as sequências.
+	- A primeira
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
