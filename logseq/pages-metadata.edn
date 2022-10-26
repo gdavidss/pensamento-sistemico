@@ -50,6 +50,9 @@
  {:block/name "caos",
   :block/created-at 1665857426627,
   :block/updated-at 1665857426627}
+ {:block/name "caos vs complexidade",
+  :block/created-at 1666806382114,
+  :block/updated-at 1666806382114}
  {:block/name "card",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
@@ -71,7 +74,7 @@
   :block/updated-at 1665361563862}
  {:block/name "complexidade",
   :block/created-at 1665857426606,
-  :block/updated-at 1666805549034}
+  :block/updated-at 1666806743438}
  {:block/name "comportamento coletivo",
   :block/created-at 1665857426612,
   :block/updated-at 1665857426612}
@@ -264,6 +267,9 @@
  {:block/name "todos",
   :block/created-at 1665361553519,
   :block/updated-at 1665864754989}
+ {:block/name "variedade",
+  :block/created-at 1666806737854,
+  :block/updated-at 1666806737854}
  {:block/name "wait",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}

@@ -16,7 +16,7 @@
 - **A definição Cibernética de complexidade**
 	- Para o maravilhoso e esquecido campo da [[cibernética]], a definição é:
 		- Complexidade é o grau de [[variedade]] de um sistema.
-	- Variedade é o grau de
+	- Variedade é o número de estados de um sistema. Como assimPense em todas as combinações de roupas que você
 - **A definição Matemática de complexidade**
 	-
 - **Questões interessantes**
