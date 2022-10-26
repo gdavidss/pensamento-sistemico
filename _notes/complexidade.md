@@ -43,7 +43,8 @@
 		- Você então pensa um pouco. Dessa vez a resposta não vem imediatamente. Passado um tempinho, você se lembra da sequência de fibonacci e responde:
 			- Eu iniciaria uma sequência com dois números uns.
 			- Depois, eu somaria os dois últimos números para formar os números restantes.
-			- Com a sequência pronta, eu
+			- Eu pararia minha sequência arbitrariamente no 13º elemento.
+			- Com a sequência pronta, eu modificaria
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
