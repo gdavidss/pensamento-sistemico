@@ -23,6 +23,7 @@
 	- Pense agora em exemplos de sistemas que possuem diferentes níveis de complexidade.
 		- Qual é a variedade de seu próprio corpo?
 			- Quantos pensamentos você pode ter?
+			- Quantas pessoas
 			- Quantos movimentos pode fazer?
 			- Quantas grandes histórias de amor você viver ainda?
 		- Qual é a variedade de um peixe?
