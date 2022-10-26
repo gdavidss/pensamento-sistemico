@@ -43,8 +43,11 @@
 		- Você então pensa um pouco. Dessa vez a resposta não vem imediatamente. Você então pega um papel de rascunho e começa a tentar encontrar um padrão. Passado um certo tempo, você responde:
 			- *"Eu iniciaria uma sequência com dois números uns. Depois, eu somaria os dois últimos números para formar o número seguinte. Eu pararia de escrever números quando escrevesse o 13º elemento. Assim, eu modificaria os números da sequência da seguinte forma: se o número é impar, eu multiplico ele por 10 e adiciono 2. Se ele é par, eu adiciono 1."*
 		- Resposta correta.
-	- Nesse pequeno exercício mental, o seu primo te ofereceu duas sequências de número com diferentes complexidades. Você deu descrições mais resumidas possíveis de como recriar as sequências.
-	- A primeira
+	- Nesse pequeno exercício mental, o seu primo te ofereceu duas sequências de número com diferentes complexidades. Você deu descrições mais resumidas possíveis de como recriar as sequências. A primeira sequência foi muito menos complexa que a segunda.
+	- Como esse insight é generalizado para outras coisas?
+		- Que passos você precisaria dar para recriar um peixe?
+		- Que passos você precisaria dar para recriar seu corpo?
+		-
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
