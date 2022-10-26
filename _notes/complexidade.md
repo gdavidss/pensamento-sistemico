@@ -31,8 +31,7 @@
 	- O que esse troço assustador significa? Significa que:
 		- A complexidade de alguma coisa é tamanho do processo mais curto que reconstrói essa coisa
 	- Vamos imaginar dois exemplos.
-		- **Exemplo 1 — menos complexo**
-			-
+		- Imagine que você e seu primo estão brincando
 - **Questões interessantes**
 	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
 	- O que é necessário para que
