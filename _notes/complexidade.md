@@ -1,2 +1,7 @@
-- complexidade é uma daquelas palavras simples e que muitas pessoas entendem, mas que ninguém concorda numa há definição.
-- na linguagem popular, dizer que algo é complexo é dizer que algo é complicado, tem muitas partes ou difícil de ser entendido ou recriado. Todas
+- complexidade é uma daquelas palavras simples e que muitas pessoas entendem, mas que ninguém consegue concordar numa definição única.
+- Na linguagem popular, dizer que algo é complexo é dizer que algo
+	- é complicado
+	- é difícil de ser entendido
+	- é díficil de ser recriado
+	- tem muitas partes
+- Os entendimentos acima
