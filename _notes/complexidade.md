@@ -15,10 +15,10 @@
 	- Ainda que existam muitas definições do que é complexidade, eis aqui duas delas que julgo ser pertinente.
 - **A definição Cibernética de complexidade**
 	- Para o maravilhoso e esquecido campo da [[cibernética]], a definição é:
-		- Complexidade é o grau de [[variedade]] de um sistema.
+		- Complexidade é o grau de [[variedade]] de um [[sistema]].
 	- ==REFINE== adicionar exemplo variedade
-	- Variedade é o número de possíveis estados de um sistema. Quanto mais estados um sistema é capaz de assumir, mais complexo o sistema é.
-	- Por exemplo, imagina que você e seu outfit são um sistema.
+	- Variedade é o número de possíveis estados de um [[sistema]]. Quanto mais estados um sistema é capaz de assumir, mais complexo o sistema é.
+	- Por exemplo, imagina que você e as roupas são um único sistema.
 - **A definição Matemática de complexidade**
 	-
 - **Questões interessantes**
