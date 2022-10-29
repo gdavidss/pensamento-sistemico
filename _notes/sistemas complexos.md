@@ -1,0 +1,2 @@
+- Sistemas complexos são formados pelas seguintes características
+-
