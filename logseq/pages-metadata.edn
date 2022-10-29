@@ -74,7 +74,7 @@
   :block/updated-at 1665361563862}
  {:block/name "complexidade",
   :block/created-at 1665857426606,
-  :block/updated-at 1667073238333}
+  :block/updated-at 1667075718999}
  {:block/name "complexidade de kolmogorov",
   :block/created-at 1666808938902,
   :block/updated-at 1666808938902}
@@ -264,6 +264,9 @@
  {:block/name "sistemas",
   :block/created-at 1665857426644,
   :block/updated-at 1665857426644}
+ {:block/name "sistemas complexos",
+  :block/created-at 1667075718998,
+  :block/updated-at 1667075759922}
  {:block/name "teoria dos jogos",
   :block/created-at 1665857426804,
   :block/updated-at 1665857426804}

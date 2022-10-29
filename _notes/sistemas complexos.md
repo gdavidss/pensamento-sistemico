@@ -1,2 +1,3 @@
 - Sistemas complexos são formados pelas seguintes características
--
+- **Interações**
+	- Sistemas complexos são muitas vezes feitos de várias partezinhas que "conversam" muitos componentes que interagem de várias maneiras entre si e potencialmente com seu ambiente também. Estes componentes formam redes de interações, às vezes com apenas alguns poucos componentes envolvidos em muitas interações. As interações podem gerar novas informações que tornam difícil estudar os componentes isoladamente ou prever completamente o seu futuro. Além disso, os componentes de um sistema também podem ser sistemas totalmente novos, levando a sistemas de sistemas, sendo interdependentes uns dos outros. O principal desafio da ciência da complexidade não é apenas ver as partes e suas conexões, mas também entender como essas conexões dão origem ao todo.
