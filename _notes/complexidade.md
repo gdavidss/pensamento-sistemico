@@ -1,3 +1,6 @@
+---
+---
+
 - "Não há amor em um átomo de carbono, não há furacão em uma molécula de água, não há colapso financeiro em uma nota de dólar". — Peter Dodds
 - ==REFINE== Complexidade é uma propriedade de [[sistemas complexos]]
 - Vamos começar com um exercício mental: Pare um minuto para observar as coisas à sua volta. O que existe de "complexo" ao seu redor?
