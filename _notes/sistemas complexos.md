@@ -1,4 +1,4 @@
-- Sistemas complexos são formados pelas seguintes características
+- Sistemas complexos tem as seguintes características.
 - **Interações**
 	- Sistemas complexos são muitas vezes feitos de várias partezinhas que "conversam" de várias maneiras diferente entre si e o ambiente. Essas partezinhas—ou **componentes**—formam uma [[rede]] de **interações**. Essas interações podem ser tão grandes que fica até difíceis de estudar cada partezinha de maneira isolada ou prever o seu futuro.
 	- Pra complicar ainda mais, esses componentes podem ser outros sistema complexos totalmente novos, levando a um grande surubão de sistemas ou, mais educadamente, "sistemas de sistemas", que dependem um do outro para existir.
@@ -11,4 +11,7 @@
 	- **Exemplos**: uma enorme quantidade de moléculas de ar e vapor formando um tornado; múltiplas células formando um organismo vivo; bilhões de neurônios em um cérebro produzindo consciência e inteligência.
 	- **Conceitos**: emergência, escalas, não-linearidade, bottom-up, descrição, surpresa, efeitos indiretos, não-intuitividade, transição de fase, não-redutibilidade, quebra do pensamento linear/estatístico tradicional, o todo é mais do que a soma de suas partes
 - **Dinâmicas**
-	-
+	- Os sistemas podem ser analisados em termos das mudanças de seus estados ao longo do tempo. Um estado é descrito em conjuntos de variáveis que melhor caracterizam o sistema. Como o sistema muda seu estado de um para o outro, suas variáveis também mudam, muitas vezes respondendo ao seu ambiente. Esta mudança é chamada linear se ela for diretamente proporcional ao tempo, ao estado atual do sistema, ou muda no ambiente, ou não linear se ela não for proporcional a elas. Sistemas complexos são tipicamente não lineares, mudando em diferentes taxas dependendo de seus estados e de seu ambiente. Eles também podem ter estados estáveis nos quais eles podem permanecer os mesmos mesmo se perturbados, ou estados instáveis nos quais os sistemas podem ser perturbados por uma pequena perturbação. Em alguns casos, pequenas mudanças ambientais podem mudar completamente o comportamento do sistema, conhecidas como bifurcações, transições de fase, ou pontos de ruptura. Alguns sistemas são caóticos, extremamente sensíveis a pequenas perturbações e imprevisíveis a longo prazo, mostrando o chamado efeito borboleta. Um sistema complexo também pode ser dependente do caminho, ou seja, seu estado futuro depende não apenas de seu estado atual, mas também de sua história passada.
+	- Exemplos: o clima muda constantemente de forma imprevisível; a volatilidade financeira no mercado de ações.
+	- Conceitos: Dinâmica, comportamento, não-linearidade, caos, não-equilíbrio, sensibilidade, efeito borboleta, bifurcação, não-previsibilidade a longo prazo, incerteza, dependência do caminho/contexto, não-ergodicidade.
+-
