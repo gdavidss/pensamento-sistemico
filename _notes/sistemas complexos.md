@@ -2,7 +2,7 @@
 ---
 
 - Sistemas complexos tem as seguintes características.
-- **Interações**
+- ## **Interações**
   collapsed:: true
 	- Sistemas complexos são muitas vezes feitos de várias partezinhas que "conversam" de várias maneiras diferente entre si e o ambiente. Essas partezinhas—ou **componentes**—formam uma [[rede]] de **interações**. Essas interações podem ser tão grandes que fica até difíceis de estudar cada partezinha de maneira isolada ou prever o seu futuro.
 	- Pra complicar ainda mais, esses componentes podem ser outros sistema complexos totalmente novos, levando a um grande surubão de sistemas ou, mais educadamente, "sistemas de sistemas", que dependem um do outro para existir.
@@ -31,3 +31,4 @@
 - **Adaptação**
 - **Interdisciplinaridade**
 - **Métodos**
+-
