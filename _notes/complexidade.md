@@ -1,3 +1,4 @@
+-
 - Vamos começar com um exercício mental: Pare um minuto para observar as coisas à sua volta. O que existe de "complexo" ao seu redor?
 - Se você está dentro de um edifício fechado, talvez a complexidade apareça na arquitetura do edifício, ou nas disposições de todos os blocos de tijolo que dão uma forma a esse lugar. Ou talvez a complexidade apareça para você ao imaginar as células do seu corpo, dançando em sincronia para manter você vivo nesse exato momento. Talvez a complexidade venha de imaginar a totalidade do planeta terra, e da quantidade de emoções e histórias que jorram a cada segundo de sua existência.
 - **Que porra é complexidade?**
