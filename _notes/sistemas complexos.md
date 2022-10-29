@@ -8,6 +8,7 @@
 - **Emergência**
 	- *"O todo é maior do que a soma das partes"*
 	- Em sistemas simples, você geralmente consegue entendê-lo bem tranquilamente juntando seus componentes e sabendo como cada parte se comporta individualmente. Em sistemas complexos, entretanto, as propriedades do todo dificilmente podem ser compreendidas ou previstas simplesmente conhecendo seus componentes por causa de algo chamado "emergência" (o ato de emergir; vir à tona).
-	- Este fenômeno tem a ver com o conceito acima de interações, e como comportamentos coletivos não são óbvios em escalas muito maiores
 	- **Exemplos**: uma enorme quantidade de moléculas de ar e vapor formando um tornado; múltiplas células formando um organismo vivo; bilhões de neurônios em um cérebro produzindo consciência e inteligência.
 	- **Conceitos**: emergência, escalas, não-linearidade, bottom-up, descrição, surpresa, efeitos indiretos, não-intuitividade, transição de fase, não-redutibilidade, quebra do pensamento linear/estatístico tradicional, o todo é mais do que a soma de suas partes
+- **Dinâmicas**
+	-
