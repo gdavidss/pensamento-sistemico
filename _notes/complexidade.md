@@ -40,7 +40,7 @@
 		- Você então pensa um pouco. Dessa vez a resposta não vem imediatamente. Você então pega um papel de rascunho e começa a tentar encontrar um padrão. Passado um certo tempo, você responde:
 			- *"Eu iniciaria uma sequência com dois números uns. Depois, eu somaria os dois últimos números para formar o número seguinte. Eu pararia de escrever números quando escrevesse o 13º elemento. Assim, eu modificaria os números da sequência da seguinte forma: se o número é impar, eu multiplico ele por 10 e adiciono 2. Se ele é par, eu adiciono 1."*
 		- Resposta correta.
-	- Sabemos que fundamental, computadores Vamos ir um passo além e converter as suas duas respostas
+	- Vamos ir um passo além e converter as suas duas respostas em
 	- Nesse pequeno exercício mental, o seu primo te ofereceu duas sequências de diferentes complexidades. A "prova" de que uma sequência é menos complexa que a outra está no tamanho da sua descrição de como recriar a sequência de maneira exata.
 	- Agora, pense como essa definição de complexidade é generalizada para outras coisas:
 		- Que passos você precisaria dar para recriar seu corpo?
