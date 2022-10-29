@@ -240,6 +240,9 @@
  {:block/name "readme",
   :block/created-at 1665104345124,
   :block/updated-at 1665104345124}
+ {:block/name "rede",
+  :block/created-at 1667075867631,
+  :block/updated-at 1667075867631}
  {:block/name "rede neural artificial",
   :block/created-at 1665857426721,
   :block/updated-at 1665857426721}
@@ -266,7 +269,7 @@
   :block/updated-at 1665857426644}
  {:block/name "sistemas complexos",
   :block/created-at 1667075718998,
-  :block/updated-at 1667075759922}
+  :block/updated-at 1667076326256}
  {:block/name "teoria dos jogos",
   :block/created-at 1665857426804,
   :block/updated-at 1665857426804}

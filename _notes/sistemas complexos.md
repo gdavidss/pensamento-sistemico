@@ -4,4 +4,5 @@
 	- Pra complicar ainda mais, essas partezinhas podem ser outros sistema complexos totalmente novos, levando a um grande surubão de sistemas ou, mais educadamente, "sistemas de sistemas", que dependem um do outro para existir.
 	- O principal desafio de quem tenta entender um sistema complexo não é apenas observar as partes que compõe esse sistema. Essa geralmente é a parte fácil. O difícil mesmo é entender como as interações das partezinhas dão origem ao sistema como um todo.
 	- **Exemplos**: bilhões de neurônios interagindo no cérebro humano; computadores se comunicando na Internet; humanos em relacionamentos multifacetados.
-	-
+	- **Conceitos**: sistema, componente, interações, rede, estrutura, heterogeneidade, inter-relação, interconexão, interdependência, subsistemas, fronteiras, ambiente, sistemas abertos/fechados, sistemas de sistemas
+-
