@@ -12,7 +12,8 @@
 		- humanos em relacionamentos multifacetados.
 - ## **Emergência**
 	- *"O todo é maior do que a soma das partes"*
-	- Em sistemas simples, você geralmente consegue entendê-lo tranquilamente só de saber como seus conhecendo seus componentes se comportam de maneira individual. Em sistemas complexos, entretanto, as propriedades do todo dificilmente podem ser compreendidas simplesmente conhecendo seus componentes por causa de algo chamado "emergência" (o ato de emergir; vir à tona).
+	- Em sistemas simples, você geralmente consegue entendê-los bem conhecendo seus componentes individualmente. Em sistemas complexos, porém, as propriedades do todo dificilmente podem ser compreendidas simplesmente conhecendo seus componentes por causa de algo chamado "emergência" (o ato de emergir; vir à tona).
+	-
 	- **Exemplos**:
 		- uma enorme quantidade de moléculas de ar e vapor formando um tornado;
 		- múltiplas células formando um organismo vivo;
