@@ -10,7 +10,6 @@
 		- bilhões de neurônios interagindo no cérebro humano
 		- computadores se comunicando na Internet
 		- humanos em relacionamentos multifacetados.
-	- **Conceitos**: sistema, componente, interações, rede, estrutura, heterogeneidade, inter-relação, interconexão, interdependência, subsistemas, fronteiras, ambiente, sistemas abertos/fechados, sistemas de sistemas
 - ## **Emergência**
 	- *"O todo é maior do que a soma das partes"*
 	- Em sistemas simples, você geralmente consegue entendê-lo bem tranquilamente juntando seus componentes e sabendo como cada parte se comporta individualmente. Em sistemas complexos, entretanto, as propriedades do todo dificilmente podem ser compreendidas ou previstas simplesmente conhecendo seus componentes por causa de algo chamado "emergência" (o ato de emergir; vir à tona).
@@ -18,7 +17,6 @@
 		- uma enorme quantidade de moléculas de ar e vapor formando um tornado;
 		- múltiplas células formando um organismo vivo;
 		- bilhões de neurônios em um cérebro produzindo consciência e inteligência.
-	- **Conceitos**: emergência, escalas, não-linearidade, bottom-up, descrição, surpresa, efeitos indiretos, não-intuitividade, transição de fase, não-redutibilidade, quebra do pensamento linear/estatístico tradicional, o todo é mais do que a soma de suas partes
 - ## **Dinâmicas**
   collapsed:: true
 	- Os sistemas podem ser analisados em termos das mudanças de seus estados ao longo do tempo. Um estado é descrito em conjuntos de variáveis que melhor caracterizam o sistema. Como o sistema muda seu estado de um para o outro, suas variáveis também mudam, muitas vezes respondendo ao seu ambiente. Esta mudança é chamada linear se ela for diretamente proporcional ao tempo, ao estado atual do sistema, ou muda no ambiente, ou não linear se ela não for proporcional a elas. Sistemas complexos são tipicamente não lineares, mudando em diferentes taxas dependendo de seus estados e de seu ambiente. Eles também podem ter estados estáveis nos quais eles podem permanecer os mesmos mesmo se perturbados, ou estados instáveis nos quais os sistemas podem ser perturbados por uma pequena perturbação. Em alguns casos, pequenas mudanças ambientais podem mudar completamente o comportamento do sistema, conhecidas como bifurcações, transições de fase, ou pontos de ruptura. Alguns sistemas são caóticos, extremamente sensíveis a pequenas perturbações e imprevisíveis a longo prazo, mostrando o chamado efeito borboleta. Um sistema complexo também pode ser dependente do caminho, ou seja, seu estado futuro depende não apenas de seu estado atual, mas também de sua história passada.
