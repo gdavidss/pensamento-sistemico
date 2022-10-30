@@ -13,7 +13,7 @@
 - ## **Emergência**
 	- *"O todo é maior do que a soma das partes"*
 	- Em sistemas simples, você geralmente consegue entendê-los bem conhecendo seus componentes individualmente. Em sistemas complexos, porém, as propriedades do todo dificilmente podem ser compreendidas simplesmente conhecendo seus componentes por causa de algo chamado "emergência" (o ato de emergir; vir à tona).
-	- Emergência é quando as interações das partes acabam gerando estruturas e comportamentos coletivos não triviais em escalas maiores. Este fato é normalmente resumido com a frase popular, o todo é mais do que a soma de suas partes.
+	- Emergência é quando as interações das partes acabam gerando estruturas e comportamentos coletivos especiais em escalas maiores. O conceito de emergência é geralmente entendido com afato é normalmente resumido com a frase popular, o todo é mais do que a soma de suas partes.
 	-
 	- **Exemplos**:
 		- uma enorme quantidade de moléculas de ar e vapor formando um tornado;

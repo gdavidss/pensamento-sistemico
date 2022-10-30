@@ -219,6 +219,9 @@
  {:block/name "oct 29th, 2022",
   :block/created-at 1667072077698,
   :block/updated-at 1667072077698}
+ {:block/name "oct 30th, 2022",
+  :block/created-at 1667157486329,
+  :block/updated-at 1667157486329}
  {:block/name "oct 7th, 2022",
   :block/created-at 1665111603249,
   :block/updated-at 1665170446293}
@@ -269,7 +272,7 @@
   :block/updated-at 1665857426644}
  {:block/name "sistemas complexos",
   :block/created-at 1667075718998,
-  :block/updated-at 1667077529034}
+  :block/updated-at 1667158065276}
  {:block/name "teoria dos jogos",
   :block/created-at 1665857426804,
   :block/updated-at 1665857426804}
