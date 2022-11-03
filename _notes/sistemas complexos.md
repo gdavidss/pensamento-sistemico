@@ -1,9 +1,9 @@
 ---
 ---
 
-- Sistemas complexos
+- Sistemas complexos estão presentes em todos os lugares em nossa volta. Pare por um minuto e tente identificar quais sistemas complexos existem ao redor de você agora.
 - Apesar de geralmente sistemas complexos terem um nome autoexplicativo, isto é de sistemas que são complexos.
-- tem as seguintes características (informações sintetizadas de [*Complexity explained*]() ).
+- tem as seguintes características (informações sintetizadas de [*Complexity explained*](https://complexityexplained.github.io/) ).
 - ## **Interações**
 	- Sistemas complexos são muitas vezes feitos de várias partezinhas que "conversam" de várias maneiras diferente entre si e o ambiente. Essas partezinhas—ou **componentes**—formam uma [[rede]] de **interações**. Essas interações podem ser tão grandes que fica até difíceis de estudar cada partezinha de maneira isolada ou prever o seu futuro.
 	- Pra complicar ainda mais, esses componentes podem ser outros sistema complexos totalmente novos, levando a um grande surubão de sistemas ou, mais educadamente, "sistemas de sistemas", que dependem um do outro para existir.
