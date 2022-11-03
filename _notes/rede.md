@@ -1,0 +1,2 @@
+- Redes existe
+- A ferramenta matemática para descrever redes são grafos.
