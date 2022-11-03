@@ -1,5 +1,5 @@
 - Sistemas complexos estão em quase todos os lugares. Se eu te pedisse aqui para nomear ao menos três sistemas complexos que existem a sua volta agora, você certamente não acharia essa uma tarefa arduosa. Sistemas complexos aparecem em plantas, computadores, organizações coletivas, economias humanas, entre muitos outros exemplos.
-- Aliás, não é loucura afirmar que você mesmo é um grande sistema complexo. Um sistema feito de 30 trilhões de células, trabalhando em conjunto sem parar para manter você vivo neste exato momento. Existem muitos [eventos acontecendo dentro do seu corpo agora](https://everysecond.io/your-body).
+- Aliás, não é loucura afirmar que você mesmo é um grande sistema complexo. Um sistema feito de 30 trilhões de células, trabalhando em conjunto sem parar para manter você vivo neste exato momento. Pare para observar quantos [eventos acontecem dentro do seu corpo agora](https://everysecond.io/your-body).
 - Mas há algo de estranho nisso tudo. Parece que a gente não consegue sentir o peso da presença onipresente dos sistemas complexos. Em nosso dia-a-dia, vemos árvores como árvores, pessoas como pessoas, nações como nações.
 - Não meditamos o suficiente, nas questões:
 	- Quais são todos os elementos que fazem esse sistema complexo existir?
