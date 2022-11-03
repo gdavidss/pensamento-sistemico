@@ -1,7 +1,7 @@
 ---
 ---
 
-- Sistemas complexos estão presentes em todos os lugares em nossa volta. Pare por um minuto e tente identificar quais sistemas complexos existem ao redor de você agora.
+- Sistemas complexos estão presentes em todos os lugares em nossa volta. Pare por um minuto e tente nomear pelo menos três sistemas complexos existem ao redor de você agora. Essa tarefa não é difícil. Nossos próprios corpos são sistemas complexos, compostos de 30 trilhões de células que se morrem e nascem
 - Apesar de geralmente sistemas complexos terem um nome autoexplicativo, isto é de sistemas que são complexos.
 - tem as seguintes características (informações sintetizadas de [*Complexity explained*](https://complexityexplained.github.io/) ).
 - ## **Interações**
