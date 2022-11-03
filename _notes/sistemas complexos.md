@@ -3,7 +3,7 @@
 
 - Sistemas complexos estão presentes em todos os lugares em nossa volta. Pare por um minuto e tente nomear pelo menos três sistemas complexos existem ao redor de você agora. Essa não é uma tarefa muito difícil.
 - Aliás, você não precisa nem olhar ao redor para identificar um deles. De fato, você é um grande sistema complexo de cerca de 30 trilhões de células. Em que 3.8 milhões de células estão sendo geradas a cada segundo em seu corpo.
-- Apesar de geralmente sistemas complexos terem um nome autoexplicativo, o significado desse termo vai além. Quando falamos em sistemas complexos, queremos dizer algo além de sistemas que possuem um alto grau de [[complexidade]]. Afinal, é possível argumentar que instâncias de
+- Apesar de geralmente sistemas complexos terem um nome autoexplicativo, o significado desse termo vai além. Quando falamos em sistemas complexos, queremos dizer algo além de sistemas que possuem um alto grau de [[complexidade]]. Afinal, dependendo da definição de complexidade que você preferir, é possível argumentar que um sistema caótico é também um sistema complexo.
 - Por "sistema complexo", a gente se refere a um certo conjunto de características
 - tem as seguintes características (informações sintetizadas de [*Complexity explained*](https://complexityexplained.github.io/) ).
 - ## **Interações**
