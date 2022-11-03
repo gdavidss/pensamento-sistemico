@@ -1,6 +1,6 @@
 - Redes são o esqueleto de muitos [[sistemas complexos]].
 - Uma rede é como um mapa de [[sistema]]. Numa rede, há elementos conectados um ao outros de uma maneira particular.
-- A ciência que estuda redes é chamada de [Ciência das redes](http://networksciencebook.com/) (*network science*)
+- A ciência que estuda redes é extremamente nova. Ela é chamada de [Ciência das redes](http://networksciencebook.com/) (*network science*) e foi concretizada como uma disciplina própria há menos de 30 anos atrás.
 - ==REFINE== exemplo de redes
 - A ferramenta matemática para descrever redes são grafos. Abaixo há um exemplo de um grafo com seis **vértices**. As conexões entre cada vértice são representada por linhas, chamadas de **arestas**. Em Ciência das redes, vértices são chamados de **nós** e arestas são chamadas de **ligações**.
 	- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/220px-6n-graf.svg.png)
