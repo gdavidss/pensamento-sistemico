@@ -1,7 +1,9 @@
 ---
 ---
 
-- Sistemas complexos estão presentes em todos os lugares em nossa volta. Pare por um minuto e tente nomear pelo menos três sistemas complexos existem ao redor de você agora. Essa tarefa não é difícil. Nossos próprios corpos são sistemas complexos, com 3.8 milhões de células
+- Sistemas complexos estão presentes em todos os lugares em nossa volta. Pare por um minuto e tente nomear pelo menos três sistemas complexos existem ao redor de você agora.
+- Essa tarefa não é muito difícil. Aliás, você não precisa nem olhar ao redor.
+- Nossos próprios corpos são sistemas complexos, contendo 30 trilhões de células, em que 3.8 milhões de células estão sendo geradas a cada segundo em seu corpo.
 - Apesar de geralmente sistemas complexos terem um nome autoexplicativo, isto é de sistemas que são complexos.
 - tem as seguintes características (informações sintetizadas de [*Complexity explained*](https://complexityexplained.github.io/) ).
 - ## **Interações**
