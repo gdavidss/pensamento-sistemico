@@ -1,9 +1,10 @@
 ---
 ---
 
-- Sistemas complexos estão presentes em todos os lugares em nossa volta. Pare por um minuto e tente nomear pelo menos três sistemas complexos existem ao redor de você agora.
-- Essa tarefa não é muito difícil. Aliás, você não precisa nem olhar ao redor para identificar um deles. De fato, você é um grande sistema complexo de cerca de 30 trilhões de células. Em que 3.8 milhões de células estão sendo geradas a cada segundo em seu corpo.
+- Sistemas complexos estão presentes em todos os lugares em nossa volta. Pare por um minuto e tente nomear pelo menos três sistemas complexos existem ao redor de você agora. Essa não é uma tarefa muito difícil.
+- Aliás, você não precisa nem olhar ao redor para identificar um deles. De fato, você é um grande sistema complexo de cerca de 30 trilhões de células. Em que 3.8 milhões de células estão sendo geradas a cada segundo em seu corpo.
 - Apesar de geralmente sistemas complexos terem um nome autoexplicativo, isto é de sistemas que são complexos.
+- sistemas complexos dife
 - tem as seguintes características (informações sintetizadas de [*Complexity explained*](https://complexityexplained.github.io/) ).
 - ## **Interações**
 	- Sistemas complexos são muitas vezes feitos de várias partezinhas que "conversam" de várias maneiras diferente entre si e o ambiente. Essas partezinhas—ou **componentes**—formam uma [[rede]] de **interações**. Essas interações podem ser tão grandes que fica até difíceis de estudar cada partezinha de maneira isolada ou prever o seu futuro.
