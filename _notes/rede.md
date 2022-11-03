@@ -1,4 +1,4 @@
-- Redes dão a forma a muitos [[sistemas complexos]]
+- Redes são o esqueleto de muitos [[sistemas complexos]]
 - A ferramenta matemática para descrever redes são grafos.
-- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/220px-6n-graf.svg.png)
+	- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/220px-6n-graf.svg.png)
 - Redes podem ser
