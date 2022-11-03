@@ -1,3 +1,3 @@
-- 1. Aceitando a complexidade
-  2. Criando [[protocolos]] de comunicação
-  3. Criando interfaces ou abstrações que reduzam o
+- 1. Aceite que a complexidade existe
+  2. Crie [[protocolos]] para comunicar com 
+  3. Criando interfaces ou abstrações qu
