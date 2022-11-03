@@ -1,9 +1,11 @@
 - Redes são o esqueleto de muitos [[sistemas complexos]].
-- Uma rede é como um mapa de [[sistema]]. Numa rede, há elementos conectados um ao outros de uma maneira particular.
+- Uma rede é como se fosse um mapa de [[sistema]]. Numa rede, você pode ver os elementos de um sistemas conectados um ao outro de uma maneira única.
+- A grande brisa das redes é que, independente da rede que  elas tem propriedade
 - A [Ciência das redes](http://networksciencebook.com/) (*network science*) surgiu há muito pouco tempo. Apesar de ter tido seu início lá no fim dos anos 1800, ela só realmente se concretizou como uma disciplina própria há menos de 30 anos atrás, especialmente com a ajuda [desse nerdola aqui](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si).
 - ==REFINE== exemplo de redes
 - A ferramenta matemática para descrever redes são grafos. Abaixo há um exemplo de um grafo com seis **vértices**. As conexões entre cada vértice são representada por linhas, chamadas de **arestas**. Em Ciência das redes, vértices são chamados de **nós** e arestas são chamadas de **ligações**.
 	- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/220px-6n-graf.svg.png)
 - O **grau** de um nó é a sua quantidade de ligações.
-- Redes podem ser **direcionadas** ou **não-direcionadas**. Se a ligação entre os nós tem uma direção—como uma rede de seus seguidores no Instagram—a rede é direta. Se a ligação não tem uma direção particular—como a rede de seus amigos no Facebook—a rede é não-direcionada. Abaixo há exemplos respectivos de redes d
+- Redes podem ser **direcionadas** ou **não-direcionadas**. Se a ligação entre os nós tem uma direção—como uma rede de seus seguidores no Instagram—a rede é direta. Se a ligação não tem uma direção particular—como a rede de seus amigos no Facebook—a rede é não-direcionada. Abaixo há exemplos respectivos de redes direcionadas e não-direcionadas.
 	- ![](https://www.researchgate.net/profile/Riccardo-Basosi/publication/46485798/figure/fig1/AS:307380890947585@1450296723613/a-Example-of-a-directed-network-with-N-6-vertices-Here-L-9-L-4.png){:height 202, :width 297}
+-
