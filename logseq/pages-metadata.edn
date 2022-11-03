@@ -74,7 +74,7 @@
   :block/updated-at 1665361563862}
  {:block/name "complexidade",
   :block/created-at 1665857426606,
-  :block/updated-at 1667075718999}
+  :block/updated-at 1667496439247}
  {:block/name "complexidade de kolmogorov",
   :block/created-at 1666808938902,
   :block/updated-at 1666808938902}
@@ -156,6 +156,9 @@
  {:block/name "layout",
   :block/created-at 1665104345196,
   :block/updated-at 1665104345196}
+ {:block/name "lidando com complexidade",
+  :block/created-at 1667496439247,
+  :block/updated-at 1667496520433}
  {:block/name "limitação da racionalidade",
   :block/created-at 1665857426747,
   :block/updated-at 1665857426747}
@@ -249,6 +252,9 @@
  {:block/name "planejamento semana — oct 23th, 2022",
   :block/created-at 1666804932634,
   :block/updated-at 1666804932634}
+ {:block/name "protocolos",
+  :block/created-at 1667496518336,
+  :block/updated-at 1667496518336}
  {:block/name "readme",
   :block/created-at 1665104345124,
   :block/updated-at 1665104345124}
@@ -281,7 +287,7 @@
   :block/updated-at 1665857426644}
  {:block/name "sistemas complexos",
   :block/created-at 1667075718998,
-  :block/updated-at 1667496013807}
+  :block/updated-at 1667496391783}
  {:block/name "teoria dos jogos",
   :block/created-at 1665857426804,
   :block/updated-at 1665857426804}
