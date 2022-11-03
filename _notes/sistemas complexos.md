@@ -1,6 +1,6 @@
 - Sistemas complexos estão em quase todos os lugares. Se eu te pedisse aqui para nomear ao menos três sistemas complexos que existem a sua volta agora, você certamente não acharia essa uma tarefa arduosa. Sistemas complexos aparecem em plantas, computadores, organizações coletivas, economias humanas, entre muitos outros exemplos.
 - Aliás, não é loucura afirmar que você é um grande sistema complexo. Um sistema feito de 30 trilhões de células, trabalhando em conjunto sem parar para manter você vivo neste exato momento. Existem muitos [eventos acontecendo dentro do seu corpo agora](https://everysecond.io/your-body).
-- Ainda que
+- Mas há algo de estranho nisso tudo. Em nosso dia-a-dia, o sistemas complexos
 - Apesar de geralmente sistemas complexos terem um nome autoexplicativo, o significado desse termo vai além. Quando falamos em sistemas complexos, queremos dizer algo além de sistemas que possuem um alto grau de [[complexidade]]. Afinal, dependendo da definição de complexidade que você preferir, é possível argumentar que um sistema caótico é também um sistema complexo.
 - Quando usamos o termo "sistema complexo", geralmente queremos dizer a sistemas que além de possuírem um certo grau de complexidade, também possuem um alto grau de estrutura imbuídas em sua própria natureza.
 - Vamos investigar algumas características de famosos sistemas complexos (informações sintetizadas de [*Complexity explained*](https://complexityexplained.github.io/) ).
