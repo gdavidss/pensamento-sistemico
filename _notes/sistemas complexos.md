@@ -1,7 +1,7 @@
 - Sistemas complexos estão em quase todos os lugares. Se eu te pedisse aqui para nomear ao menos três sistemas complexos que existem a sua volta agora, você certamente não acharia essa uma tarefa arduosa. Sistemas complexos aparecem em plantas, computadores, organizações coletivas, economias humanas, entre muitos outros exemplos.
 - Aliás, não é loucura afirmar que você mesmo é um grande sistema complexo. Um sistema feito de 30 trilhões de células, trabalhando em conjunto sem parar para manter você vivo neste exato momento. Pare para observar quantos [eventos acontecem dentro do seu corpo a cada segundo](https://everysecond.io/your-body).
 - É, tem muita coisa acontecendo o tempo todo. Mas há algo de estranho nisso tudo. Parece que a gente se esquece da complexidade das coisas a nossa volta ou pouco se importa em parar meditar sobre isso. E assim, levamos vidas diárias em que enxergamos árvores como somente folhas e troncos, pessoas como somente narrativas e memórias, e nações como somente recortes culturais e históricos. E tendo segmentado árvores, pessoas e nações nas partezinhas que nos interessam,
-- Não, você não pode entender um sistema complexo segmentando ele de maneira arbitrária.
+- Não, nós não podemos entender um sistema complexo segmentando ele de maneira arbitrária. Nós devemos admitir que vivemos mentira sabemos pouco sobre árvores, pessoas e nações.
 - Não meditamos o suficiente, nas questões:
 	- Quais são todos os elementos que fazem esse sistema complexo existir?
 	- De que maneira os elementos conversam entre si?
