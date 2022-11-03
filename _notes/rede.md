@@ -1,4 +1,4 @@
 - Redes são o esqueleto de muitos [[sistemas complexos]]
 - A ferramenta matemática para descrever redes são grafos. Abaixo há um exemplo de um grafo com seis **vértices**. As conexões entre cada vértice são representada por linhas, chamadas de **arestas**. Em [Ciência das redes](http://networksciencebook.com/), vértices são chamados de **nós** e arestas são chamadas de **ligações**.
 	- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/220px-6n-graf.svg.png)
-- Redes podem ser
+- O **grau** de um nó é a sua quantidade de ligações.
