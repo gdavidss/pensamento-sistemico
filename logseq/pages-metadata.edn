@@ -158,7 +158,7 @@
   :block/updated-at 1665104345196}
  {:block/name "lidando com complexidade",
   :block/created-at 1667496439247,
-  :block/updated-at 1667496520433}
+  :block/updated-at 1667501135607}
  {:block/name "limitação da racionalidade",
   :block/created-at 1665857426747,
   :block/updated-at 1665857426747}
@@ -260,7 +260,7 @@
   :block/updated-at 1665104345124}
  {:block/name "rede",
   :block/created-at 1667075867631,
-  :block/updated-at 1667075867631}
+  :block/updated-at 1667503017298}
  {:block/name "rede neural artificial",
   :block/created-at 1665857426721,
   :block/updated-at 1665857426721}
