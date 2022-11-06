@@ -9,3 +9,4 @@ title: cibernética
 - [[autoreferência]]
 - [[pensamento sistêmico]]
 - [[sistemas]]
+-
