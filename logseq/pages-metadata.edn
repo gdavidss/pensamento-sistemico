@@ -170,7 +170,7 @@
   :block/updated-at 1665276993283}
  {:block/name "metacognição",
   :block/created-at 1665857426728,
-  :block/updated-at 1665857426728}
+  :block/updated-at 1667842396496}
  {:block/name "mit license",
   :block/created-at 1665104345124,
   :block/updated-at 1665104345124}
@@ -189,6 +189,9 @@
  {:block/name "nov 6th, 2022",
   :block/created-at 1667744633725,
   :block/updated-at 1667744633725}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667842379718,
+  :block/updated-at 1667842379718}
  {:block/name "now",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
