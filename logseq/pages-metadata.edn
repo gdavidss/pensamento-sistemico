@@ -1,7 +1,4 @@
-[{:block/name ":slug",
-  :block/created-at 1668100114553,
-  :block/updated-at 1668100114553}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1665857415914,
   :block/updated-at 1665857415914}
  {:block/name "a note about cats",
@@ -28,7 +25,7 @@
   :block/updated-at 1665857426513}
  {:block/name "auto-organização",
   :block/created-at 1665857426534,
-  :block/updated-at 1665857426534}
+  :block/updated-at 1668101742388}
  {:block/name "autopoiese",
   :block/created-at 1665857426602,
   :block/updated-at 1665857426602}
@@ -275,7 +272,7 @@
   :block/updated-at 1668100465058}
  {:block/name "project planning",
   :block/created-at 1668100108406,
-  :block/updated-at 1668100724439}
+  :block/updated-at 1668101435943}
  {:block/name "protocolos",
   :block/created-at 1667496518336,
   :block/updated-at 1667496518336}
@@ -315,6 +312,9 @@
  {:block/name "teoria dos jogos",
   :block/created-at 1665857426804,
   :block/updated-at 1665857426804}
+ {:block/name "test.com",
+  :block/created-at 1668101742387,
+  :block/updated-at 1668101742387}
  {:block/name "there is no note that matches this link",
   :block/created-at 1665104345054,
   :block/updated-at 1665104345054}

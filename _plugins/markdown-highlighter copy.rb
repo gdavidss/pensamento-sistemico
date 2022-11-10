@@ -13,8 +13,6 @@ Jekyll::Hooks.register [:pages], :post_convert do |doc|
   replace(doc)
 end
 
-=begin 
 def replace(doc)
   doc.content.gsub!(/==+([^ ](.*?)?[^ .=]?)==+/, "<mark>\\1</mark>")
 end
-=end
