@@ -1,8 +1,9 @@
 - **Features**
 	- TODO Create wireframes
 	- TODO Completion
-	- TODO F
--
+- **Formatting text**
+	- TODO Remove bullet point
+	- TODO Add line after each bullet point
 - **Search**
 	- TODO String match search
 	- TODO Semantic search
