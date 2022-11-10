@@ -17,3 +17,4 @@ def removeBulletpoints(doc)
   puts doc.content
   puts "----"
   doc.content.gsub!(/-+/, "penis")
+end
