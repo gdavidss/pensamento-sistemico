@@ -3,16 +3,16 @@
 # Turns ==something== in Markdown to <mark>something</mark> in output HTML
 
 Jekyll::Hooks.register [:notes], :post_convert do |doc|
-  replace(doc)
+  removeBulletpoints(doc)
 end
 
 Jekyll::Hooks.register [:pages], :post_convert do |doc|
   # jekyll considers anything at the root as a page,
   # we only want to consider actual pages
   next unless doc.path.start_with?('_pages/')
-  replace(doc)
+  removeBulletpoints(doc)
 end
 
-def replace(doc)
+def removeBulletpoints(doc)
   doc.content.gsub!(/==+([^ ](.*?)?[^ .=]?)==+/, "<b>\\1</b>")
 end
