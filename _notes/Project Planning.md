@@ -1,5 +1,4 @@
 - [[todos]]
--
 - **Progress bar**
 	- TODO Cache
 - **Formatting**
@@ -9,3 +8,5 @@
 - **Search**
 	- TODO String match search
 	- TODO Semantic search
+- **Other**
+	- Bu
