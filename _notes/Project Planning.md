@@ -1,12 +1,15 @@
 - [[todos]]
-- **Progress bar**
-	- TODO Cache
 - **Formatting**
 	- TODO Remove bullet points
 	- TODO Add line after each bullet point
 	- TODO Support para Latex
+- **Progress bar**
+	- TODO Cache pages visitadas
+	- TODO Display progress bar
 - **Search**
 	- TODO String match search
 	- TODO Semantic search
 - **Other**
-	- Bu
+	- TODO Buy pensamentosistemico.com
+	- TODO Criar perfil Instagram, TikTok, Youtube, Twitter
+	- TODO Criar logo
