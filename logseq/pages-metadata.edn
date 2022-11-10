@@ -1,4 +1,7 @@
-[{:block/name "a",
+[{:block/name ":slug",
+  :block/created-at 1668103576326,
+  :block/updated-at 1668103576326}
+ {:block/name "a",
   :block/created-at 1665857415914,
   :block/updated-at 1665857415914}
  {:block/name "a note about cats",
@@ -25,7 +28,7 @@
   :block/updated-at 1665857426513}
  {:block/name "auto-organização",
   :block/created-at 1665857426534,
-  :block/updated-at 1668101742388}
+  :block/updated-at 1668103596052}
  {:block/name "autopoiese",
   :block/created-at 1665857426602,
   :block/updated-at 1665857426602}
