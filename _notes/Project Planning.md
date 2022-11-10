@@ -1,6 +1,8 @@
+- [[todos]]
 - **Features**
 	- TODO Create wireframes
-- TODO Completion
+- **Progress bar**
+	- TODO Cache
 - **Formatting text**
 	- TODO Remove bullet points
 	- TODO Add line after each bullet point
