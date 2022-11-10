@@ -1,6 +1,3 @@
----
----
-
 - ==penis==
 	- sexo
 		- ==penis ai gostoso==
@@ -8,5 +5,4 @@
 			- cara
 				- cara
 			- cara
-- cara
 - [[emergência]]
