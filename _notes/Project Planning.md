@@ -1,9 +1,10 @@
 - **Features**
 	- TODO Create wireframes
-	- TODO Completion
+- TODO Completion
 - **Formatting text**
-	- TODO Remove bullet point
+	- TODO Remove bullet points
 	- TODO Add line after each bullet point
+	- TODO Support para Latex
 - **Search**
 	- TODO String match search
 	- TODO Semantic search
