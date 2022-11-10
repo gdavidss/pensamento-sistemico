@@ -14,6 +14,7 @@ Jekyll::Hooks.register [:pages], :post_convert do |doc|
 end
 
 def removeBulletpoints(doc)
+  puts doc.content
   doc.content.gsub!("/<li>/", "<p>")
   doc.content.gsub!("/</li>/", "</p>")
 end
