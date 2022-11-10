@@ -1,9 +1,8 @@
 - [[todos]]
-- **Features**
-	- TODO Create wireframes
+-
 - **Progress bar**
 	- TODO Cache
-- **Formatting text**
+- **Formatting**
 	- TODO Remove bullet points
 	- TODO Add line after each bullet point
 	- TODO Support para Latex

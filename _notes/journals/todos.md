@@ -1,7 +1,5 @@
----
----
-
-- TODO Codar integração block reference (só copiar e colar o conteúdo por enquanto)
+- ---
+  ---
 - TODO Codar feature que permite que um bloco especifico seja copiado ao clicar no bullet-point
 - **Meta**
 - **Content**
