@@ -6,7 +6,8 @@ permalink: /
 ---
 
 testando!
-- [[a]]
+
+- [[Project Planning]]
 - [[auto-organização]]
 - [[comportamento coletivo]]
 - [[redes]]
