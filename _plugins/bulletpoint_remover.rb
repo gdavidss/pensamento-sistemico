@@ -15,8 +15,7 @@ end
 
 def removeBulletpoints(doc)
   puts doc.content
-  
-  doc.content.gsub!("/<li>/", "<p>")
-  doc.content.gsub!("/</li>/", "</p>")
-  doc.content.gsub!(/<li>+([^ ](.*?)?[^ .=]?)<\/li>+/, "<p>\\1</p>")
+  doc.content.gsub!(/<li>/, "<p>")
+  doc.content.gsub!(/<\/li>/, "</p>")
+  # doc.content.gsub!(/<li>+([^ ](.*?)?[^ .=]?)<\/li>+/, "<p>\\1</p>")
 end
