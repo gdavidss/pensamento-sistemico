@@ -1,4 +1,4 @@
-title:               sinal algedônico
+title:               'pensamento sistêmico'               
 include:             ['_pages']
 exclude:             ['_includes/notes_graph.json', '_notes/journals']
 # You may need to change the base URL depending on your deploy configuration.
