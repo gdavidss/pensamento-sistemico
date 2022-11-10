@@ -1,5 +1,4 @@
 - [[todos]]
-- [[draws/2022-11-10-14-17-49.excalidraw]]
 - **Formatting**
 	- TODO Remove bullet points
 	- TODO Add line after each bullet point
