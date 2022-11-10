@@ -5,7 +5,7 @@
 	- TODO Support para Latex
 - **Progress bar**
 	- TODO Cache pages visitadas
-	- TODO Display progress bar
+	- TODO Design progress bar
 - **Search**
 	- TODO String match search
 	- TODO Semantic search
