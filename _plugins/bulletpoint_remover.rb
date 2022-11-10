@@ -12,9 +12,9 @@ Jekyll::Hooks.register [:pages], :post_convert do |doc|
   next unless doc.path.start_with?('_pages/')
   removeBulletpoints(doc)
 end
-
+=begin  GD
 def removeBulletpoints(doc)
   puts doc.content
   puts "----"
   doc.content.gsub!(/-+/, "penis")
-end
+end =end
