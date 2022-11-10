@@ -1,4 +1,8 @@
 - **Features**
 	- TODO Create wireframes
+	- TODO Completion
+	- TODO F
+-
 - **Search**
-- TODO Search
+	- TODO String match search
+	- TODO Semantic search
