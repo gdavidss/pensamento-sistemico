@@ -1,39 +1,3 @@
-<style>
-  .links line {
-    stroke: rgb(205, 205, 205);
-    opacity: 0.5;
-  }
-
-  .nodes circle {
-    cursor: pointer;
-    fill: #ffffff;
-    transition: all 0.15s ease-out;
-  }
-
-  .text text {
-    cursor: pointer;
-    fill: rgb(255, 255, 255);
-  }
-
-  .nodes [active],
-  .text [active] {
-    font-weight: bold;
-    cursor: pointer;
-    fill: rgb(150,0,255);
-  }
-
-  .inactive {
-    opacity: 0.1;
-    transition: all 0.15s ease-out;
-  }
-
-  #graph-wrapper {
-    background: #000000;
-    border-radius: 4px;
-    height: auto;
-  }
-</style>
-
 <div id="graph-wrapper">
   <script>
     var commentFlag = true;

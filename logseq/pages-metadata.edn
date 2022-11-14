@@ -25,7 +25,7 @@
   :block/updated-at 1665857426513}
  {:block/name "auto-organização",
   :block/created-at 1665857426534,
-  :block/updated-at 1668103596052}
+  :block/updated-at 1668109764373}
  {:block/name "autopoiese",
   :block/created-at 1665857426602,
   :block/updated-at 1665857426602}
@@ -189,6 +189,18 @@
  {:block/name "nov 10th, 2022",
   :block/created-at 1668100085936,
   :block/updated-at 1668100085936}
+ {:block/name "nov 11th, 2022",
+  :block/created-at 1668173156308,
+  :block/updated-at 1668173156308}
+ {:block/name "nov 12th, 2022",
+  :block/created-at 1668222001193,
+  :block/updated-at 1668222001193}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668309422589,
+  :block/updated-at 1668309422589}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668396022967,
+  :block/updated-at 1668396022967}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667433513457,
   :block/updated-at 1667433513457}
@@ -272,7 +284,7 @@
   :block/updated-at 1668100465058}
  {:block/name "project planning",
   :block/created-at 1668100108406,
-  :block/updated-at 1668101435943}
+  :block/updated-at 1668211470336}
  {:block/name "protocolos",
   :block/created-at 1667496518336,
   :block/updated-at 1667496518336}
