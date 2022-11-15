@@ -1,0 +1,17 @@
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  text-align: center;
+}
+
+.topnav .topnav-right a{
+    padding-right: 20px;
+}
+
+.topnav-right {
+  float: right;
+  display: flex;
+}

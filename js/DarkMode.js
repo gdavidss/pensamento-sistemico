@@ -1,4 +1,5 @@
 const theme = localStorage.getItem("darkMode");
+let darkModeBtn = document.getElementById("dark-mode-btn");
 
 window.addEventListener('keydown', function (e) {
     if (e.key ===  "n") {
@@ -7,25 +8,24 @@ window.addEventListener('keydown', function (e) {
     }
 }, false);
 
-/* verifica se o tema armazenado no localStorage é escuro
-se sim aplica o tema escuro ao body */
-if (!localStorage.getItem("darkMode")) {
-    console.log("didn't find any key!")
+if (!theme) {
+    darkModeBtn.src = "../assets/sun.svg";  
     localStorage.setItem("darkMode", "light");
-  } else if (localStorage.getItem("darkMode") === "dark") {
+} else if (theme === "dark") {
+    darkModeBtn.src = "../assets/moon.svg";
     toggleDarkMode(caching=false);
+} else {
+    darkModeBtn.src = "../assets/sun.svg";
 }
 
-function toggleDarkMode(caching=true) {
-    console.log("Toggling dark mode 2...")
-  
+function toggleDarkMode(caching=true) {  
     if (caching) {
-      if (localStorage.getItem("darkMode") === "dark") {
+      document.body.classList.add("dark-transition"); 
+      if (theme === "dark") {
         localStorage.setItem("darkMode", "light");
       } else {
         localStorage.setItem("darkMode", "dark"); 
       }
     }
-
     document.body.classList.toggle("dark");
 }

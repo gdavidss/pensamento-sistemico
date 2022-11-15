@@ -2,7 +2,9 @@
 layout: default
 ---
 
+<script src="../js/jquery.js"></script>
 <script src="../js/DarkMode.js"></script>
+<script src="../js/NodesVisited.js"></script>
 
 <article id="article-container">
   {% if page.title != "home" %}
@@ -39,7 +41,7 @@ layout: default
     </side>
   </div>
   {% endif %} -->
-
+<div id="progress-bar"></div>
 </article>
 
 {% include notes_graph.html %}

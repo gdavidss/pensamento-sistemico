@@ -47,7 +47,6 @@ if (event.target.host === window.location.host) {
     }, 1)
     }
 
-
     tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
     if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
         tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";

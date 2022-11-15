@@ -1,24 +1,10 @@
-// Light
-$color-internal-link-light: #0008ff; 
-$background-tooltip-wrapper-light: #f6f5f1;
-
-// Dark
-$color-internal-link-dark: red;
-$background-tooltip-wrapper-dark: black;
-
 content a.internal-link {
-   &.dark {
-       color: red;
-    }
-    color: #0008ff;
+    color: var(--color-a);
     font-weight: 550;
 }
 
 #tooltip-wrapper {
-    &.dark {
-        background: $background-tooltip-wrapper-dark;
-    }
-    background: $background-tooltip-wrapper-light;
+    background: var(--color-background);
     padding: 1em;
     border: 1px solid #ddd;
     border-radius: 4px;
