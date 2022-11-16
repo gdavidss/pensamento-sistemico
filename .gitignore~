@@ -17,6 +17,3 @@ _includes/notes_graph.json
 # DS_STORE
 .DS_STORE
 /assets/.DS_STORE
-
-# Logseq bak
-/logseq/bak

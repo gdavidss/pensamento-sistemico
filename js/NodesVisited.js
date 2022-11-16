@@ -1,4 +1,5 @@
 
+
 function updateVisited() {
   currentPage = window.location.pathname;
   locationsJSON = localStorage.getItem("visited");
@@ -18,8 +19,11 @@ function updateVisited() {
 }
 
 document.addEventListener('DOMContentLoaded', function(e) {
+ updateProgressBar();
+
+ // GD: Refactor this to not use JQuery, because JQuery is slow as fuck
   function hasReachedBottom() {
-    elm = document.getElementById("progress-bar");
+    elm = document.getElementById("ProgressBar");
     var vpH = $(window).height(), // Viewport Height
         st = $(window).scrollTop(), // Scroll Top
         y = $(elm).offset().top,
@@ -42,3 +46,26 @@ document.addEventListener('DOMContentLoaded', function(e) {
     document.addEventListener("scroll", scrollListener);
   }
 });
+
+function updateProgressBar() {
+  const graphMetadataPromise = import('./metadata_notes_graph.json', {
+    assert: {
+        type: 'json'
+    }
+  });
+  
+  graphMetadataPromise.then(d => {
+      const numberNodes = d.default.numNodes;
+      progressBar = document.getElementById("Progress");
+      locationsJSON = localStorage.getItem("visited");
+      if (locationsJSON) {
+        locations = JSON.parse(locationsJSON);
+        currentPercentage = ((locations.length / numberNodes) * 100) + "%";
+        progressBar.style.setProperty("--current-percentage", currentPercentage);
+      } else {
+        currentPercentage = ((1 / numberNodes) * 100) + "%";
+        progressBar.style.setProperty("--current-percentage", currentPercentage);
+      }
+    }
+  );
+}

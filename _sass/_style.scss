@@ -270,3 +270,62 @@ code {
     display: flex;
     box-shadow: var(--graph-wrapper-shadow); 
 }
+
+/* #progress-bar{
+  appearance: none;
+  width:100%;
+  //background-color: red;
+  // animation: progressBar 3s forwards;
+  //animation-fill-mode: forwards; 
+}
+/* 
+progress[value]::-webkit-progress-value {
+  transition: width 1s;
+  background: orange;
+}
+*/
+/* 
+progress::-webkit-progress-value {
+	background: rgb(253, 7, 7);
+	transition: width 2.5s ease-in-out;
+}
+
+@keyframes progressBar {
+  0% { width: 0; }
+  100% { width: 100%; }
+} */
+
+#ProgressBar {
+  width: 100%;
+  height: 10px;
+  border: 1px solid black;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  padding: 4px;
+}
+
+
+#Progress {
+  --current-percentage: 0%;
+
+  width: var(--current-percentage);
+  background-color: #000000;
+  height: 100%;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-color: #4A90E2;
+  
+  animation-name: progressBar;
+  animation-iteration-count: 1;
+  animation-duration: 2s;
+}
+
+@keyframes progressBar {
+  0% {
+    width: 0%;
+  }
+  
+  100% {
+    width: var(--current-percentage);
+  }
+}

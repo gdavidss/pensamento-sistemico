@@ -29,7 +29,8 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
         new_href = "#{site.baseurl}#{note_potentially_linked_to.url}#{link_extension}"
         anchor_tag = "<a class='internal-link' href='#{new_href}'>\\1</a>"
-
+        
+        # GD replace regex for links alias here 
         # Replace double-bracketed links with label using note title
         # [[A note about cats|this is a link to the note about cats]]
         current_note.content.gsub!(
@@ -102,6 +103,10 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     File.write('_includes/notes_graph.json', JSON.dump({
       edges: graph_edges,
       nodes: graph_nodes,
+    }))
+
+    File.write('js/metadata_notes_graph.json', JSON.dump({
+      numNodes: graph_nodes.length(),
     }))
   end
 
