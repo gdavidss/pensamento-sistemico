@@ -1,0 +1,40 @@
+.nodes circle {
+    cursor: pointer;
+    fill: var(--color-background);
+    stroke: var(--color-node);
+    stroke-width: 2;
+    transition: all 0.15s ease-out;
+}
+
+.text text {
+    cursor: pointer;
+    fill: var(--text-node);
+}
+
+.nodes [active],
+.text [active] {
+    font-weight: bold;
+    cursor: pointer;
+    fill: var(--color-active);
+}
+
+.inactive {
+    height: auto;
+    opacity: 0.1;
+    transition: all 0.15s ease-out;
+}
+
+.nodes [visited] {
+    fill: var(--color-node);
+}
+
+#graph-wrapper {
+    width: 100%;
+    &, svg {
+        transition: $transition;
+        border-radius: 25px;
+    }
+    background: var(--graph-background);
+    display: flex;
+    box-shadow: var(--graph-wrapper-shadow); 
+}

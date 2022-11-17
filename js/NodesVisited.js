@@ -2,20 +2,20 @@
 
 function updateVisited() {
   currentPage = window.location.pathname;
-  locationsJSON = localStorage.getItem("visited");
+  visitedNodesJSON = localStorage.getItem("visited");
 
-  if (locationsJSON) {
-    locations = JSON.parse(locationsJSON);
+  if (visitedNodesJSON) {
+    locations = JSON.parse(visitedNodesJSON);
     if (!locations.includes(currentPage)) {
       locations.push(currentPage);
-      locationsJSON = JSON.stringify(locations);
+      visitedNodesJSON = JSON.stringify(locations);
     }
   } else {
     locations = new Array(currentPage);
-    locationsJSON = JSON.stringify(locations);
+    visitedNodesJSON = JSON.stringify(locations);
   }
 
-  localStorage.setItem("visited", locationsJSON);
+  localStorage.setItem("visited", visitedNodesJSON);
 }
 
 document.addEventListener('DOMContentLoaded', function(e) {
@@ -55,16 +55,36 @@ function updateProgressBar() {
   });
   
   graphMetadataPromise.then(d => {
-      const numberNodes = d.default.numNodes;
+      const numTotalNodes = d.default.numNodes;
+  
       progressBar = document.getElementById("Progress");
-      locationsJSON = localStorage.getItem("visited");
-      if (locationsJSON) {
-        locations = JSON.parse(locationsJSON);
-        currentPercentage = ((locations.length / numberNodes) * 100) + "%";
-        progressBar.style.setProperty("--current-percentage", currentPercentage);
+      progressBar_frac = document.getElementById("ProgressBar-frac");
+
+      visitedNodesJSON = localStorage.getItem("visited");
+      let currentPercentage;
+
+      if (visitedNodesJSON) {
+        visitedNodes = JSON.parse(visitedNodesJSON);
+        numVisitedNodes = visitedNodes.length; 
+        
+        currentPercentage = ((numVisitedNodes / numTotalNodes) * 100);
+
+        if (currentPercentage < 50) {
+          progressBar_frac.classList.add("ProgressBar_outside");
+          //progressBar.classList.add("ProgressBar_outside");
+        }
+
+        progressBar.style.setProperty("--current-percentage", currentPercentage + "%");
+        progressBar_frac.innerHTML += numVisitedNodes + "/" + numTotalNodes;
       } else {
-        currentPercentage = ((1 / numberNodes) * 100) + "%";
-        progressBar.style.setProperty("--current-percentage", currentPercentage);
+        // safe case if localStorage doesn't save current node before updating the table
+        // This might be unnecessary tho, as it doesn't seem to have a null localStorage
+        currentPercentage = ((1 / numTotalNodes) * 100);
+        progressBar.style.setProperty("--current-percentage", currentPercentage + "%");
+        progressBar_frac.innerHTML += 1 + "/" + numTotalNodes;
+        if (currentPercentage < 50) {
+          progressBar_frac.classList.add("ProgressBar_outside");
+        }
       }
     }
   );

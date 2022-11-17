@@ -1,0 +1,42 @@
+#ProgressBar {
+    width: 100%; // aparently 100% makes it go a bit outside
+    height: 2rem;
+    border: 1px solid #4c445c;//var(--progress-bar-border-color);
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+#Progress {
+    --current-percentage: 0%;
+    --color-gradient-progress: #ffab55,#f60061,#a700ea;
+
+    width: var(--current-percentage);
+    background: linear-gradient(to right, var(--color-gradient-progress));
+    //var(--progress-bar-color);
+    height: 100%;
+    position: relative;
+    border-radius: 10px;
+
+    border-color: #4A90E2;
+    transition: width .5s ease-in-out,background-size .5s ease-in-out;
+}
+
+#ProgressBar-frac {
+    display: inline-block;
+    position: absolute;
+    //z-index: 100;
+    top: 0;
+    right: 0.5rem;
+    color: white;
+}
+
+.ProgressBar_outside {
+    width: 0;
+    transform: translateX(1rem);
+    color: gray;
+}
+
+#ProgressRoot {
+    flex-grow: 1;
+    line-height: 2rem;
+}

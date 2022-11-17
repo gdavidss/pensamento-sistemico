@@ -1,4 +1,3 @@
-const theme = localStorage.getItem("darkMode");
 let darkModeBtn = document.getElementById("dark-mode-btn");
 
 window.addEventListener('keydown', function (e) {
@@ -8,22 +7,34 @@ window.addEventListener('keydown', function (e) {
     }
 }, false);
 
+const theme = localStorage.getItem("darkMode");
 if (!theme) {
-    darkModeBtn.src = "../assets/sun.svg";  
-    localStorage.setItem("darkMode", "light");
-} else if (theme === "dark") {
+  const now = new Date().getHours()
+  if (now >= 20 || now <= 6) {
     darkModeBtn.src = "../assets/moon.svg";
+    localStorage.setItem("darkMode", "dark");
     toggleDarkMode(caching=false);
-} else {
+  } else {
     darkModeBtn.src = "../assets/sun.svg";
+    localStorage.setItem("darkMode", "light");
+  } 
+} else if (theme === "dark") {
+  darkModeBtn.src = "../assets/moon.svg";
+  toggleDarkMode(caching=false);
+} else {
+  darkModeBtn.src = "../assets/sun.svg";  
 }
 
-function toggleDarkMode(caching=true) {  
+function toggleDarkMode(caching=true) {
+    document.body.classList.add("dark-transition");
+    const theme = localStorage.getItem("darkMode");
+
     if (caching) {
-      document.body.classList.add("dark-transition"); 
       if (theme === "dark") {
         localStorage.setItem("darkMode", "light");
       } else {
+        console.log(theme)
+        console.log("writing dark mode to localstorage")
         localStorage.setItem("darkMode", "dark"); 
       }
     }

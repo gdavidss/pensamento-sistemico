@@ -42,7 +42,11 @@ layout: default
   </div>
   {% endif %} -->
 </article>
-<div id="ProgressBar">
-  <div id="Progress"></div>
+<div id="progressRoot">
+  <div id="ProgressBar">
+    <div id="Progress">
+      <span id="ProgressBar-frac"></span>
+    </div>
+  </div>
 </div>
 {% include notes_graph.html %}

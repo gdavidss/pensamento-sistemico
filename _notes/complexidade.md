@@ -52,7 +52,7 @@
 		  Que passos você precisaria dar para recriar o seu computador?
 		  Que passos você precisaria dar para recriar a nação brasileira?
 - **Questões interessantes**
-	- [Qual é a diferença entre caos e complexidade?]([[Caos vs complexidade]])
-	- [Como lidar com complexidade?]([[Lidando com complexidade]])
+	- [[Caos vs complexidade|Qual é a diferença entre caos e complexidade?]]
+	- [[Como lidar com complexidade?|Lidando com complexidade]]
 	- Como sistemas ganham complexidade?
 	-

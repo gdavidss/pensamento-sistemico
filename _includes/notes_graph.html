@@ -54,7 +54,6 @@
           window.location = d.path
         };
 
-
         const onMouseover = function (d) {
           const relatedNodesSet = new Set();
           linksData
@@ -150,7 +149,6 @@
           const graphWrapper = document.getElementById('graph-wrapper');
           element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
           element.setAttribute("height", window.innerHeight * .7);
-
           restart();
         };
 
@@ -250,6 +248,7 @@
             .merge(text);
           
           node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+          node.attr("visited", (d) => hasVisitedNode(d.path) ? true : null);
           text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
           
           // Center active node
@@ -280,6 +279,10 @@
 
         function isCurrentPath(notePath) {
           return window.location.pathname == notePath; 
+        }
+
+        function hasVisitedNode(notePath) {
+          return localStorage.getItem("visited").includes("\"" + notePath + "\"") ;
         }
 
         // Shorten a string if it exceeds a max length

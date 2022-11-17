@@ -28,6 +28,7 @@ $font-family: "canelatext";
 //  sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
 
 body {
+  // GD Try putting variables in :root
   -—color-primary: #32322f;
   --color-text: #32322;
   --color-a: blue;
@@ -44,6 +45,12 @@ body {
   --color-hover-a: green;
   --color-focus: rgba(0, 255, 0, 0.669);
   --color-active: #960462;
+
+  --filter-btn: none;
+  --dark-mode-img: url("../assets/sun.svg");
+
+  --progress-bar-border-color: black;
+  --progress-bar-color: black;
   
   box-sizing: content-box;
   font-family: $font-family;
@@ -74,10 +81,11 @@ body {
     --color-focus: rgba(0, 255, 0, 0.669);
     --color-active: #960462;
 
-    #dark-mode-btn {
-      content:url("../assets/moon.svg");
-      filter: invert(1);
-    }
+    --filter-btn: invert(1);
+    --dark-mode-img: url("../assets/moon.svg");
+
+    --progress-bar-border-color: white;
+    --progress-bar-color: white;
   }
   
   @media (min-width: 820px) {
@@ -87,12 +95,6 @@ body {
 
 .dark-transition {
   transition: $transition;
-}
-
-#dark-mode-btn {
-  transition: 1s ease-in-out;
-  content:url("../assets/sun.svg");
-  cursor: pointer;
 }
 
 time {
@@ -235,97 +237,4 @@ code {
 .links line {
     stroke: rgb(205, 205, 205);
     opacity: 0.8;
-}
-
-.nodes circle {
-    cursor: pointer;
-    fill: var(--color-node);
-    transition: all 0.15s ease-out;
-}
-
-.text text {
-    cursor: pointer;
-    fill: var(--text-node);
-}
-
-.nodes [active],
-.text [active] {
-    font-weight: bold;
-    cursor: pointer;
-    fill: var(--color-active);
-}
-
-.inactive {
-    height: auto;
-    opacity: 0.1;
-    transition: all 0.15s ease-out;
-}
-
-#graph-wrapper {
-    &, svg {
-        transition: $transition;
-        border-radius: 25px;
-    }
-    background: var(--graph-background);
-    display: flex;
-    box-shadow: var(--graph-wrapper-shadow); 
-}
-
-/* #progress-bar{
-  appearance: none;
-  width:100%;
-  //background-color: red;
-  // animation: progressBar 3s forwards;
-  //animation-fill-mode: forwards; 
-}
-/* 
-progress[value]::-webkit-progress-value {
-  transition: width 1s;
-  background: orange;
-}
-*/
-/* 
-progress::-webkit-progress-value {
-	background: rgb(253, 7, 7);
-	transition: width 2.5s ease-in-out;
-}
-
-@keyframes progressBar {
-  0% { width: 0; }
-  100% { width: 100%; }
-} */
-
-#ProgressBar {
-  width: 100%;
-  height: 10px;
-  border: 1px solid black;
-  border-radius: 25px;
-  margin-bottom: 10px;
-  padding: 4px;
-}
-
-
-#Progress {
-  --current-percentage: 0%;
-
-  width: var(--current-percentage);
-  background-color: #000000;
-  height: 100%;
-  border-top-left-radius: 25px;
-  border-bottom-left-radius: 25px;
-  border-color: #4A90E2;
-  
-  animation-name: progressBar;
-  animation-iteration-count: 1;
-  animation-duration: 2s;
-}
-
-@keyframes progressBar {
-  0% {
-    width: 0%;
-  }
-  
-  100% {
-    width: var(--current-percentage);
-  }
 }
