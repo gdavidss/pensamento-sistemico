@@ -53,6 +53,7 @@
 		  Que passos você precisaria dar para recriar a nação brasileira?
 - **Questões interessantes**
 	- [[Caos vs complexidade|Qual é a diferença entre caos e complexidade?]]
-	- [[Como lidar com complexidade?|Lidando com complexidade]]
-	- Como sistemas ganham complexidade?
+	- [Cara acho que foi]([[Sistemas]])
+	- [Como lidar com complexidade?]([[Lidando com complexidade]])
+	- [Como sistemas ganham complexidade?](www.google.com)
 	-

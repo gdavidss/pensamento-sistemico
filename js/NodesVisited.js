@@ -31,15 +31,14 @@ document.addEventListener('DOMContentLoaded', function(e) {
     return ((y < (vpH + st)));
   }
   if (hasReachedBottom()) {
-    console.log("end of the line");
-    updateVisited();
+    updateVisited(); 
     updateProgressBar();
   } else {
+
     function scrollListener (e) {
       if (hasReachedBottom()) {
         updateProgressBar();
         updateVisited();
-        console.log("end of the line");
         document.removeEventListener("scroll", scrollListener);
       }
     }
@@ -49,14 +48,9 @@ document.addEventListener('DOMContentLoaded', function(e) {
 });
 
 function updateProgressBar() {
-  const graphMetadataPromise = import('./metadata_notes_graph.json', {
-    assert: {
-        type: 'json'
-    }
-  });
-  
-  graphMetadataPromise.then(d => {
-      const numTotalNodes = d.default.numNodes;
+  fetch('/js/metadata_notes_graph.json').then(r => r.json()).then(
+  d => {
+      const numTotalNodes = d.numNodes;
   
       progressBar = document.getElementById("Progress");
       progressBar_frac = document.getElementById("ProgressBar-frac");
@@ -77,6 +71,9 @@ function updateProgressBar() {
 
         progressBar.style.setProperty("--current-percentage", currentPercentage + "%");
         progressBar_frac.innerHTML = currentPercentage != 100? numVisitedNodes + "/" + numTotalNodes: "🎉";
+
+        graphWrapper = document.getElementById("graph-wrapper");
+        graphWrapper.classList.add("graphWrapperTransition"); 
 
       } else {
         // safe case if localStorage doesn't save current node before updating the table

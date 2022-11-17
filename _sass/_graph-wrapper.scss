@@ -3,6 +3,7 @@
     fill: var(--color-background);
     stroke: var(--color-node);
     stroke-width: 2;
+    vector-effect: non-scaling-stroke;
     transition: all 0.15s ease-out;
 }
 
@@ -15,7 +16,8 @@
 .text [active] {
     font-weight: bold;
     cursor: pointer;
-    fill: var(--color-active);
+    stroke: none;
+    fill: var(--color-active) !important;
 }
 
 .inactive {
@@ -36,5 +38,14 @@
     }
     background: var(--graph-background);
     display: flex;
-    box-shadow: var(--graph-wrapper-shadow); 
+    box-shadow: var(--graph-wrapper-shadow);
 }
+
+.graphWrapperTransition {
+    animation: fadeIn 1s; 
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }

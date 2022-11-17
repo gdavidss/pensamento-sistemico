@@ -28,7 +28,7 @@ $font-family: "canelatext";
 //  sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
 
 body {
-  // GD Try putting variables in :root
+  // The correct way would be to put this into :root and html[data-theme="dark"]
   -—color-primary: #32322f;
   --color-text: #32322;
   --color-a: blue;
@@ -225,12 +225,11 @@ code {
 .invalid-link {
   color: #ff0909;
   cursor: help;
-  background: #fafafa;
   padding: 0 0.1em;
 }
 
 .invalid-link-brackets {
-  color: #ccc;
+  color: red;
   cursor: help;
 }
 

@@ -24,10 +24,9 @@
 #ProgressBar-frac {
     display: inline-block;
     position: absolute;
-    //z-index: 100;
     top: 0;
     right: 0.5rem;
-    color: white;
+    color: var(--color-text);
 }
 
 .ProgressBar_outside {
