@@ -7,11 +7,12 @@
 	- DONE Add line after each bullet point
 	- TODO Support para Latex
 - **Progress bar**
-	- TODO Cache pages visitadas
-	- TODO Design progress bar
-- **Search**
-	- TODO String match search
-	- TODO Semantic search
+	- DONE Cache pages visitadas
+	- DONE Design progress bar
+- Bug
+	- Bug do grafo quebrado e repetido
+		- Aperta f12 e abre
+		- http://localhost:4000/cibern%C3%A9tica
 - **Other**
 	- TODO Buy pensamentosistemico.com
 	- TODO Criar perfil Instagram, TikTok, Youtube, Twitter

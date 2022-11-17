@@ -26,10 +26,9 @@ if (!theme) {
 }
 
 function toggleDarkMode(caching=true) {
-    document.body.classList.add("dark-transition");
     const theme = localStorage.getItem("darkMode");
-
     if (caching) {
+      document.body.classList.add("dark-transition");
       if (theme === "dark") {
         localStorage.setItem("darkMode", "light");
       } else {

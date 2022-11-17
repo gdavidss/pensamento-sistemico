@@ -53,6 +53,10 @@
  {:block/name "caos vs complexidade",
   :block/created-at 1666806382114,
   :block/updated-at 1666812098260}
+ {:block/name
+  "caos vs complexidade|qual é a diferença entre caos e complexidade?",
+  :block/created-at 1668653926728,
+  :block/updated-at 1668653926728}
  {:block/name "card",
   :block/created-at 1665104786577,
   :block/updated-at 1665104786577}
@@ -72,6 +76,9 @@
  {:block/name "comece com um brinquedo",
   :block/created-at 1665361563862,
   :block/updated-at 1665361563862}
+ {:block/name "como lidar com complexidade?|lidando com complexidade",
+  :block/created-at 1668653926729,
+  :block/updated-at 1668653926729}
  {:block/name "complexidade",
   :block/created-at 1665857426606,
   :block/updated-at 1667496439247}
@@ -204,6 +211,12 @@
  {:block/name "nov 15th, 2022",
   :block/created-at 1668553192134,
   :block/updated-at 1668553192134}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668653926472,
+  :block/updated-at 1668653926472}
+ {:block/name "nov 17th, 2022",
+  :block/created-at 1668654000134,
+  :block/updated-at 1668654000134}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667433513457,
   :block/updated-at 1667433513457}
@@ -287,7 +300,7 @@
   :block/updated-at 1668100465058}
  {:block/name "project planning",
   :block/created-at 1668100108406,
-  :block/updated-at 1668211470336}
+  :block/updated-at 1668653990821}
  {:block/name "protocolos",
   :block/created-at 1667496518336,
   :block/updated-at 1667496518336}
