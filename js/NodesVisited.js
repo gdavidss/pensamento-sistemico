@@ -19,7 +19,6 @@ function updateVisited() {
 }
 
 document.addEventListener('DOMContentLoaded', function(e) {
- updateProgressBar();
 
  // GD: Refactor this to not use JQuery, because JQuery is slow as fuck
   function hasReachedBottom() {
@@ -34,9 +33,11 @@ document.addEventListener('DOMContentLoaded', function(e) {
   if (hasReachedBottom()) {
     console.log("end of the line");
     updateVisited();
+    updateProgressBar();
   } else {
     function scrollListener (e) {
       if (hasReachedBottom()) {
+        updateProgressBar();
         updateVisited();
         console.log("end of the line");
         document.removeEventListener("scroll", scrollListener);
@@ -75,16 +76,15 @@ function updateProgressBar() {
         }
 
         progressBar.style.setProperty("--current-percentage", currentPercentage + "%");
-        progressBar_frac.innerHTML += numVisitedNodes + "/" + numTotalNodes;
+        progressBar_frac.innerHTML = currentPercentage != 100? numVisitedNodes + "/" + numTotalNodes: "🎉";
+
       } else {
         // safe case if localStorage doesn't save current node before updating the table
         // This might be unnecessary tho, as it doesn't seem to have a null localStorage
         currentPercentage = ((1 / numTotalNodes) * 100);
         progressBar.style.setProperty("--current-percentage", currentPercentage + "%");
         progressBar_frac.innerHTML += 1 + "/" + numTotalNodes;
-        if (currentPercentage < 50) {
-          progressBar_frac.classList.add("ProgressBar_outside");
-        }
+        progressBar_frac.classList.add("ProgressBar_outside");
       }
     }
   );
