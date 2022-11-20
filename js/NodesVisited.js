@@ -70,11 +70,12 @@ function updateProgressBar() {
         }
 
         progressBar.style.setProperty("--current-percentage", currentPercentage + "%");
-        progressBar_frac.innerHTML = currentPercentage != 100? numVisitedNodes + "/" + numTotalNodes: "🎉";
+        restartBtn = "🎉 <img id='restart-btn' onClick=resetProgress(); src='../assets/restart.svg'></img>";  
+        progressBar_frac.innerHTML = currentPercentage != 100?
+         (numVisitedNodes + "/" + numTotalNodes): (restartBtn);
 
         graphWrapper = document.getElementById("graph-wrapper");
         graphWrapper.classList.add("graphWrapperTransition"); 
-
       } else {
         // safe case if localStorage doesn't save current node before updating the table
         // This might be unnecessary tho, as it doesn't seem to have a null localStorage
@@ -85,4 +86,9 @@ function updateProgressBar() {
       }
     }
   );
+}
+
+function resetProgress() {
+  localStorage.removeItem("visited");
+  updateProgressBar();
 }

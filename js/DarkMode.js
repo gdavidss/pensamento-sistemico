@@ -19,11 +19,12 @@ if (!theme) {
     localStorage.setItem("darkMode", "light");
   } 
 } else if (theme === "dark") {
-  darkModeBtn.src = "../assets/moon.svg";
+  //darkModeBtn.src = "../assets/moon.svg";
   toggleDarkMode(caching=false);
-} else {
-  darkModeBtn.src = "../assets/sun.svg";  
 }
+/* } else {
+  darkModeBtn.src = "../assets/sun.svg";  
+} */
 
 function toggleDarkMode(caching=true) {
     const theme = localStorage.getItem("darkMode");
@@ -32,8 +33,6 @@ function toggleDarkMode(caching=true) {
       if (theme === "dark") {
         localStorage.setItem("darkMode", "light");
       } else {
-        console.log(theme)
-        console.log("writing dark mode to localstorage")
         localStorage.setItem("darkMode", "dark"); 
       }
     }

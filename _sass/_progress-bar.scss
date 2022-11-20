@@ -3,7 +3,7 @@
     height: 2rem;
     border: 1px solid #4c445c;//var(--progress-bar-border-color);
     border-radius: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
   
 #Progress {
@@ -22,8 +22,10 @@
 }
 
 #ProgressBar-frac {
-    display: inline-block;
+    display: flex;
     position: absolute;
+    align-items:center;
+    height: 100%;
     top: 0;
     right: 0.5rem;
     color: var(--color-text);

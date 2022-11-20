@@ -1,4 +1,0 @@
----
----
-
-- cara to tentando entender

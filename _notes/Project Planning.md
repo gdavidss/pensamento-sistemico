@@ -6,14 +6,14 @@
 	- DONE Remove bullet points
 	- DONE Add line after each bullet point
 	- TODO Support para Latex
-	- TODO Parsing []()
+	- DONE Parsing []()
 - **Progress bar**
 	- DONE Progress reflecting on nodes
 	- DONE Cache pages visitadas
 	- DONE Design progress bar
 - **Bug**
 	- DONE Bug do grafo quebrado e repetido
-	- TODO Bug de às vezes não contar o numero correto qd traversa uma pagina
+	- DONE Bug de às vezes não contar o numero correto qd traversa uma pagina
 - **Other**
 	- TODO Buy pensamentosistemico.com
 	- TODO Criar perfil Instagram, TikTok, Youtube, Twitter

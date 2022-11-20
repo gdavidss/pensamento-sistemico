@@ -7,6 +7,11 @@
     transition: all 0.15s ease-out;
 }
 
+.links line {
+    stroke: rgb(205, 205, 205);
+    opacity: 0.8;
+}
+
 .text text {
     cursor: pointer;
     fill: var(--text-node);
@@ -22,7 +27,7 @@
 
 .inactive {
     height: auto;
-    opacity: 0.1;
+    opacity: var(--opacity-inactive);
     transition: all 0.15s ease-out;
 }
 
@@ -46,6 +51,11 @@
 }
 
 @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
+    from {
+        opacity: 0;
+        transform: translateY(15%);
+    }
+    to { 
+        scale: 1;
+    }
   }

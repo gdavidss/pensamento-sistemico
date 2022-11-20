@@ -45,6 +45,7 @@ body {
   --color-hover-a: green;
   --color-focus: rgba(0, 255, 0, 0.669);
   --color-active: #960462;
+  --opacity-inactive: 0.2;
 
   --filter-btn: none;
   --dark-mode-img: url("../assets/sun.svg");
@@ -80,6 +81,7 @@ body {
     --color-hover-a: green;
     --color-focus: rgba(0, 255, 0, 0.669);
     --color-active: #960462;
+    --opacity-inactive: 0.3;
 
     --filter-btn: invert(1);
     --dark-mode-img: url("../assets/moon.svg");
@@ -231,9 +233,4 @@ code {
 .invalid-link-brackets {
   color: red;
   cursor: help;
-}
-
-.links line {
-    stroke: rgb(205, 205, 205);
-    opacity: 0.8;
 }
