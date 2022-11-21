@@ -1,5 +1,7 @@
 .nodes circle {
     cursor: pointer;
+    width: 500px;
+    height: 500px; 
     fill: var(--color-background);
     stroke: var(--color-node);
     stroke-width: 2;
@@ -13,6 +15,7 @@
 }
 
 .text text {
+    background: white;
     cursor: pointer;
     fill: var(--text-node);
 }
@@ -36,6 +39,7 @@
 }
 
 #graph-wrapper {
+    height: 50%;
     width: 100%;
     &, svg {
         transition: $transition;
