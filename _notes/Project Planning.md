@@ -2,10 +2,24 @@
 ---
 
 - [[todos]]
+- **Testar fontes**
+	- **Zilla Slab** (8/10)
+	  collapsed:: true
+		- ![image.png](../assets/image_1669073889979_0.png)
+	- **Space Mono** (6/10)
+	  collapsed:: true
+		- ![image.png](../assets/image_1669073946719_0.png)
+	- monospace
+	- computer modern
+	- Nunito
+	- Source Sans Pro
+	- Libre Franklin
+	- Helvetica Neue
+	- Inter var
+	- Karla
 - **Other**
 	- TODO Reload graph after pressing reload
-	- TODO
-	- TODO Buy pensamentosistemico.com
+	- DONE Buy pensamentosistemico.com
 	- TODO Criar perfil Instagram, TikTok, Youtube, Twitter
 	- TODO Criar logo
 - **Archive**

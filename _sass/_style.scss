@@ -9,20 +9,20 @@ $transition: 0.3s ease-out;
 }*/
 
 @font-face {
-  font-family: "canelatext";
-  src: url("../fonts/canela-bold.ttf");
+  font-family: "SpaceMono";
+  src: url("../fonts/Space_Mono/SpaceMono-Bold.ttf");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "canelatext";
-  src: url("../fonts/canela-thin.ttf");
+  font-family: "SpaceMono";
+  src: url("../fonts/Space_Mono/SpaceMono-Regular.ttf");
   font-weight: normal;
   font-style: normal;
 }
 
-$font-family: "canelatext";
+$font-family: "SpaceMono";
 
 // $font-family: -apple-system, blinkmacsystemfont, segoe ui, helvetica, arial,
 //  sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
@@ -30,7 +30,7 @@ $font-family: "canelatext";
 body {
   // The correct way would be to put this into :root and html[data-theme="dark"]
   -—color-primary: #32322f;
-  --color-text: #32322;
+  --color-text: #32322f;
   --color-a: blue;
   --color-subtext: hsl(0, 0%, 75%);
   --color-border: #f6f5f1;
@@ -41,10 +41,10 @@ body {
   --color-node: black;
   --text-node: black;
   --graph-wrapper-shadow: 0px 0px 26px -12px #4a4a46;
-
-  --color-hover-a: green;
-  --color-focus: rgba(0, 255, 0, 0.669);
-  --color-active: #960462;
+ 
+  --color-hover-a: purple;
+  --color-focus: purple; 
+  --color-active: red;//#960462;
   --opacity-inactive: 0.2;
 
   --filter-btn: none;
@@ -59,6 +59,7 @@ body {
   color: var(--color-text);
   margin: 0 auto;
   line-height: 1.7;
+  letter-spacing:0.2px;   
   padding: 4vh 6vw;
   overflow-x: hidden;
   font-size: 22px;
@@ -78,9 +79,9 @@ body {
     --text-node: white;
     --graph-wrapper-shadow: 0px 0px 26px -8px #ffffff;
     
-    --color-hover-a: green;
-    --color-focus: rgba(0, 255, 0, 0.669);
-    --color-active: #960462;
+    --color-hover-a: purple;
+    --color-focus: purple;
+    --color-active: red;
     --opacity-inactive: 0.3;
 
     --filter-btn: invert(1);
@@ -152,20 +153,22 @@ h6 {
 }
 
 a {
-  // GD border-bottom: 1px solid $color-border-light;
   color: var(--color-a);
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
   &:hover {
-    color: var(--color-hover-a) !important;
     //background: #fffaf1;
+    transition: .3s;
+    border: 3px solid var(--color-text);
+    border-radius: 8px;
   }
   &:after {
     position: relative;
     top: -0.5em;
+    content: "↗";
     font-size: 0.7em;
-    color: #aaaaaa;
+    color: var(--color-primary);
   }
   &.internal-link:after,
   &.footnote:after,
@@ -176,11 +179,18 @@ a {
 }
 
 *:focus {
-  color: var(--color-focus) !important;
+  color: purple !important;
 }
 
 nav {
   margin: 1em 0 3em;
+}
+
+#garden-title {
+  &:hover {
+    border: none;
+    transition: none;
+  }
 }
 
 #article-container {
