@@ -3,8 +3,8 @@
 
 - > wow test, sum dude
 - ```python
-  x = "ai eu gosto de uma bucetinha"
+  x = "testing"
   for i in x:
-    print("foda-se")
+    print("hello word")
   ```
 - $$ x = log(2)$$
