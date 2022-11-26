@@ -5,7 +5,6 @@ id: home
 permalink: /
 ---
 
-- [[Project Planning]]
 - [[auto-organização]]
 - [[comportamento coletivo]]
 - [[redes]]
