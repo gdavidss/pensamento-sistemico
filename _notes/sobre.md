@@ -10,9 +10,9 @@
 - pressione “n” para alternar o modo noturno.
 - ### quem diabos é você afinal?
 - Eu sou um nerdola chamado Gui David. Eu faço graduação em Ciência da Computação na Universidade de Stanford. Sou de Cubatão, no Litoral de São Paulo. Eu sou movido por Compaixão, Curiosidade e Cibernética. Eu amo conhecer pessoas interessantes. Se você quiser falar comigo, me mande uma mensagem em minhas redes sociais
-	- [LinkedIn](LinkedIn.com/gdavidss)
-	- [Instagram](Instagram.com/sinalalgedonico)
-	- [Twitter](Twitter.com/sinalalgedonico)
+	- [LinkedIn](https://LinkedIn.com/gdavidss)
+	- [Instagram](https://Instagram.com/sinalalgedonico)
+	- [Twitter](https://Twitter.com/sinalalgedonico)
 - ### aviso epistêmico
 - Eu não me considero expert em nenhum dos conceitos aqui escritos. Este projeto é a minha forma de aprofundar o meu próprio conhecimento. Assim, é possível que algumas explicações contenham erros de entendimento por minha parte. No entanto, eu continuamente me esforçarei para corrigir quaisquer equívocos que eu tenha feito.
 - ### como o site foi criado
