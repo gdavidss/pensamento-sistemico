@@ -1,0 +1,19 @@
+---
+---
+
+- Pensamento Sistêmico é um [jardim digital](https://medium.com/valter-nascimento-blog/o-que-e-jardim-digital-7029673da847) que tem como objetivo a divulgação de conceitos ao redor da [cibernética](https://en.wikipedia.org/wiki/Cybernetics).
+- A motivação para esta divulgação vem de uma mistura de curiosidade intelectual aliada a um inconformismo com o paradigma reducionista dos últimos séculos.
+- A sensação é que a maioria das pessoas ainda não conseguiram internalizar de maneira apropriada um fato óbvio: **a realidade de que nós somos sistemas existindo ao redor de outros sistemas**.
+- Para internalizar esse fato, é preciso saber falar a língua dos sistemas, encontrando aquilo que existe em comum em sistemas biológicos, físicos, econômicos, computacionais, et cetera.
+- Essa é a nossa tentativa.
+- ### comandos
+- pressione “n” para alternar o modo noturno.
+- ### quem diabos é você afinal?
+- Eu sou um nerdola chamado Gui David. Eu faço graduação em Ciência da Computação na Universidade de Stanford. Sou de Cubatão, no Litoral de São Paulo. Eu sou movido por Compaixão, Curiosidade e Cibernética. Eu amo conhecer pessoas interessantes. Se você quiser falar comigo, me mande uma mensagem em minhas redes sociais
+	- [LinkedIn](LinkedIn.com/gdavidss)
+	- [Instagram](Instagram.com/sinalalgedonico)
+	- [Twitter](Twitter.com/sinalalgedonico)
+- ### aviso epistêmico
+- Eu não me considero expert em nenhum dos conceitos aqui escritos. Este projeto é a minha forma de aprofundar o meu próprio conhecimento. Assim, é possível que algumas explicações contenham erros de entendimento por minha parte. No entanto, eu continuamente me esforçarei para corrigir quaisquer equívocos que eu tenha feito.
+- ### como o site foi criado
+- Esse site foi escrito em teve como base o [Zettelgarden](https://github.com/drawablex86/zettelgarden) de Maxime Vaillancourt. Todas as páginas são escritas no [Logseq](http://logseq.com/) em Markdown e convertidas em HTML com [Jekyll](https://jekyllrb.com/). O site é hospedado no [Netlify](https://app.netlify.com/) e atualizado automaticamente toda vez que dou um git push no repositório do site. Você pode conferir o código-fonte deste site [aqui](https://github.com/gdavidss/sinal_algedonico).

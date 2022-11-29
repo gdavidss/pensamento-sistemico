@@ -19,8 +19,7 @@ function updateVisited() {
 }
 
 document.addEventListener('DOMContentLoaded', function(e) {
-
- // GD: Refactor this to not use JQuery, because JQuery is slow as fuck
+  // GD: Refactor this to not use JQuery, because JQuery is slow as fuck
   function hasReachedBottom() {
     elm = document.getElementById("ProgressBar");
     var vpH = $(window).height(), // Viewport Height
