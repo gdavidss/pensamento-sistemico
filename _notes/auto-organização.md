@@ -1,5 +1,4 @@
 ---
 ---
 
-- [[teste]]
 - [[emergência]]
