@@ -8,6 +8,7 @@
 - Essa é a nossa tentativa.
 - ### comandos
 - pressione “n” para alternar o modo noturno.
+- pressione "r" para reiniciar o grafo.
 - ### quem diabos é você afinal?
 - Eu sou um nerdola chamado Gui David. Eu faço graduação em Ciência da Computação na Universidade de Stanford. Sou de Cubatão, no Litoral de São Paulo. Eu sou movido por Compaixão, Curiosidade e Cibernética. Eu amo conhecer pessoas interessantes. Se você quiser falar comigo, me mande uma mensagem em minhas redes sociais
 	- [LinkedIn](https://LinkedIn.com/gdavidss)
