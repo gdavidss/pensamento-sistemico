@@ -19,23 +19,27 @@ function updateVisited() {
 }
 
 document.addEventListener('DOMContentLoaded', function(e) {
-  // GD: Refactor this to not use JQuery, because JQuery is slow as fuck
   function hasReachedBottom() {
     elm = document.getElementById("ProgressBar");
-    var vpH = $(window).height(), // Viewport Height
-        st = $(window).scrollTop(), // Scroll Top
-        y = $(elm).offset().top,
-        elementHeight = $(elm).height();
-
-    return ((y < (vpH + st)));
+    var vpH = window.innerHeight, // Viewport Height
+        st = window.scrollY, // Scroll Top
+        rect = elm.getBoundingClientRect(),
+        y = rect.top,
+        elementHeight = rect.height;
+  
+    // Check if the element is completely within the viewport
+    return y >= 0 && y + elementHeight <= vpH;
   }
+
   if (hasReachedBottom()) {
+    console.log("has reached bottom")
     updateVisited(); 
     updateProgressBar();
   } else {
 
     function scrollListener (e) {
       if (hasReachedBottom()) {
+        console.log("has reached bottom")
         updateProgressBar();
         updateVisited();
         document.removeEventListener("scroll", scrollListener);

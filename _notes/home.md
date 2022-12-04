@@ -5,6 +5,7 @@ id: home
 permalink: /
 ---
 
+- [project planning]([[Nov 28th, 2022]])
 - [[sobre]]
 - [[auto-organização]]
 - [[comportamento coletivo]]
