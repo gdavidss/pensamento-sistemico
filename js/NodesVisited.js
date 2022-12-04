@@ -74,7 +74,7 @@ function updateProgressBar() {
 
         progressBar.style.setProperty("--current-percentage", currentPercentage + "%");
         restartBtn = "🎉 <img id='restart-btn' onClick=resetProgress(); src='../assets/restart.svg'></img>";  
-        progressBar_frac.innerHTML = currentPercentage != 100?
+        progressBar_frac.innerHTML = currentPercentage < 100?
          (numVisitedNodes + "/" + numTotalNodes): (restartBtn);
 
         graphWrapper = document.getElementById("graph-wrapper");
