@@ -283,6 +283,15 @@ function initLoad() {
                     .on("mouseout", onMouseout)
                     .merge(text);
 
+                // Append a white rectangle behind each <text> element
+                node
+                .append("rect")
+                .attr("x", (d) => d.x - nodeSize[d.id] / 2)
+                .attr("y", (d) => d.y - nodeSize[d.id] / 2)
+                .attr("width", (d) => nodeSize[d.id])
+                .attr("height", (d) => nodeSize[d.id])
+                .style("fill", "white");
+
                 node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
                 node.attr("visited", (d) => hasVisitedNode(d.path) ? true : null);
                 text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
