@@ -14,5 +14,9 @@ Jekyll::Hooks.register [:pages], :post_convert do |doc|
 end
 
 def replace(doc)
-  doc.content.gsub!(/==+([^ ](.*?)?[^ .=]?)==+/, "<mark>\\1</mark>")
+  begin
+    doc.content.gsub!(/==+([^ ](.*?)?[^ .=]?)==+/, "<mark>\\1</mark>")
+  rescue
+    puts "an error ocurred while trying to parse markdown"
+  end
 end
