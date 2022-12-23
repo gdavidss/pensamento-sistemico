@@ -2,11 +2,9 @@
 title: cibernética
 ---
 
-- a cibernética é bem difícil de fazer algo
-- [[autopoiese]]
-- [[entropia]]
-- [[feedback]]
-- [[autoreferência]]
-- [[pensamento sistêmico]]
-- [[sistemas]]
--
+- ![The-composition-and-structure-of-cybernetics_magic-removebg-preview.png](../assets/The-composition-and-structure-of-cybernetics_magic-removebg-preview_1671807890506_0.png)
+- A cibernética é uma ciência que se dedica ao estudo dos sistemas complexos e suas interações com o ambiente. Ela foi desenvolvida nos anos 40 por Norbert Wiener e tem como objetivo principal compreender os processos de comunicação e controle nos sistemas vivos e não vivos.
+- Uma das principais contribuições da cibernética foi o conceito de [[feedback]], ou retroalimentação, que é o processo pelo qual o sistema recebe informações do seu ambiente e utiliza essas informações para se autoajustar e manter o seu equilíbrio. Esse processo é fundamental para a sobrevivência e adaptação dos seres vivos, e também é amplamente utilizado em sistemas tecnológicos, como os sistemas de controle de processos industriais.
+- Outro conceito importante da cibernética é o de [[autopoiese]], que foi desenvolvido por Humberto Maturana e Francisco Varela. Autopoiese se refere à capacidade de um sistema de se autoorganizar e se manter coerente, criando as condições necessárias para a sua própria existência. Essa capacidade é fundamental para a sobrevivência dos seres vivos, que precisam se adaptar ao ambiente e se proteger de ameaças externas.
+- Um dos mais importantes teóricos da cibernética foi Stafford Beer, um cientista britânico que desenvolveu a teoria da administração cibernética, que buscava aplicar os conceitos da cibernética à gestão de empresas. Segundo Beer, as empresas são sistemas complexos que precisam se adaptar ao ambiente e se [autoorganizar]([[auto-organização]]) para se manter coerentes e competitivas. Ele defendia a ideia de que as empresas devem ser tratadas com o mesmo cuidado e atenção que os [[sistemas]] vivos, utilizando técnicas de análise e controle para garantir sua eficiência e adaptação.
+- Além da administração, a cibernética tem sido utilizada em diversas outras áreas, como a biologia, a psicologia, a economia, a sociologia e o [[pensamento sistêmico]]. Ela tem sido fundamental para o desenvolvimento de tecnologias como os sistemas de controle automático, os sistemas de inteligência artificial e os sistemas de automação industrial.

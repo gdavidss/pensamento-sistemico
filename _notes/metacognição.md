@@ -1,7 +1,18 @@
 ---
 ---
 
-- ---
-  ---
-- trequinho e pa
-- Lista de "tools for thought" https://maggieappleton.com/tools-for-thought
+- A metacognição é a capacidade de entender e controlar o próprio processo de pensamento. Isso inclui definir objetivos, escolher estratégias e avaliar o progresso, bem como adaptar-se a novas situações. É uma habilidade fundamental para compreender a realidade.
+- Existem várias habilidades metacognitivas, tais como:
+	- • **Planificação**: consiste em definir objetivos e criar um plano para alcançá-los.
+		- e.g., antes de iniciar uma tarefa ou projeto, é importante estabelecer o que se quer alcançar e como se pretende chegar lá.
+	- • **Organização**: envolve a organização e a estruturação do conhecimento de maneira a torná-lo mais fácil de acessar e usar.
+		- e.g., fazer anotações, criar esquemas ou mapas mentais e dividir a informação em categorias ou tópicos.
+	- • **Regulação**: consiste no controle e na adaptação das estratégias de aprendizagem de acordo com o progresso.
+		- e.g., se percebermos que estamos tendo dificuldades para compreender um assunto, devemos avaliar se precisamos mudar de abordagem ou se precisamos pedir ajuda.
+	- • **Monitoração**: envolve a atenção constante ao próprio processo de aprendizagem para identificar quaisquer problemas ou dificuldades.
+		- e.g., fazer perguntas durante a leitura ou ao ouvir uma explicação, ou verificar se estamos compreendendo o que estamos aprendendo.
+- A metacognição é uma habilidade que pode ser desenvolvida e melhorada através da prática e da conscientização. Algumas maneiras de promover a metacognição incluem:
+	- **• Reflexão sobre o próprio processo de aprendizagem:** é importante parar de vez em quando durante o processo de prendizagem para avaliar se estamos compreendendo o conteúdo e se estamos no caminho certo para atingir nossos objetivos.
+	- **• Uso de perguntas para orientar o pensamento:** fazer perguntas durante a leitura ou ao ouvir uma explicação pode ajudar a focar a atenção e a compreender melhor o conteúdo.
+	- **• Diálogo com outras pessoas sobre o conhecimento adquirido:** discutir o que aprendemos com outras pessoas pode nos ajudar a compreender melhor o assunto e a ter uma perspectiva diferente.
+- Em conclusão, a metacognição é importante para sermos mais eficientes e efetivos em nossa compreensão da realidade, pois nos ajuda a planejar, organizar e avaliar o processo de aprendizagem. Isso nos permite compreender melhor o conteúdo e lembrá-lo por mais tempo, além de nos permitir adaptar nossas estratégias de aprendizagem e identificar problemas ou dificuldades. É uma habilidade fundamental para ser desenvolvida ao longo da vida.
