@@ -1,7 +1,7 @@
 ---
 ---
 
-- ![logo-site-svg.png](../assets/logo-site-svg_1672106383932_0.png)
+- ![output-onlinegiftools (5).gif](../assets/output-onlinegiftools_(5)_1672070418655_0.gif)
 - Pensamento Sistêmico é um [jardim digital](https://medium.com/valter-nascimento-blog/o-que-e-jardim-digital-7029673da847) que tem como objetivo a divulgação de conceitos ao redor da cibernética.
 - A motivação para esta divulgação vem de uma mistura de curiosidade intelectual aliada a um inconformismo com o paradigma reducionista dos últimos séculos.
 - A sensação é que a maioria das pessoas ainda não conseguiram internalizar de maneira apropriada um fato óbvio: **a realidade de que nós somos sistemas existindo ao redor de outros sistemas**.
