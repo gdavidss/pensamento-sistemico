@@ -1,12 +1,13 @@
 ---
 ---
 
-- Uma rede é como se fosse um mapa de [[sistema]]. Numa rede, você pode ver como os elementos de um sistema estão conectados entre si. A grande brisa disso tudo é que, independente do tipo de rede que você está olhando, todas elas tem propriedades matemáticas em comum. Isso significa que você pode permite com que você consiga prever o comportamento da rede e fazer certas observações interessantes
+- > Uma rede é um sistema de elementos conectados descrito por grafos.
+- ![Internet-removebg-preview.png](../assets/Internet-removebg-preview_1671901484187_0.png)
+- Uma rede é como se fosse um mapa de um [[sistema]]. Numa rede, você pode ver como os elementos de um sistema estão conectados entre si. A grande brisa disso tudo é que, independente do tipo de rede que você está olhando, todas elas tem propriedades matemáticas em comum. Isso permite que você consiga prever o comportamento da rede e fazer certas observações interessantes
 - A [Ciência das redes](http://networksciencebook.com/) (*network science*) surgiu há muito pouco tempo. Apesar de ter tido seu início lá no fim dos anos 1800, ela só realmente se concretizou como uma disciplina própria há menos de 30 anos atrás, especialmente com a ajuda [desse nerdola aqui](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si).
-- ==REFINE== exemplo de redes
 - A ferramenta matemática para descrever redes são grafos. Abaixo há um exemplo de um grafo com seis **vértices**. As conexões entre cada vértice são representada por linhas, chamadas de **arestas**. Em Ciência das redes, vértices são chamados de **nós** e arestas são chamadas de **ligações**.
-	- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/220px-6n-graf.svg.png)
+	- ![grafo_svg.svg](../assets/6n-graf.svg-_1_1671900523689_0.svg)
 - O **grau** de um nó é a sua quantidade de ligações.
 - Redes podem ser **direcionadas** ou **não-direcionadas**. Se a ligação entre os nós tem uma direção—como uma rede de seus seguidores no Instagram—a rede é direta. Se a ligação não tem uma direção particular—como a rede de seus amigos no Facebook—a rede é não-direcionada. Abaixo há exemplos respectivos de redes direcionadas e não-direcionadas.
-	- ![](https://www.researchgate.net/profile/Riccardo-Basosi/publication/46485798/figure/fig1/AS:307380890947585@1450296723613/a-Example-of-a-directed-network-with-N-6-vertices-Here-L-9-L-4.png){:height 202, :width 297}
--
+	- ![examples_directNetworks_svg](../assets/a-Example-of-a-directed-network-with-N-6-vertices-Here-L-9-L-4_1671901334643_0.svg)
+- Atualmente, uma das redes mais importantes são as [[redes neurais]].

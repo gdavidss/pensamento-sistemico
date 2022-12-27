@@ -1,4 +1,8 @@
 ---
 ---
 
-- mol doido veio
+- O aprendizado de máquina é uma área da ciência da computação que se dedica ao estudo de como os computadores podem aprender de forma autônoma. Isso é possível graças a algoritmos de aprendizado de máquina, que são capazes de processar grandes quantidades de dados e tomar decisões baseadas nesse conhecimento.
+- Existem diferentes tipos de aprendizado de máquina, cada um com suas próprias características e aplicações. Alguns dos mais comuns são:
+	- • **Aprendizado supervisionado:** Neste tipo de aprendizado, o algoritmo é treinado com um conjunto de dados já rotulados, ou seja, com as respostas corretas já conhecidas. O objetivo é que o algoritmo consiga generalizar o conhecimento adquirido para fazer previsões precisas sobre novos dados. Por exemplo, um algoritmo de aprendizado supervisionado pode ser treinado com imagens de gatos e cães rotuladas como "gato" ou "cão", e depois ser capaz de classificar corretamente novas imagens de gatos e cães.
+	- • **Aprendizado não supervisionado:** Neste tipo de aprendizado, o algoritmo é treinado com um conjunto de dados não rotulados, ou seja, sem as respostas corretas. O objetivo é que o algoritmo consiga encontrar padrões e agrupar os dados de acordo com esses padrões. Por exemplo, um algoritmo de aprendizado não supervisionado pode ser treinado com imagens de gatos e cães sem rotulagem, e depois ser capaz de agrupar as imagens de acordo com as características de cada animal.
+	- • **Aprendizado por reforço:** Neste tipo de aprendizado, o algoritmo é treinado através de um processo de tentativa e erro, recebendo recompensas ou punições baseadas em suas ações. O objetivo é que o algoritmo aprenda a tomar as decisões corretas para maximizar a recompensa. Por exemplo, um algoritmo de aprendizado por reforço pode ser treinado para jogar um jogo de tabuleiro, recebendo uma recompensa a cada vez que vence e uma punição a cada vez que perde.

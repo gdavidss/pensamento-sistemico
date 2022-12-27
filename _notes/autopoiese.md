@@ -1,6 +1,8 @@
 ---
 ---
 
+- > alguns sistemas tem como objetivo produzirem a si mesmos.
+- ![ImpressionableWholeAffenpinscher-size_restricted.gif](../assets/ImpressionableWholeAffenpinscher-size_restricted_1672107671933_0.gif)
 - Autopoiese é um conceito desenvolvido por Humberto Maturana e Francisco Varela, dois cientistas chilenos que trabalharam na área da biologia teórica. O termo autopoiese se refere ao processo pelo qual um sistema mantém e reproduz sua própria estrutura e organização.
 - Um sistema autopoiético é um sistema autônomo que é capaz de se reproduzir e manter sua própria integridade e organização. Ele é composto por elementos interconectados que trabalham juntos para manter o sistema como um todo. Por exemplo, um organismo vivo é um sistema autopoiético porque tem um conjunto de elementos que trabalham juntos para manter a vida do organismo.
 - Maturana e Varela argumentam que todos os sistemas vivos são autopoiéticos, pois eles são capazes de se reproduzir e manter sua própria organização. No entanto, o conceito de autopoiese também pode ser aplicado a sistemas não-vivos, como organizações ou sistemas sociais.

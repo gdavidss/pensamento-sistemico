@@ -1,4 +1,0 @@
----
----
-
-- man nem sei direito

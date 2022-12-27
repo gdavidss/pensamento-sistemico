@@ -1,4 +1,0 @@
----
----
-
-- cara mto brabo

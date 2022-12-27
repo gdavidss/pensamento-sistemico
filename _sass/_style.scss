@@ -121,6 +121,11 @@ img {
   border-radius: $border-radius;
 }
 
+img[src*='svg'] {
+  filter: var(--filter-btn);
+  /* styles for img tags with src attribute that contains "svg" anywhere */
+}
+
 blockquote {
   padding: 1.5em;
   margin: 0;
@@ -150,6 +155,14 @@ h6 {
   line-height: 1.3;
   margin-bottom: 0;
   padding-bottom: 0;
+}
+
+.logo-link { 
+  &:hover {
+    transition: none;
+    border: none;
+    border-radius: none;
+  }
 }
 
 a {
@@ -187,9 +200,16 @@ nav {
 }
 
 #garden-title {
+  font-size:20px;   
   &:hover {
     border: none;
     transition: none;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #garden-title {
+    display: none;
   }
 }
 
@@ -243,4 +263,15 @@ code {
 .invalid-link-brackets {
   color: red;
   cursor: help;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  float:left;
+}
+
+.logo {
+  height: 30px;
+  margin-right: 10px;
 }

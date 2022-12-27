@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mandelbrot Set Animation</title>
+</head>
+<body>
+  <canvas id="mandelbrot" width="600" height="600"></canvas>
+  <script>
+    // Initialize canvas and context
+    const canvas = document.getElementById('mandelbrot');
+    const ctx = canvas.getContext('2d');
+
+    // Initialize image data and color palette
+    const imageData = ctx.createImageData(canvas.width, canvas.height);
+    const palette = [];
+    for (let i = 0; i < 256; i++) {
+      palette.push([i, 255 - i, 255]);
+    }
+
+    // Initialize zoom and pan values
+    let zoom = 1;
+    let panX = 0;
+    let panY = 0;
+
+    // Initialize animation frame
+    let frame = 0;
+
+    // Function to draw the Mandelbrot set
+    function drawMandelbrot() {
+      // Calculate the maximum number of iterations
+      const maxIterations = Math.floor(256 * Math.pow(1 / zoom, 0.5));
+
+      // Iterate over every pixel on the canvas
+      for (let x = 0; x < canvas.width; x++) {
+        for (let y = 0; y < canvas.height; y++) {
+          // Calculate the coordinates of the pixel in the complex plane
+          const cRe = (x - canvas.width / 2) / (0.5 * zoom * canvas.width) + panX;
+          const cIm = (y - canvas.height / 2) / (0.5 * zoom * canvas.height) + panY;
+
+          // Initialize z to (0, 0)
+          let zRe = 0;
+          let zIm = 0;
+
+          // Iterate until z escapes the unit circle or the maximum number of iterations is reached
+          let iteration = 0;
+          while (zRe * zRe + zIm * zIm <= 4 && iteration < maxIterations) {
+            // Calculate the real and imaginary parts of z^2 + c
+            const newRe = zRe * zRe - zIm * zIm + cRe;
+            const newIm = 2 * zRe * zIm + cIm;
+
+            // Update z with the new values
+            zRe = newRe;
+            zIm = newIm;
+
+            // Increment the number of iterations
+            iteration++;
+          }
+
+          // Calculate the color index based on the number of iterations
+          const colorIndex = Math.floor((iteration / maxIterations) * 256);
+
+          // Get the color from the palette and set it as the pixel color
+          const color = palette[colorIndex];
+          const pixelIndex = (x + y * canvas.width) * 4;
+          imageData.data[pixelIndex + 0] = color[0];
+          imageData.data[pixelIndex + 1] = color[1];
+          imageData.data[pixelIndex + 2] = color[2];
+          imageData.data[pixelIndex + 3] = 255;
+        }
+      }
+
+      // Draw the image data on the canvas
+        ctx.putImageData(imageData, 0, 0);
+
+        // Increment the frame and calculate the new zoom and pan values
+        frame++;
+        zoom = 1 + 0.01 * Math.sin(frame / 50);
+        panX = 0.5 * Math.cos(frame / 100);
+        panY = 0.5 * Math.sin(frame / 100);
+
+        // Request a new animation frame
+        requestAnimationFrame(drawMandelbrot);
+    }
+
+   // Start the animation
+   requestAnimationFrame(drawMandelbrot);
+  </script>
+</body>
+</html>
+ 

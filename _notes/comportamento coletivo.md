@@ -1,5 +1,0 @@
----
----
-
-- [[sincronia]]
-- [[consciência coletiva]]

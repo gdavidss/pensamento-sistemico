@@ -1,10 +1,12 @@
 ---
 ---
 
-- **definição**
-	- o grau de especificidade de um objeto
-	- aquilo que muda a gente.
-	- o oposto de [[entropia]]
-- informação não é dado.
-  dado não é informação.
-- descrita matematicamente primeiro por [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
+- > A informação é aquilo que nos muda.
+- ![output-onlinegiftools (1).gif](../assets/output-onlinegiftools_(1)_1672065805598_0.gif)
+- Uma definição comum de informação é o grau de singularidade de um objeto. Isso significa que informação é aquilo que torna algo único e diferente de tudo o mais. Por exemplo, a informação contida em um livro é o conjunto de palavras e ideias que o tornam diferente de todos os outros livros. Assim, a informação é aquilo que nos permite distinguir um objeto de outros semelhantes.
+- Outra forma de se pensar sobre informação é como algo oposto à entropia. A entropia é uma medida da incerteza em um sistema, enquanto a informação é a capacidade de reduzir essa incerteza. Por exemplo, se você recebe uma mensagem de alguém, essa mensagem pode conter informação que ajude a esclarecer algo que você não sabia antes, diminuindo assim a sua incerteza sobre o assunto.
+- A teoria da informação é um campo da ciência que se ocupa da coleta, armazenamento e transmissão de informação. Ela foi descoberta e desenvolvida principalmente por um único homem, [Claude Shannon](https://thebitplayer.com/)—quem eu julgo ter sido mais genial que Einstein. Shannon foi um matemático e engenheiro que trabalhou na Bell Labs nos anos 1940 e 1950, e sua teoria da informação revolucionou a forma como pensávamos sobre a transmissão de dados e a capacidade de armazenamento de informação.
+- Shannon desenvolveu a noção de "bit", que é a unidade básica de informação. Ele demonstrou que qualquer tipo de informação, desde música até mensagens de texto, pode ser representada por um conjunto de bits, ou unidades digitais de informação. Isso permitiu o desenvolvimento de tecnologias de armazenamento e transmissão de informação, como os computadores e a internet, que são fundamentais para a sociedade moderna.
+- Além de sua contribuição para a teoria da informação, Shannon também foi um dos primeiros a explorar a relação entre a informação e a teoria da probabilidade. Ele mostrou que a informação pode ser medida em termos de quantidade de incerteza que ela reduz, e desenvolveu a equação matemática conhecida como "entropia de Shannon", que relaciona a probabilidade de um evento ocorrer com a quantidade de informação que ele fornece.
+- Outra área importante da teoria da informação é a compressão de [dados]([[dado]]), que se refere à habilidade de armazenar e transmitir informação de maneira mais eficiente. A compressão de dados é importante porque nos permite armazenar e transmitir mais informação usando menos espaço ou tempo. Por exemplo, um arquivo de música pode ser comprimido para ocupar menos espaço em um dispositivo de armazenamento, ou uma imagem pode ser comprimida para ser transmitida mais rapidamente pela internet.
+- Alguns físicos acreditam que a informação pode ser a unidade fundamental do universo, ou seja, que tudo no universo pode ser reduzido a informação. Segundo esta visão, a matéria e a energia seriam apenas manifestações da informação, e a informação seria a verdadeira realidade subjacente à tudo o mais. Esta teoria é baseada na noção de que a informação é fundamentalmente inerente ao universo e que ela tem um papel fundamental na sua estrutura e funcionamento. Alguns físicos argumentam que a informação pode ser entendida como a quantidade de escolhas possíveis em um sistema, e que ela é a chave para entender como o universo evolui e se desenvolve. Embora ainda haja muito o que aprender sobre esta teoria, ela tem sido objeto de muita discussão e pesquisa entre os físicos e pode nos ajudar a entender melhor o funcionamento do universo e os fundamentos da realidade.

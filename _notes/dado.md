@@ -1,0 +1,9 @@
+---
+---
+
+- > DADO NÃO É INFORMAÇÃO. INFORMAÇÃO NÃO É DADO.
+- ![output-onlinegiftools (2).gif](../assets/output-onlinegiftools_(2)_1672066691256_0.gif)
+- Dados são a base bruta de [[informação]], aquilo que é coletado e registrado sem qualquer tipo de processamento ou interpretação. Eles são fundamentais para a tomada de decisões e para a compreensão do mundo ao nosso redor, pois fornecem informações cruciais sobre tudo, desde o clima até o comportamento humano.
+- Todos nós produzimos e coletamos dados ao longo de nossas vidas, através de nossas atividades diárias, como fazer compras, usar o celular, ou até mesmo respirar. E esses dados são armazenados e utilizados de diversas maneiras, como para criar perfis de consumo, para monitorar tráfego de trânsito, ou para estudar padrões climáticos.
+- O mundo está cada vez mais repleto de dados, graças à popularização da tecnologia e da internet. Sensores e dispositivos conectados à rede, como smartphones e smartwatches, geram uma quantidade enorme de dados a cada segundo, que são coletados e armazenados em servidores pelo mundo afora. Isso nos permite obter informações mais precisas e detalhadas sobre tudo, desde a temperatura do ar até os hábitos de consumo de uma população.
+- Os dados também são utilizados para fazer [modelos]([[modelo]]) mais precisos de coisas. Por exemplo, os meteorologistas utilizam dados sobre temperatura, pressão atmosférica e umidade para prever o tempo futuro. Os cientistas da computação utilizam dados sobre o comportamento humano para criar modelos de previsão de tráfego de trânsito. E os economistas utilizam dados sobre o mercado de trabalho para prever o desempenho da economia.

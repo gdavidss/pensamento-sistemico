@@ -1,0 +1,12 @@
+---
+---
+
+- > regras e padrões que regulam a comunicação entre sistemas
+- ![Memo_1 (1).png](../assets/Memo_1_(1)_1672103746993_0.png)
+- O protocolo é um conjunto de regras e padrões que regulam a comunicação entre sistemas ou dispositivos em uma [[rede]]. Ele define como esses sistemas ou dispositivos devem se comportar e como devem trocar informações entre si. Dessa forma, o protocolo é essencial para garantir que a comunicação seja eficiente e segura, permitindo que os sistemas e dispositivos se comuniquem de maneira coerente e compreensível.
+- Exemplos de protocolos:
+	- • [Protocolo de Transferência de Hipertexto](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP)
+	- • Protocolos de comunicação. e.g., não interromper enquanto outra pessoa está falando ou não usar linguagem ofensiva.
+	- • Protocolo de Transporte (TP): regras sobre como o [dados]([[dado]]) são transmitidos de um dispositivo para outro através de uma [[rede]].
+	- • Protocolos para sono. e.g., ver luz solar toda manhã por pelo menos 30 minutos.
+	- • [Noosphere](https://github.com/subconsciousnetwork/noosphere): um protocolo para pensamento

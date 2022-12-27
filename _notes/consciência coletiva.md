@@ -1,5 +1,0 @@
----
----
-
-- mol brisa
-- [[consciência]]

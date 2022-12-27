@@ -1,14 +1,8 @@
 ---
 ---
 
-- ==REFINE== Eu preciso definir isso aqui de maneira melhor, caos é possivel de ser descrito bem, só que a diferença é em termos de sensibilidade as condições iniciais e como as partes não tem uma relação tão clara
-- Complexidade possui uma estrutura definida, sendo geralmente o resultado de sistemas bem mais simples e menos complexos
-- Caos possuem estruturas indefinidas, sendo geralmente o resultado de pequenas partes que interagem que parecem ser aleatórias.
-- **Exemplos:**
-	- Computadores são sistemas complexos porque são constituídos de pequenas partes de menor complexidade, mas com estruturas bem definidas
-	- Moléculas no ar são geralmente caóticas porque são o conjunto de suas partículas se chocam de maneira "aleatórias"
-- **Observações**
-	- Muitos sistemas complexos, ao morrer, tornam-se altamente caóticos.
-	- Caos é um estado de muita [[entropia]], complexidade tem baixa [[entropia]].
-	- É possível definir caos como uma instância de alta complexidade
-	-
+- Caos é um estado em que um sistema é altamente sensível às condições iniciais e não apresenta padrões ou relações claras entre suas partes.
+- Por outro lado, a complexidade é a qualidade de ser composto por partes interdependentes e interrelacionadas de maneira complexa. Em outras palavras, quando falamos em [[complexidade]] geralmente nos referimos ao resultado de uma estrutura definida, geralmente formada por sistemas simples e menos complexos.
+- Um exemplo de sistema complexo é um computador, que é formado por pequenas partes de menor complexidade, mas que possuem uma estrutura bem definida e que trabalham juntas de maneira interdependente. Já as moléculas no ar são geralmente caóticas, pois são o resultado de suas partículas que se chocam de maneira "aleatória".
+- É importante lembrar que muitos sistemas complexos, quando morrem, tendem a se tornar altamente caóticos. Além disso, o caos é um estado de alta [[entropia]], enquanto a complexidade é um estado de baixa [[entropia]]. Em outras palavras, o caos é caracterizado por um alto grau de desordem e desorganização, enquanto a complexidade é caracterizada por uma estrutura bem definida.
+- Em resumo, a diferença entre caos e complexidade é que o caos é um estado de alta sensibilidade às condições iniciais e falta de padrões ou relações claras entre suas partes, enquanto a complexidade é ~geralmente~ o resultado de uma estrutura definida formada por sistemas simples e menos complexos. Enquanto o caos é um estado de alta entropia, a complexidade é um estado de baixa entropia.
