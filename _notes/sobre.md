@@ -2,7 +2,7 @@
 ---
 
 - ![output-onlinegiftools (5).gif](../assets/output-onlinegiftools_(5)_1672070418655_0.gif)
-- Pensamento Sistêmico é um [jardim digital](https://medium.com/valter-nascimento-blog/o-que-e-jardim-digital-7029673da847) que tem como objetivo a divulgação de conceitos ao redor da cibernética.
+- Pensamento Sistêmico é um [jardim digital](https://medium.com/valter-nascimento-blog/o-que-e-jardim-digital-7029673da847) que tem como objetivo a divulgação de conceitos ao redor da [cibernética](https://www.youtube.com/watch?v=G-CqhoX_vck) e do [pensamento sistêmico](https://en.wikipedia.org/wiki/Systems_thinking).
 - A motivação para esta divulgação vem de uma mistura de curiosidade intelectual aliada a um inconformismo com o paradigma reducionista dos últimos séculos.
 - A sensação é que a maioria das pessoas ainda não conseguiram internalizar de maneira apropriada um fato óbvio: **a realidade de que nós somos sistemas existindo ao redor de outros sistemas**.
 - Para internalizar esse fato, é preciso saber falar a língua dos sistemas, encontrando aquilo que existe em comum em sistemas biológicos, físicos, econômicos, computacionais, et cetera.
@@ -11,7 +11,7 @@
 - pressione “n” para alternar o modo noturno.
 - pressione "r" para reiniciar o grafo.
 - ### quem diabos é você afinal?
-- ![WhatsApp Image 2022-12-14 at 15.11.11.jpeg](../assets/WhatsApp_Image_2022-12-14_at_15.11.11_1671901941143_0.jpeg)
+- ![image (13).png](../assets/image_(13)_1672172000775_0.png)
 - Eu sou um nerdola chamado Gui David. Eu faço graduação em Ciência da Computação na Universidade de Stanford. Sou de Cubatão, no Litoral de São Paulo. Eu sou movido por compaixão, curiosidade e [[cibernética]]. Eu amo conhecer pessoas interessantes. Se você quiser falar comigo, me mande uma mensagem em minhas redes sociais:
 	- [LinkedIn](https://LinkedIn.com/gdavidss)
 	- [Instagram](https://Instagram.com/sinalalgedonico)

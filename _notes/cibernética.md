@@ -4,12 +4,13 @@ title: cibernética
 
 - > o campo transdisciplinar mais esquecido do mundo.
 - ![The-composition-and-structure-of-cybernetics_magic-removebg-preview.png](../assets/The-composition-and-structure-of-cybernetics_magic-removebg-preview_1671807890506_0.png)
-- > 1) Um discurso da organização eficaz.
-- > 2) A ciência da organização eficaz.
-- > 3)  a ciência que estuda a comunicação e o controle nos sistemas vivos e mecânicos.
-- > 4) a ciência da interconexão.
-- >  5) a ciência que estuda os processos de interação e feedback entre sistemas complexos, sejam eles biológicos, sociais ou tecnológicos.
-- > 6) a ciência que estuda os sistemas de informação e comunicação e sua aplicação na resolução de problemas práticos.
+- Algumas definições do que é cibernética:
+	- > 1) Um discurso da organização eficaz.
+	- > 2) A ciência da organização eficaz.
+	- > 3)  A ciência que estuda a comunicação e o controle nos sistemas vivos e mecânicos.
+	- > 4) A ciência da interconexão.
+	- >  5) A ciência que estuda os processos de interação e feedback entre sistemas complexos, sejam eles biológicos, sociais ou tecnológicos.
+	- > 6) A ciência que estuda os sistemas de informação e comunicação e sua aplicação na resolução de problemas práticos.
 - **Conceitos criados—ou fortemente influenciados—pela história da cibernética:**
 	- • [[feedback]]
 	- • [[autopoiese]]

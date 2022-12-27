@@ -1,8 +1,8 @@
 ---
 ---
 
-- > como indivíduos tomam decisões
-- ![Screenshot-at-Dec-26-23-10-46.svg](../assets/Screenshot-at-Dec-26-23-10-46_1672107228907_0.svg){:height 227, :width 308}
+- >  A área que estuda como indivíduos tomam decisões.
+- ![Screenshot-at-Dec-26-23-10-46.svg](../assets/Screenshot-at-Dec-26-23-10-46_1672107228907_0.svg){:height 230, :width 308}
 - A teoria dos jogos é uma área da matemática que estuda como indivíduos ou grupos de pessoas tomam decisões em situações em que há conflito de interesses. Ela é utilizada em várias áreas, incluindo economia, política, biologia e até mesmo em relacionamentos pessoais. Está muito relacionada com [[limitação da racionalidade]].
 - A teoria dos jogos foi desenvolvida no final do século XX por matemáticos, economistas e outros cientistas que queriam entender como as pessoas tomam decisões quando há conflito de interesses. O termo "jogo" é usado aqui de forma ampla para se referir a qualquer situação em que as pessoas precisam tomar decisões em que seus interesses não são totalmente alinhados.
 - Existem vários tipos diferentes de jogos, mas os mais comuns são os [jogos de soma zero](https://pt.wikipedia.org/wiki/Soma-zero) e os jogos de soma não-zero. Em um jogo de soma zero, um indivíduo ganha o que outro perde. Por exemplo, em um jogo de xadrez, se você ganhar uma partida, isso significa que eu perdi. Em um jogo de soma não-zero, ambos os jogadores podem ganhar ou perder, mas não necessariamente na mesma medida. Por exemplo, em um jogo de negociação, ambos os lados podem sair ganhando, mas um pode ganhar mais do que o outro.
