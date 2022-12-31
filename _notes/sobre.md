@@ -12,10 +12,10 @@
 - pressione "r" para reiniciar o grafo.
 - ### quem diabos é você afinal?
 - ![image (13).png](../assets/image_(13)_1672172000775_0.png)
-- Eu sou um nerdola chamado Gui David. Eu faço graduação em Ciência da Computação na Universidade de Stanford. Sou de Cubatão, no Litoral de São Paulo. Eu sou movido por compaixão, curiosidade e [[cibernética]]. Eu amo conhecer pessoas interessantes. Se você quiser falar comigo, me mande uma mensagem em minhas redes sociais:
+- Eu sou um nerdola chamado Gui David. Eu faço graduação em Ciência da Computação na Universidade de Stanford. Sou de Cubatão, no Litoral de São Paulo. Eu sou movido por compaixão, curiosidade e cibernética. Eu amo conhecer pessoas interessantes. Se você quiser falar comigo, me mande uma mensagem em minhas redes sociais:
 	- [LinkedIn](https://LinkedIn.com/gdavidss)
 	- [Instagram](https://Instagram.com/sinalalgedonico)
 - ### aviso epistêmico
-- Eu não me considero expert em nenhum dos conceitos aqui escritos. Este projeto é a minha forma de aprofundar o meu próprio conhecimento. Assim, é possível que algumas explicações contenham erros de entendimento por minha parte. No entanto, eu continuamente me esforçarei para corrigir quaisquer equívocos que eu tenha feito.
+- Eu não me considero expert em nenhum dos conceitos aqui escritos. Este projeto é a minha forma de aprofundar o meu próprio conhecimento. Todas as notas são um projeto em andamento. Assim, é possível que algumas explicações contenham erros de entendimento ou equívocos por minha parte. No entanto, eu continuamente me esforçarei para corrigir quaisquer equívocos que eu tenha feito.
 - ### como o site foi criado
-- Esse site foi escrito em teve como base o [Zettelgarden](https://github.com/drawablex86/zettelgarden) de Maxime Vaillancourt. Todas as páginas são escritas no [Logseq](http://logseq.com/) em Markdown e convertidas em HTML com [Jekyll](https://jekyllrb.com/). O site é hospedado no [Netlify](https://app.netlify.com/) e atualizado automaticamente toda vez que dou um git push no repositório do site. Você pode conferir o código-fonte deste site [aqui](https://github.com/gdavidss/sinal_algedonico).
+- Esse site foi escrito teve como base o [Zettelgarden](https://github.com/drawablex86/zettelgarden) de Maxime Vaillancourt. Todas as páginas são escritas no [Logseq](http://logseq.com/) em Markdown e convertidas em HTML com [Jekyll](https://jekyllrb.com/). O site é hospedado no [Netlify](https://app.netlify.com/) e atualizado automaticamente toda vez que dou um *git push* no repositório do site. Você pode conferir o código-fonte deste site [aqui](https://github.com/gdavidss/sinal_algedonico).

@@ -45,6 +45,7 @@ body {
   --color-hover-a: purple;
   --color-focus: purple; 
   --color-active: red;//#960462;
+  --color-quote: hsl(50, 24%, 90%); 
   --opacity-inactive: 0.2;
 
   --filter-btn: none;
@@ -73,6 +74,7 @@ body {
     --color-border: black;
     --color-box-background: rgb(0, 0, 0);
     --color-background: rgb(0, 0, 0);
+    
   
     --graph-background: black;
     --color-node: white;
@@ -82,6 +84,7 @@ body {
     --color-hover-a: purple;
     --color-focus: purple;
     --color-active: red;
+    --color-quote: #212121d3; 
     --opacity-inactive: 0.3;
 
     --filter-btn: invert(1);
@@ -129,7 +132,7 @@ img[src*='svg'] {
 blockquote {
   padding: 1.5em;
   margin: 0;
-  background: var(--color-background);
+  background: var(--color-quote);
   font-size: 0.88em;
   border-radius: $border-radius;
 
