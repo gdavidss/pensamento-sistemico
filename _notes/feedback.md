@@ -1,6 +1,7 @@
 ---
 ---
 
+- > A informação que sai de um sistema e volta para si mesmo, após a realização de uma ação.
 - ![feedback (1).png](../assets/feedback_(1)_1671893536721_0.png)
 - Feedback é um termo que se refere a [[informação]] que é enviada de volta para um sistema, após a realização de uma ação. Basicamente, é o output de um [[sistema]] que se transforma em input para o mesmo sistema, permitindo que ele se adapte e se regule de acordo com os resultados obtidos. O conceito de feedback é fundamental para compreender [[sistemas complexos]], pois permite que eles sejam capazes de se [auto-regularem]([[auto-organização]]) e de se adaptarem às mudanças do ambiente.
 - A história do conceito de feedback tem suas raízes na [[cibernética]], um campo de estudo que surgiu no século XX com o objetivo de compreender os processos de comunicação e controle em sistemas biológicos e tecnológicos. O termo "cibernética" foi cunhado pelo matemático e filósofo [Norbert Wiener](https://pt.wikipedia.org/wiki/Norbert_Wiener), que utilizou a palavra para descrever o estudo da governança de sistemas complexos. Na década de 1940, Wiener publicou um livro intitulado "Cybernetics: Or Control and Communication in the Animal and the Machine", no qual descreveu o conceito de feedback e sua aplicação na cibernética.

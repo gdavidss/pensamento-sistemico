@@ -1,6 +1,8 @@
 ---
 ---
 
+- > Uma situação em que nenhum jogador tem incentivos para mudar sua estratégia.
+- ![nash-svg.png](../assets/nash-svg_1672447917062_0.png)
 - O equilíbrio de Nash é a estratégia que maximiza o ganho de cada jogador, levando em conta as expectativas dos outros jogadores. Por exemplo, em um jogo de poker, cada jogador escolhe suas cartas com base na [expectativa](https://pt.wikipedia.org/wiki/Valor_esperado) de que os demais jogadores também estão fazendo suas escolhas de forma a maximizar seus ganhos.
 - Para entender melhor o equilíbrio de Nash, é preciso conhecer alguns conceitos básicos de teoria dos jogos, como as duas principais categorias de jogos: jogos cooperativos e não cooperativos. Jogos cooperativos são aqueles em que os jogadores podem cooperar entre si, dividindo os ganhos ou perdas. Jogos não cooperativos são aqueles em que os jogadores não podem cooperar, e cada um luta por si mesmo.
 - O equilíbrio de Nash é uma estratégia comum em jogos não cooperativos, em que os jogadores não podem confiar uns nos outros e, portanto, precisam tomar decisões estratégicas baseadas nas expectativas dos demais jogadores. Em um jogo de soma zero, por exemplo, um jogador ganha o que o outro perde. Nesse caso, cada jogador procura maximizar seus ganhos, levando em conta as expectativas dos outros jogadores.

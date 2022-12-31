@@ -1,7 +1,8 @@
 ---
 ---
 
-- ![Mandel_zoom_00_mandelbrot_set.png](../assets/Mandel_zoom_00_mandelbrot_set_1671824617055_0.png)
+- > Sistemas altamente sensíveis às condições iniciais, que resultam em resultados imprevisíveis.
+- ![output-onlinegiftools (15).gif](../assets/output-onlinegiftools_(15)_1672446403239_0.gif)
 - Você já ouviu falar da teoria do caos? Não, não estou falando daquele caos que você cria na sua casa toda vez que decide fazer uma limpeza geral. Estou falando da teoria científica que tenta explicar por que as coisas às vezes parecem ir completamente fora de controle.
 - Mas antes de mergulharmos de cabeça na teoria do caos, vamos entender o que é caos. Segundo a Wikipedia (que todos sabemos ser a fonte mais confiável de informação na internet), caos é "um estado de completo desordem e confusão". Parece bastante familiar, não é mesmo?
 - Agora que sabemos o que é caos, vamos falar sobre a teoria do caos. Essa teoria tenta explicar por que as coisas às vezes parecem sair do controle e se transformar em um completo caos. Ela diz que isso acontece porque as coisas estão interconectadas de uma maneira muito complexa e sutil, e que um pequeno perturbação em um lugar pode ter um impacto enorme em outro lugar.
