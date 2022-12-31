@@ -1,7 +1,7 @@
 ---
 ---
 
-- > Racionalidade é limitada quando indivíduos tomam decisões.
+- > racionalidade é limitada quando indivíduos tomam decisões.
 - ![brain-3.gif](../assets/brain-3_1672100436021_0.gif)
 - A teoria da racionalidade limitada é uma área da economia que estuda como as pessoas tomam decisões quando não têm a capacidade de processar todas as informações relevantes de forma perfeita. Isso pode ser devido a fatores como tempo limitado, falta de conhecimento ou até mesmo fadiga mental.
 - A teoria da racionalidade limitada é importante porque muitas vezes as pessoas não são capazes de processar todas as informações relevantes de forma perfeita, especialmente em situações complexas. Isso pode levar a decisões subótimas ou até mesmo erradas.

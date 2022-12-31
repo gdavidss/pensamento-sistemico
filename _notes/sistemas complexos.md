@@ -1,7 +1,7 @@
 ---
 ---
 
-- > Partes que se movem e conversam. Padrões difíceis de entender.
+- > partes que se movem e conversam; padrões difíceis de entender.
 - ![ezgif-5-f1c20c653a.gif](../assets/ezgif-5-f1c20c653a_1672448899573_0.gif)
 - Sistemas complexos estão em quase todos os lugares. Se eu te pedisse aqui para nomear ao menos três sistemas complexos que existem a sua volta agora, você certamente não acharia essa uma tarefa arduosa. Sistemas complexos aparecem em plantas, computadores, organizações coletivas, economias humanas, entre muitos outros exemplos.
 - Aliás, não é loucura afirmar que você mesmo é um grande sistema complexo. Um sistema feito de 30 trilhões de células, trabalhando em conjunto sem parar para manter você vivo neste exato momento. Pare para observar quantos [eventos acontecem dentro do seu corpo a cada segundo](https://everysecond.io/your-body).

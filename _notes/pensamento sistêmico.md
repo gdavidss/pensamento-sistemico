@@ -1,7 +1,7 @@
 ---
 ---
 
-- > Pensar em partes individuais de um sistema muitas vezes é insuficiente para resolver problemas complexos.
+- > pensar em partes individuais de um sistema muitas vezes é insuficiente para resolver problemas complexos.
 - ![pensandoem-svg_1672449329581_0.png](../assets/pensandoem-svg_1672449329581_0_1672449388961_0.png){:height 288, :width 455}
 - O pensamento sistêmico é uma abordagem para entender e analisar o mundo ao nosso redor, que considera o todo e as relações entre os seus diversos elementos, em vez de focar apenas em partes isoladas. [Donella Meadows](https://pt.wikipedia.org/wiki/Donella_Meadows), autora e pesquisadora americana, foi uma das principais defensoras desta abordagem e escreveu extensivamente sobre o assunto.
 - De acordo com Meadows, o pensamento sistêmico nos permite ver as coisas de maneira mais ampla e compreender como elas se relacionam entre si. Isso é especialmente importante quando se trata de problemas complexos e multidimensionais, como a mudança climática ou a pobreza global. Ao abordarmos esses problemas de uma perspectiva sistêmica, podemos identificar as interconexões entre os diferentes elementos do sistema e, assim, encontrar soluções mais eficazes.

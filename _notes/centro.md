@@ -5,6 +5,7 @@ id: home
 permalink: /
 ---
 
+- TODO machine learning
 - [project planning]([[Nov 28th, 2022]])
 - [[sobre]]
 - [[auto-organização]]

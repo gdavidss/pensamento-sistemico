@@ -1,7 +1,7 @@
 ---
 ---
 
-- > Sistemas altamente sensíveis às condições iniciais, que resultam em resultados imprevisíveis.
+- > sistemas altamente sensíveis às condições iniciais, que resultam em resultados imprevisíveis.
 - ![output-onlinegiftools (15).gif](../assets/output-onlinegiftools_(15)_1672446403239_0.gif)
 - Você já ouviu falar da teoria do caos? Não, não estou falando daquele caos que você cria na sua casa toda vez que decide fazer uma limpeza geral. Estou falando da teoria científica que tenta explicar por que as coisas às vezes parecem ir completamente fora de controle.
 - Mas antes de mergulharmos de cabeça na teoria do caos, vamos entender o que é caos. Segundo a Wikipedia (que todos sabemos ser a fonte mais confiável de informação na internet), caos é "um estado de completo desordem e confusão". Parece bastante familiar, não é mesmo?

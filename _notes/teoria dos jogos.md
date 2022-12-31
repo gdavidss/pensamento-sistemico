@@ -1,7 +1,7 @@
 ---
 ---
 
-- >  A área que estuda como indivíduos tomam decisões.
+- >  a área que estuda como indivíduos tomam decisões.
 - ![Screenshot-at-Dec-26-23-10-46.svg](../assets/Screenshot-at-Dec-26-23-10-46_1672107228907_0.svg){:height 230, :width 308}
 - A teoria dos jogos é uma área da matemática que estuda como indivíduos ou grupos de pessoas tomam decisões em situações em que há conflito de interesses. Ela é utilizada em várias áreas, incluindo economia, política, biologia e até mesmo em relacionamentos pessoais. Está muito relacionada com [[limitação da racionalidade]].
 - A teoria dos jogos foi desenvolvida no final do século XX por matemáticos, economistas e outros cientistas que queriam entender como as pessoas tomam decisões quando há conflito de interesses. O termo "jogo" é usado aqui de forma ampla para se referir a qualquer situação em que as pessoas precisam tomar decisões em que seus interesses não são totalmente alinhados.

@@ -1,7 +1,7 @@
 ---
 ---
 
-- > O todo é mais que a soma das partes.
+- > o todo é mais que a soma das partes.
 - ![cells](../assets/diagram-showing-how-normal-cells-make-up-the-tissue-in-our-body_1_-removebg-preview_1671991478986_0.png)
 - Emergência é a ideia de que, quando componentes são agrupados de determinada forma, novas propriedades ou características podem surgir. Essas propriedades emergentes são resultado da interação entre os componentes do sistema, e podem ser difíceis de prever ou entender apenas observando os componentes por si só.
 - Por exemplo, imagine um conjunto de átomos de hidrogênio e oxigênio, que, quando combinados, formam a molécula de água. A água possui propriedades que não são observadas nos átomos individuais, como a capacidade de dissolver outras substâncias e a mudança de estado (líquido para vapor) em determinadas condições de temperatura e pressão. Essas propriedades emergem da combinação dos átomos, e não são observadas nos átomos individuais.

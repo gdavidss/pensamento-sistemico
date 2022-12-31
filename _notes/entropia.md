@@ -1,7 +1,7 @@
 ---
 ---
 
-- > A quantidade de informação que está faltando.
+- > a quantidade de informação que está faltando.
 - ![output-onlinegiftools (3).gif](../assets/output-onlinegiftools_(3)_1672068776378_0.gif)
 - A entropia é um conceito utilizado em diversas áreas, como [teoria da informação]([[informação]]), termodinâmica estatística e mecânica quântica. Embora essas áreas utilizem a mesma fórmula para a entropia, elas estão medindo conceitos diferentes. Na teoria da informação, a entropia de Shannon mede a quantidade de informação contida em um [[sistema]]. Na termodinâmica estatística, a entropia de Boltzmann mede o número de possíveis arranjos microscópicos, ou microestados, de um sistema que seguem as condições macroscópicas dele. E na mecânica quântica, a entropia de von Neumann mede a incerteza de um observador sobre o estado de um sistema quântico.
 - Existe muita confusão sobre a relação entre entropia e informação, pois elas são frequentemente usadas de forma intercambiável. No entanto, a entropia pode ser vista como uma medida da informação que falta ou está escondida do observador. Por exemplo, na termodinâmica, a entropia reflete a ignorância do observador sobre os microestados de um sistema dado as suas medidas macroscópicas.
