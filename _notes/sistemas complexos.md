@@ -3,7 +3,7 @@
 
 - > partes que se movem e conversam; padrões difíceis de entender.
 - ![ezgif-5-f1c20c653a.gif](../assets/ezgif-5-f1c20c653a_1672448899573_0.gif)
-- Sistemas complexos estão em quase todos os lugares. Se eu te pedisse aqui para nomear ao menos três sistemas complexos que existem a sua volta agora, você certamente não acharia essa uma tarefa arduosa. Sistemas complexos aparecem em plantas, computadores, organizações coletivas, economias humanas, entre muitos outros exemplos.
+- Sistemas complexos estão em quase todos os lugares. Se eu te pedisse aqui para nomear ao menos três sistemas complexos que existem a sua volta agora, você certamente não acharia essa uma tarefa arduosa. Sistemas complexos aparecem em plantas, [computadores]([[computador]]), organizações coletivas, economias humanas, entre muitos outros exemplos.
 - Aliás, não é loucura afirmar que você mesmo é um grande sistema complexo. Um sistema feito de 30 trilhões de células, trabalhando em conjunto sem parar para manter você vivo neste exato momento. Pare para observar quantos [eventos acontecem dentro do seu corpo a cada segundo](https://everysecond.io/your-body).
 - É, tem muita coisa acontecendo o tempo todo. Mas há algo de estranho nisso tudo. Parece que a gente se esquece da [[complexidade]] das coisas a nossa volta ou pouco se importa em parar meditar sobre isso. E assim, levamos vidas diárias em que enxergamos árvores como somente folhas e troncos, pessoas como somente narrativas e memórias, e nações como somente recortes culturais e históricos. E tendo segmentado árvores, pessoas e nações nas partezinhas que nos interessam,
 - Não, nós não podemos entender um sistema complexo segmentando ele de maneira arbitrária. Nós devemos admitir que vivemos mentiras. Nós sabemos pouco sobre árvores, pessoas e nações.
@@ -19,7 +19,7 @@
 	- O principal desafio de quem tenta entender um sistema complexo não é apenas observar as partes que compõe esse sistema. Essa geralmente é a parte fácil. O difícil mesmo é entender como as interações das partezinhas dão origem ao sistema como um todo.
 	- **Exemplos**:
 		- bilhões de neurônios interagindo no cérebro humano
-		- computadores se comunicando na Internet
+		- [computadores]([[computador]]) se comunicando na Internet
 		- humanos em relacionamentos multifacetados.
 - ## **Emergência**
 	- *"O todo é maior do que a soma das partes"*

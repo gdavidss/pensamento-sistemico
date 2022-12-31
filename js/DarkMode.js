@@ -28,12 +28,15 @@ if (!theme) {
 
 function toggleDarkMode(caching=true) {
     const theme = localStorage.getItem("darkMode");
+    // Set the expiration time to 12 hours from now
+    var expiration = new Date().getTime() + 12*60*60*1000;
+
     if (caching) {
       document.body.classList.add("dark-transition");
       if (theme === "dark") {
-        localStorage.setItem("darkMode", "light");
+        localStorage.setItem("darkMode", "light", expiration);
       } else {
-        localStorage.setItem("darkMode", "dark"); 
+        localStorage.setItem("darkMode", "dark", expiration); 
       }
     }
     document.body.classList.toggle("dark");

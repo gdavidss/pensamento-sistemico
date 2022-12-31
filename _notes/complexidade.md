@@ -29,7 +29,7 @@
 - ### **A definição Matemática de complexidade**
 - Uma das primeiras definições formais e mais influentes do que é complexidade foi proposta há 60 anos atrás (ISSO FAZ MUITO POUCO TEMPO, BICHO). Essa definição foi dada por um matemático soviético, chamado [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) e por isso tem o nome especial de [[Complexidade de kolmogorov]]. Essa definição é a seguinte:
 - $$\mathcal{K}(x) = \min_{P}\{l(P)|T_U(P) = x\}$$
-- O que esse troço assustador significa? Significa que: A complexidade de alguma coisa é tamanho do processo (ou programa de computador) mais curto que reconstrói essa coisa.
+- O que esse troço assustador significa? Significa que: A complexidade de alguma coisa é tamanho do processo (ou programa de [[computador]]) mais curto que reconstrói essa coisa.
 - Vamos imaginar dois exemplos que ilustram esse conceito.
 - Imagine que você e seu primo estão fazendo uma brincadeira de adivinhar como o outro criou uma sequência de números. Na primeira rodada, seu primo te dá um papel contendo os seguintes números:
 	- > *0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0*
