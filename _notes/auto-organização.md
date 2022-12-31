@@ -1,4 +1,5 @@
 ---
+title: Auto-organização
 ---
 
 - > a capacidade de um sistema de se auto-organizar

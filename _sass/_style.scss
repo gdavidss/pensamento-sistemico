@@ -85,7 +85,7 @@ body {
     --color-hover-a: purple;
     --color-focus: purple;
     --color-active: red;
-    --color-quote: #212121d3; 
+    --color-quote: #2b2b2bd3; 
     --opacity-inactive: 0.3;
 
     --filter-btn: invert(1);
@@ -202,6 +202,17 @@ a {
 nav {
   margin: 1em 0 3em;
 }
+
+#graph-wrapper {
+  position: relative; /* make #graph-wrapper a positioning context */
+}
+
+#graph-wrapper > #restart-graph-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+} 
 
 #garden-title {
   font-size:20px;   

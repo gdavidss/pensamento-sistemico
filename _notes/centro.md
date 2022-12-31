@@ -8,7 +8,7 @@ permalink: /
 - TODO machine learning
 - [project planning]([[Nov 28th, 2022]])
 - [[sobre]]
-- [[auto-organização]]
+- [[Auto-organização]]
 - [[redes]]
 - [[cibernética]]
 - [[dinâmica não-linear]]

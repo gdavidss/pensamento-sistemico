@@ -3,7 +3,7 @@
 
 - > a capacidade de entender e controlar a própria cognição.
 - ![ermplex1-removebg-preview.png](../assets/ermplex1-removebg-preview_1671901748409_0.png){:height 441, :width 577}
-- A metacognição é a capacidade de entender e controlar o próprio processo de pensamento. Isso inclui definir objetivos, escolher estratégias e avaliar o progresso, bem como adaptar-se a novas situações. É u[[]]ma habilidade fundamental para compreender a realidade.
+- A metacognição é a capacidade de entender e controlar o próprio processo de pensamento. Isso inclui definir objetivos, escolher estratégias e avaliar o progresso, bem como adaptar-se a novas situações. É uma habilidade fundamental para compreender a realidade.
 - Existem várias habilidades metacognitivas, tais como:
 	- • **Planificação**: consiste em definir objetivos e criar um plano para alcançá-los.
 		- e.g., antes de iniciar uma tarefa ou projeto, é importante estabelecer o que se quer alcançar e como se pretende chegar lá.

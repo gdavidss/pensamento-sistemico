@@ -1,6 +1,7 @@
 ---
 ---
 
+-
 - > coisa superestimada.
 - ![ai.svg.gif](../assets/ai.svg_1672102854970_0.gif)
 - Inteligência Artificial (IA) é um termo que se refere ao conjunto de técnicas e tecnologias que permitem a criação de [sistemas]([[sistema]]) capazes de realizar tarefas que normalmente exigem a intervenção humana. A IA é uma área da informática que tem como objetivo criar sistemas que sejam capazes de agir de forma autônoma, adaptando-se a novas situações e aprendendo com experiências passadas.

@@ -1,4 +1,6 @@
 <div id="graph-wrapper">
+  <img title="atalho: r" id="restart-graph-btn" src='../assets/restart.svg' onclick="restart()" > 
+
   <!-- <script src="../js/NotesGraph.js"> </script> -->
   <script>
       var commentFlag = true;
@@ -282,7 +284,9 @@
   
       zoomHandler(svg);
       restart();
-  
+      window.restart = function() {
+        return restart();
+      }
       window.addEventListener('keydown', (event) => {
                 if (event.key === 'r') {
                     restart();

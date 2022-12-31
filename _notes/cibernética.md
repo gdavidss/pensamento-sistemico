@@ -19,5 +19,5 @@ title: cibernética
 	- • [[lei da variedade requerida]]
 	- • [[inteligência artificial]]
 	- • [[sistema]]
-	- • [[auto-organização]]
+	- • [[Auto-organização]]
 	- • [[pensamento sistêmico]]

@@ -1,7 +1,7 @@
 ---
 ---
 
-- > Apenas variedade pode absorver variedade.
+- > apenas variedade pode absorver variedade.
 - ![1635836917588-modified.svg](../assets/1635836917588-modified_1672095192028_0.svg)
 - A lei da variedade requerida, também conhecida como lei de Ashby, é uma das leis fundamentais de quaisquer [[sistema]]. Ela que afirma que, para que um sistema seja estável, o número de estados do mecanismo de controle desse sistema deve ser maior ou igual ao número de estados do sistema controlado. Ou seja, a [[variedade]] é uma medida do número de estados distintos em que um sistema pode estar. Para que um sistema controle outro sistema, ele precisa ter pelo menos tanta variedade distinta quanto o sistema controlado.
 - Para entender melhor a lei, vamos usar um exemplo. Imagine que você tem um fogão com 1000 queimadores e 2 botões. O número de queimadores representa o número de estados do sistema que está sendo controlado (nesse caso, os queimadores), enquanto o número de botões representa o número de estados do mecanismo de controle (nesse caso, os botões do fogão). Com apenas 2 botões, é impossível controlar todos os 1000 queimadores, pois o sistema de controle tem menos estados do que o sistema que está sendo controlado.
