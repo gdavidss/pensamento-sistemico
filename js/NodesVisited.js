@@ -67,7 +67,6 @@ function updateProgressBar() {
 
         if (currentPercentage < 50) {
           progressBar_frac.classList.add("ProgressBar_outside");
-          //progressBar.classList.add("ProgressBar_outside");
         }
 
         if (currentPercentage > 100) {

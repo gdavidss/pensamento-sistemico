@@ -1,3 +1,7 @@
+/* This script file is currently not being used. 
+The corresponding JS are in the html file due to issues with liquid .
+*/
+
 var commentFlag = true;
 let hasLoadedGraph = true;
 
@@ -6,7 +10,7 @@ window.addEventListener("load", initLoad);
 
 function initLoad() {
     /* I really don't understand what this piece of code was for, it was causing a bug 
-    and unnecesarily setting up an  event listener that,
+    and unnecesarily setting up an  event listener that
     loaded the graph every time you scrolled (WTF)
      if (!( document.getElementById("graph-wrapper").getBoundingClientRect().top <
            window.innerHeight * 1.5 &&

@@ -1,13 +1,6 @@
 $border-radius: 4px;
 $transition: 0.3s ease-out;
 
-/*
-@font-face {
-  font-family: "canelatext"; 
-  src: url('../fonts/canela-regular.ttf');
-  font-weight: normal;
-  font-style: normal;
-}*/
 
 @font-face {
   font-family: "SpaceMono";
@@ -25,11 +18,8 @@ $transition: 0.3s ease-out;
 
 $font-family: "SpaceMono";
 
-// $font-family: -apple-system, blinkmacsystemfont, segoe ui, helvetica, arial,
-//  sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
-
 body {
-  // The correct way would be to put this into :root and html[data-theme="dark"]
+  // The correct way would be to put this into :root and html[data-theme="dark"]... but i am lazy
   -—color-primary: #32322f;
   --color-text: #32322f;
   --color-a: blue;
@@ -108,14 +98,6 @@ time {
   display: block;
   margin: 0.5em 0 1em;
 }
-
-/*
-footer {
-  margin: 2em 0;
-  font-size: 0.8em;
-  color: mix($color-text, white, 80%);
-  padding-top: 1em;
-}*/
 
 img {
   max-width: 100%;
@@ -256,7 +238,9 @@ ul {
   }
 }
 
-/* .backlink-box {
+/* 
+this was for backlinks (notas conectadas), but it's been deactivated
+.backlink-box {
   color:#545454;
   background: $color-box-background;
   padding: 1em;

@@ -1,7 +1,6 @@
 <div id="graph-wrapper">
   <img title="atalho: r" id="restart-graph-btn" src='../assets/restart.svg' onclick="restart()" > 
 
-  <!-- <script src="../js/NotesGraph.js"> </script> -->
   <script>
       var commentFlag = true;
   let hasLoadedGraph = true;
@@ -10,12 +9,11 @@
   
   function loadGraph() {
     /* I really don't understand what this piece of code was for, it was causing a bug 
-    and unnecesarily setting up an  event listener that,
-    loaded the graph every time you scrolled (WTF)
+    and unnecesarily setting up an event listener that loaded 
+    the graph every time you scrolled (WTF)
      if (!( document.getElementById("graph-wrapper").getBoundingClientRect().top <
            window.innerHeight * 1.5 &&
         commentFlag)){
-      console.log("im here bro")
       return;
     } */
   
