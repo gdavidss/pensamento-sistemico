@@ -21,6 +21,6 @@ Isto construirá o site e iniciará um servidor local em http://localhost:4000/.
 
 ## Licença
 
-Esse projeto foi construído em cima do projeto Zettelgarden, de Maxime Vaillancourt.
+Esse projeto foi construído em cima do projeto [Zettelgarden](https://github.com/maximevaillancourt/digital-garden-jekyll-template/commits?author=maximevaillancourt), de Maxime Vaillancourt.
 
 O código fonte está disponível com base na [Licença MIT](LICENSE.md).
