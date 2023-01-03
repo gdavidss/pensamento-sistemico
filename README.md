@@ -3,7 +3,7 @@
 Antes de poder executar este site localmente, você precisará instalar algumas dependências:
 
 - [Ruby](https://www.ruby-lang.org/en/downloads/): Jekyll é construído em Ruby, então você precisará tê-lo instalado em sua máquina.
-- [Bundler](https://bundler.io/): Bundler é uma jóia Ruby que gerencia as dependências para um projeto Ruby. É utilizado para instalar e executar o Jekyll.
+- [Bundler](https://bundler.io/): Bundler é uma gema Ruby que gerencia as dependências para um projeto Ruby. É utilizado para instalar e executar o Jekyll.
 
 ## Instalação
 
