@@ -14,7 +14,7 @@
 - ### quem diabos é você afinal?
 - ![image (13).png](../assets/image_(13)_1672172000775_0.png)
 - Eu sou um nerdola chamado Gui David. Eu faço graduação em Ciência da Computação na Universidade de Stanford. Sou de Cubatão, no Litoral de São Paulo. Eu sou movido por compaixão, curiosidade e cibernética. Eu amo conhecer pessoas interessantes. Se você quiser falar comigo, me mande uma mensagem em minhas redes sociais:
-	- [LinkedIn](https://LinkedIn.com/gdavidss)
+	- [LinkedIn](https://LinkedIn.com/in/gdavidss)
 	- [Instagram](https://Instagram.com/sinalalgedonico)
 - ### aviso epistêmico
 - Eu não me considero expert em nenhum dos conceitos aqui escritos. Este projeto é a minha forma de aprofundar o meu próprio conhecimento. Todas as notas são um projeto em andamento. Assim, é possível que algumas explicações contenham erros de entendimento ou equívocos por minha parte. No entanto, eu continuamente me esforçarei para corrigir quaisquer equívocos que eu tenha feito.
