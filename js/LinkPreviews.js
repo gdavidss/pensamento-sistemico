@@ -90,3 +90,5 @@ tooltipWrapper.addEventListener('mouseenter', function(event) {
     clearTimeout(contentTimeout);
 });
 }
+
+
