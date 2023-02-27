@@ -4,6 +4,7 @@
 - > a capacidade de entender e controlar a própria cognição.
 - ![ermplex1-removebg-preview.png](../assets/ermplex1-removebg-preview_1671901748409_0.png){:height 441, :width 577}
 - A metacognição é a capacidade de entender e controlar o próprio processo de pensamento. Isso inclui definir objetivos, escolher estratégias e avaliar o progresso, bem como adaptar-se a novas situações. É uma habilidade fundamental para compreender a realidade.
+- De acordo com Foundations of Metacognition, metacognição está diretamente relacionado a três processos cognitivos: atenção, tomada de decisões e [[memória de trabalho]].
 - Existem várias habilidades metacognitivas, tais como:
 	- • **Planificação**: consiste em definir objetivos e criar um plano para alcançá-los.
 		- e.g., antes de iniciar uma tarefa ou projeto, é importante estabelecer o que se quer alcançar e como se pretende chegar lá.
@@ -17,4 +18,11 @@
 	- **• Reflexão sobre o próprio processo de aprendizagem:** é importante parar de vez em quando durante o processo de prendizagem para avaliar se estamos compreendendo o conteúdo e se estamos no caminho certo para atingir nossos objetivos.
 	- **• Uso de perguntas para orientar o pensamento:** fazer perguntas durante a leitura ou ao ouvir uma explicação pode ajudar a focar a atenção e a compreender melhor o conteúdo.
 	- **• Diálogo com outras pessoas sobre o conhecimento adquirido:** discutir o que aprendemos com outras pessoas pode nos ajudar a compreender melhor o assunto e a ter uma perspectiva diferente.
-- Em conclusão, a metacognição é importante para sermos mais eficientes e efetivos em nossa compreensão da realidade, pois nos ajuda a planejar, organizar e avaliar o processo de aprendizagem. Isso nos permite compreender melhor o conteúdo e lembrá-lo por mais tempo, além de nos permitir adaptar nossas estratégias de aprendizagem e identificar problemas ou dificuldades. É uma habilidade fundamental para ser desenvolvida ao longo da vida.
+- **7 questões para praticar metacognição:**
+	- O que devo fazer primeiro?
+	- Há algo confuso para mim?
+	- Pode explicar o que eu aprendi?
+	- Devo pedir ajuda extra?
+	- Por que me enganei nesta resposta?
+	- Posso aplicar isto em contextos diferentes?
+	- Como posso fazer melhor da próxima vez?

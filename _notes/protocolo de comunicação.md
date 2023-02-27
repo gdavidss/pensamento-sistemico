@@ -1,0 +1,12 @@
+---
+---
+
+- > regras para troca de [[informação]] entre [sistemas]([[sistema]]).
+- ![Message_flows.svg.png](../assets/Message_flows.svg_1677482886788_0.png){:height 338, :width 354}
+- Um protocolo de comunicação é um tipo de [[protocolo]] que governa a troca de informações diferentes sistemas.
+- Existem muitos tipos diferentes de protocolos de comunicação, cada um com suas próprias características e finalidades específicas. Alguns exemplos comuns incluem:
+	- • **Protocolo de comunicação entre animais:** muitos animais têm protocolos de comunicação complexos que lhes permitem se comunicar entre si. Por exemplo, as abelhas dançam de uma maneira particular para comunicar a localização de fontes de alimento para outras abelhas da colmeia.
+	- • **Protocolo de Transferência de Hipertexto (HTTP)**: usado para comunicação entre navegadores e servidores da web, o Protocolo de Transferência de Arquivos (FTP), que é usado para transferir arquivos entre computadores em uma rede
+	- • **Protocolos de comunicação em sistemas de telecomunicações**: como o Protocolo de Sinalização de Canal Comum No. 7 (SS7), que é usado para gerenciar chamadas telefônicas e serviços em redes de telefonia fixa e móvel.
+	- • **Protocolo de comunicação entre dispositivos médicos:** em ambientes médicos, como hospitais, muitos dispositivos precisam se comunicar entre si para monitorar o estado do paciente e fornecer tratamento. Para isso, são usados protocolos de comunicação específicos, como o Health Level Seven (HL7), que permite que dispositivos médicos diferentes se comuniquem e troquem informações.
+	- • **Protocolo de Controle de Transmissão/Protocolo de Internet (TCP/IP)**, que é um conjunto de protocolos que é usado como a base da Internet.
