@@ -5,7 +5,6 @@ id: home
 permalink: /
 ---
 
-- [project planning]([[Nov 28th, 2022]])
 - [[sobre]]
 - [[Auto-organização]]
 - [[redes]]
